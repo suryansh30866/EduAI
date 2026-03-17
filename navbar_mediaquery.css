@@ -1,0 +1,223 @@
+/* ============================================================
+   NAVBAR RESPONSIVE MEDIA QUERIES
+   Mobile-First Responsive Navigation
+============================================================ */
+
+/* ============================================================
+   MOBILE — Small Phones (max-width: 768px)
+============================================================ */
+@media (max-width: 768px) {
+  /* Navbar Container */
+  .nav-sub {
+    height: 56px !important;
+    padding: 0 12px !important;
+    gap: 8px !important;
+  }
+  
+  /* Brand/Logo */
+  .nav-brand {
+    font-size: 13px !important;
+    gap: 6px !important;
+    flex-shrink: 0;
+  }
+  
+  .nav-logo-fallback {
+    width: 28px !important;
+    height: 28px !important;
+    font-size: 12px !important;
+  }
+  
+  /* Navigation Tabs - HIDE by default on mobile */
+  .nav-tabs {
+    display: none !important;
+    position: absolute !important;
+    top: 56px !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    height: auto !important;
+    background: rgba(255, 255, 255, 0.98) !important;
+    backdrop-filter: blur(10px) !important;
+    border-bottom: 1px solid var(--line) !important;
+    flex-direction: column !important;
+    gap: 0 !important;
+    padding: 8px 12px !important;
+    margin: 0 !important;
+    z-index: 100 !important;
+    flex: none !important;
+    overflow-y: auto !important;
+    max-height: calc(100vh - 56px) !important;
+  }
+  
+  /* Show tabs when menu is open */
+  .nav-tabs.mobile-visible {
+    display: flex !important;
+  }
+  
+  .sub-tab {
+    padding: 10px 12px !important;
+    font-size: 13px !important;
+    border-radius: 6px !important;
+    text-align: left !important;
+    width: 100% !important;
+    margin: 4px 0 !important;
+  }
+  
+  .sub-tab:hover {
+    background: rgba(0, 0, 0, 0.05) !important;
+  }
+  
+  /* Action Buttons */
+  .nav-actions {
+    display: flex !important;
+    gap: 4px !important;
+    flex-shrink: 0;
+  }
+  
+  .nav-actions .btn-ghost {
+    display: none !important;
+  }
+  
+  .nav-actions .btn-fill {
+    padding: 6px 12px !important;
+    font-size: 12px !important;
+    border-radius: 6px !important;
+  }
+  
+  .nav-actions .btn-fill svg {
+    width: 10px !important;
+    height: 10px !important;
+  }
+  
+  /* Mobile Menu Toggle Button */
+  .nav-menu-toggle {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 36px !important;
+    height: 36px !important;
+    padding: 0 !important;
+    background: transparent !important;
+    border: 1.5px solid var(--line) !important;
+    border-radius: 6px !important;
+    cursor: pointer !important;
+    color: var(--ink) !important;
+    font-size: 18px !important;
+    flex-shrink: 0 !important;
+    transition: all 0.2s !important;
+  }
+  
+  .nav-menu-toggle:active {
+    background: var(--bg) !important;
+  }
+  
+  .nav-menu-toggle.active {
+    background: var(--ink) !important;
+    color: white !important;
+  }
+}
+
+/* ============================================================
+   TABLET & ABOVE (min-width: 769px)
+============================================================ */
+@media (min-width: 769px) {
+  /* Show everything on larger screens */
+  .nav-sub {
+    height: 64px !important;
+    padding: 0 40px !important;
+    gap: 40px !important;
+  }
+  
+  .nav-brand {
+    font-size: 17px !important;
+    gap: 10px !important;
+  }
+  
+  .nav-logo-fallback {
+    width: 34px !important;
+    height: 34px !important;
+    font-size: 16px !important;
+  }
+  
+  .nav-tabs {
+    display: flex !important;
+    gap: 8px !important;
+    flex: 1 !important;
+    justify-content: center !important;
+    overflow: visible !important;
+    position: static !important;
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    height: auto !important;
+  }
+  
+  .sub-tab {
+    padding: 9px 18px !important;
+    font-size: 14px !important;
+    width: auto !important;
+    margin: 0 !important;
+  }
+  
+  .nav-actions {
+    display: flex !important;
+    gap: 10px !important;
+  }
+  
+  .nav-actions .btn-ghost {
+    display: inline-flex !important;
+    padding: 8px 18px !important;
+    font-size: 14px !important;
+  }
+  
+  .nav-actions .btn-fill {
+    display: inline-flex !important;
+    padding: 8px 20px !important;
+    font-size: 14px !important;
+  }
+  
+  /* Hide menu toggle on desktop */
+  .nav-menu-toggle {
+    display: none !important;
+  }
+}
+
+/* ============================================================
+   TOUCH DEVICES (Mobile & Tablet)
+============================================================ */
+@media (hover: none) and (pointer: coarse) {
+  .sub-tab,
+  .nav-actions .btn-ghost,
+  .nav-actions .btn-fill,
+  .nav-menu-toggle {
+    min-height: 44px !important;
+    display: flex !important;
+    align-items: center !important;
+  }
+}
+
+/* ============================================================
+   LANDSCAPE MOBILE
+============================================================ */
+@media (max-width: 768px) and (max-height: 500px) {
+  .nav-sub {
+    height: 48px !important;
+  }
+  
+  .nav-tabs {
+    top: 48px !important;
+  }
+}
+
+/* ============================================================
+   REDUCED MOTION
+============================================================ */
+@media (prefers-reduced-motion: reduce) {
+  .nav-sub,
+  .nav-tabs,
+  .sub-tab,
+  .nav-menu-toggle {
+    transition: none !important;
+  }
+}
+
