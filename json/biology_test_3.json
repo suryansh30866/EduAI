@@ -1,0 +1,632 @@
+[
+  {
+    "id": "ubio-1", "section": "biology",
+    "question": "In the oxygen-evolving complex (OEC) of PSII, the metal cluster responsible for water oxidation contains:",
+    "options": ["4 Mn ions + 1 Ca ion arranged as Mn₄CaO₅ cluster", "2 Fe ions + 2 Cu ions", "4 Fe ions in a ferredoxin cluster", "1 Mg ion coordinated to chlorophyll"],
+    "correct": 0,
+    "explanation": "The OEC (also called Mn₄CaO₅ cluster or CaMn₄O₅) cycles through 5 oxidation states (S0→S4) called Kok's S-states. At S4, two water molecules are oxidized releasing O₂, 4H⁺, and 4e⁻. The Ca²⁺ ion is essential for water binding and cannot be substituted."
+  },
+  {
+    "id": "ubio-2", "section": "biology",
+    "question": "The Q-cycle in the Cyt b6f complex during photosynthesis results in:",
+    "options": ["Transfer of 1 electron but pumping of 2H⁺ across thylakoid membrane per electron from PQ to PC", "Direct reduction of NADP⁺ by plastoquinol", "Synthesis of ATP by substrate-level phosphorylation", "Reduction of ferredoxin by plastocyanin"],
+    "correct": 0,
+    "explanation": "The Q-cycle (Mitchell's Q-cycle) in the Cyt b6f complex allows 2H⁺ to be translocated into the thylakoid lumen per electron transferred from PQH₂ to plastocyanin, effectively doubling the proton pumping efficiency for the same number of electrons."
+  },
+  {
+    "id": "ubio-3", "section": "biology",
+    "question": "Rubisco oxygenase activity leads to 2-phosphoglycolate. The complete photorespiratory pathway for recycling this compound requires cooperation between:",
+    "options": ["Chloroplast, peroxisome, and mitochondria — losing 1 CO₂ and 1 NH₃ per 2 glycolate processed", "Only chloroplasts", "Vacuole and cytoplasm", "Endoplasmic reticulum and Golgi"],
+    "correct": 0,
+    "explanation": "Photorespiration: 2-phosphoglycolate (chloroplast) → glycolate → glyoxylate → glycine (peroxisome) → serine + CO₂ + NH₃ released (mitochondria) → glycerate (peroxisome) → 3-PGA (chloroplast). Net: 2 glycolate → 1 3-PGA, releasing 1 CO₂ and 1 NH₃, consuming ATP and NADPH."
+  },
+  {
+    "id": "ubio-4", "section": "biology",
+    "question": "In CAM plants, the temporal separation of CO₂ fixation occurs because:",
+    "options": ["PEP carboxylase fixes CO₂ to PEP at NIGHT forming OAA → malate (stored in vacuole); DAY: stomata close, malate decarboxylated, released CO₂ fixed by RuBisCO in Calvin cycle", "RuBisCO operates only at night", "Stomata open only during the day for CO₂ and C4 pathway runs at night", "CAM plants fix CO₂ only via C3 pathway during both day and night"],
+    "correct": 0,
+    "explanation": "CAM (Crassulacean Acid Metabolism): Night — stomata open, PEP carboxylase fixes CO₂ to form OAA → malic acid stored in vacuole. Day — stomata close (prevents water loss), malate released from vacuole, decarboxylated to release CO₂ for Calvin cycle. This temporal separation allows desert plants to save water."
+  },
+  {
+    "id": "ubio-5", "section": "biology",
+    "question": "The 'antenna complex' in photosystems differs from the 'reaction center' in that:",
+    "options": ["Antenna complexes harvest light energy and transfer exciton energy to the reaction center via resonance energy transfer (Förster mechanism) WITHOUT electron transfer; reaction center performs photochemistry by actual charge separation", "Antenna complexes perform charge separation while reaction centers only absorb light", "Antenna complexes contain only carotenoids while reaction centers contain only chlorophyll", "Both perform identical functions"],
+    "correct": 0,
+    "explanation": "Antenna (light-harvesting) complexes (LHC-I, LHC-II) contain many chlorophyll and carotenoid molecules. They absorb photons and transfer energy via resonance (exciton transfer) to the special pair at the reaction center (P680 in PSII, P700 in PSI). Only at the reaction center does actual photochemistry (charge separation, electron ejection) occur."
+  },
+  {
+    "id": "ubio-6", "section": "biology",
+    "question": "During protein synthesis, the peptidyl transferase center (PTC) is composed of:",
+    "options": ["23S rRNA (in prokaryotes) — the ribosome is a ribozyme; the nearest ribosomal proteins are >18Å away from the catalytic site", "Ribosomal proteins L2 and L3 which are the true enzymes", "Both 16S and 23S rRNA equally contribute to catalysis", "Elongation factor EF-Tu which acts as the transferase"],
+    "correct": 0,
+    "explanation": "The Nobel Prize 2009 (Ramakrishnan, Steitz, Yonath) confirmed the ribosome is a ribozyme. The PTC in the 23S rRNA (50S subunit) catalyzes peptide bond formation. The nearest proteins are >18Å away — too far to be involved in catalysis. The 2'-OH of A76 of the P-site tRNA acts as a proton shuttle."
+  },
+  {
+    "id": "ubio-7", "section": "biology",
+    "question": "The 'kinetic proofreading' mechanism in aminoacyl-tRNA synthetases (aaRS) involves:",
+    "options": ["A separate editing active site (CP1 domain) that hydrolyzes misaminoacylated tRNAs after initial charging, requiring ATP hydrolysis and achieving error rates of ~1/10,000", "Direct reading of mRNA codons by the aaRS enzyme", "Post-translational removal of wrong amino acids from proteins", "Editing only occurs in eukaryotes, not prokaryotes"],
+    "correct": 0,
+    "explanation": "aaRS have two-step proofreading: (1) Pretransfer editing — misactivated amino acyl-AMP is hydrolyzed before transfer to tRNA. (2) Post-transfer editing (in CP1 domain) — misaminoacylated tRNA is cleaved. This double-sieve mechanism reduces errors to ~1 per 10,000. Class I aaRS charge tRNA at 2'-OH; Class II at 3'-OH."
+  },
+  {
+    "id": "ubio-8", "section": "biology",
+    "question": "In eukaryotic transcription, the TATA box is recognized by:",
+    "options": ["TBP (TATA-binding protein), a subunit of TFIID, which binds in the minor groove and severely bends DNA ~80°, nucleating pre-initiation complex (PIC) formation on RNA Pol II promoters", "RNA Polymerase II directly", "TFIIB independently", "Sigma factor (σ⁷⁰) as in prokaryotes"],
+    "correct": 0,
+    "explanation": "TBP (TATA-Binding Protein) is a universal transcription factor that binds the minor groove of the TATA box (TATAAA) and induces ~80° bend in DNA. TBP is part of TFIID. Assembly order: TFIID → TFIIA/TFIIB → RNA Pol II/TFIIF → TFIIE → TFIIH. TFIIH has helicase activity (XPB/XPD subunits) to melt DNA at transcription start."
+  },
+  {
+    "id": "ubio-9", "section": "biology",
+    "question": "The mechanism of RNA splicing by the spliceosome involves:",
+    "options": ["Two transesterification reactions: (1) 2'-OH of branch point A attacks 5' splice site; (2) 3'-OH of freed exon attacks 3' splice site — releasing lariat intron, no net energy consumed", "Hydrolysis requiring ATP at each step", "Endonuclease cuts both splice sites simultaneously then ligase joins exons", "Self-splicing without any protein or snRNA"],
+    "correct": 0,
+    "explanation": "Spliceosome catalysis: Step 1 — 2'-OH of the branch-point adenosine (within intron) attacks the 5' splice site phosphodiester bond (transesterification), forming lariat intermediate + free 5' exon. Step 2 — 3'-OH of freed 5' exon attacks 3' splice site, joining exons and releasing lariat intron. No net energy consumed (both are transesterifications). snRNAs (U1,U2,U4,U5,U6) are catalytic."
+  },
+  {
+    "id": "ubio-10", "section": "biology",
+    "question": "Negative supercoiling ahead of the replication fork is relaxed by:",
+    "options": ["Topoisomerase II (DNA gyrase in bacteria) which introduces negative supercoils using ATP, while Topoisomerase I relaxes without ATP by transiently cutting one strand", "Helicase which simultaneously relaxes supercoils", "DNA Pol III which has topoisomerase activity", "Single-stranded binding proteins (SSBPs)"],
+    "correct": 0,
+    "explanation": "Unwinding by helicase causes positive supercoiling AHEAD of the fork (overwound DNA). Topoisomerase I (type IB) relaxes by cutting one strand, rotating, religating — no ATP. Topoisomerase II (gyrase in E. coli) cuts both strands, passes another double strand through, religates — uses ATP. Gyrase introduces negative supercoils to counteract positive supercoiling ahead."
+  },
+  {
+    "id": "ubio-11", "section": "biology",
+    "question": "The SOS response in E. coli is induced by DNA damage and involves:",
+    "options": ["RecA protein activated by ssDNA binding, which then stimulates autocleavage of LexA repressor, derepressing ~40 SOS genes including umuC, umuD (encoding error-prone polymerase Pol V)", "Direct activation of DNA repair enzymes by the damaged DNA", "Induction of restriction endonucleases to destroy damaged DNA", "Activation of apoptosis-like programmed cell death"],
+    "correct": 0,
+    "explanation": "SOS response: DNA damage → ssDNA accumulates → RecA*-ssDNA filament forms → RecA* stimulates LexA autocleavage → ~40 SOS genes induced. Products include: Pol V (UmuD'₂C) for translesion synthesis (error-prone), RecA for recombination repair, UvrABC excision nuclease, SulA (inhibits FtsZ cell division). LexA repressor normally binds SOS box (operator)."
+  },
+  {
+    "id": "ubio-12", "section": "biology",
+    "question": "In meiosis, the synaptonemal complex (SC) is a proteinaceous structure composed of:",
+    "options": ["Two lateral elements (SYCP3/SYCP2) flanking the two homologs, connected by transverse filaments (SYCP1) and a central element — assembled during zygotene, disassembles at diplotene", "Only SYCP1 forming a simple zipper", "Histones H2A and H2B forming the scaffold", "DNA itself forming a rigid ladder structure"],
+    "correct": 0,
+    "explanation": "The SC has a tripartite structure: Two lateral elements (LE) — composed of SYCP2 and SYCP3 — are associated with each homolog's axis. They are connected by transverse filaments (SYCP1) meeting at a central element (CE). SC forms at zygotene (synapsis), present at pachytene (crossing over in context of SC), disassembles at diplotene. SC is essential for meiotic crossover maturation."
+  },
+  {
+    "id": "ubio-13", "section": "biology",
+    "question": "Genomic imprinting results in parent-of-origin-specific gene expression because:",
+    "options": ["Differential DNA methylation at imprinting control regions (ICRs) established in the germline is maintained through development — paternal ICR and maternal ICR carry different methylation patterns affecting enhancer access or CTCF binding", "Random X-inactivation in females", "All paternal chromosomes are always expressed", "Imprinting only occurs in plants, not mammals"],
+    "correct": 0,
+    "explanation": "Imprinted genes have differential methylation marks (imprints) established in the male or female germline at ICRs. After fertilization, these marks are maintained despite genome-wide demethylation. Classic examples: IGF2 (expressed from paternal allele), H19 (expressed from maternal allele). CTCF binding the unmethylated maternal ICR insulates IGF2 from enhancers. Disruption causes Prader-Willi/Angelman syndromes."
+  },
+  {
+    "id": "ubio-14", "section": "biology",
+    "question": "The concept of 'neutral theory of molecular evolution' (Kimura, 1968) proposes that:",
+    "options": ["Most molecular changes fixed in evolution are selectively NEUTRAL (neither beneficial nor harmful); fixation rate = mutation rate (μ), and genetic drift is the primary force fixing neutral alleles — NOT natural selection", "All mutations are beneficial and fixed by positive selection", "All mutations are harmful and eliminated by purifying selection", "Only synonymous mutations are neutral; all non-synonymous mutations are selected"],
+    "correct": 0,
+    "explanation": "Kimura's Neutral Theory: Most amino acid substitutions and nucleotide changes fixed during evolution are neutral. Fixation probability of a new neutral mutation = 1/2N. Fixation rate = μ (mutation rate), independent of population size. Explains molecular clock (constant substitution rate). Most mutations are either neutral or deleterious; beneficial mutations are rare. Synonymous > non-synonymous substitution rates support neutrality."
+  },
+  {
+    "id": "ubio-15", "section": "biology",
+    "question": "In the Lac operon, the regulatory sequence that binds CAP-cAMP complex to enhance transcription is located:",
+    "options": ["Upstream of the lac promoter at position -61 to -41 (CAP site); binding bends DNA ~90° and directly contacts the C-terminal domain of RNA polymerase α subunit (αCTD), recruiting RNAP", "Within the structural genes", "At the operator (O1) region", "At the 3' end of the operon"],
+    "correct": 0,
+    "explanation": "The CAP (CRP) binding site in the lac operon is at position -61 to -41 relative to the transcription start site. CAP-cAMP bends DNA ~90°. The activation loop of CAP directly contacts the αCTD (C-terminal domain of the α subunit of RNA polymerase), stimulating transcription ~50-fold. There are 3 operator sites: O1 (primary, -11 to +21), O2 (+412), O3 (-82). DNA looping between O1 and O2/O3 with bound repressor increases repression ~1000-fold."
+  },
+  {
+    "id": "ubio-16", "section": "biology",
+    "question": "In X-chromosome inactivation (Lyon hypothesis), the XIST RNA molecule inactivates the X chromosome by:",
+    "options": ["Coating the inactive X chromosome in cis, recruiting Polycomb Repressive Complexes (PRC1, PRC2) leading to H3K27me3 and H2AK119ub1 modifications, DNA methylation, and formation of Barr body", "Directly methylating DNA on the X chromosome", "Producing antisense RNA that blocks transcription of all X-linked genes", "Inducing histone acetylation on the inactive X"],
+    "correct": 0,
+    "explanation": "XIST (X-Inactive Specific Transcript) is a lncRNA transcribed from the Xi. It coats the Xi in cis (spreading from XIC — X-inactivation center). XIST recruits PRC2 (which deposits H3K27me3 via EZH2) and PRC1 (which deposits H2AK119ub1). Additional marks: H3K9me2, DNA methylation at promoters. The Xi forms the Barr body (condensed heterochromatin). TSIX is antisense to XIST and represses it on Xa."
+  },
+  {
+    "id": "ubio-17", "section": "biology",
+    "question": "The 'position effect variegation' (PEV) in Drosophila demonstrates that:",
+    "options": ["Heterochromatin can spread from its normal location and silence euchromatic genes in a stochastic cell-by-cell manner, suppressed by more copies of HP1 gene and enhanced by histone deacetylase mutations", "Euchromatin always converts heterochromatin", "Gene expression depends only on the DNA sequence, not chromosomal position", "PEV occurs only at centromeric regions and never affects gene expression"],
+    "correct": 0,
+    "explanation": "PEV occurs when a gene (e.g., white gene for eye color in Drosophila) is translocated near heterochromatin via inversion. Heterochromatin spreading silences the gene in some cells but not others — variegated phenotype (patches of red and white in eye). More HP1 (Su(var)205) = more spreading = more silencing. Mutations in histone deacetylases or Su(var) genes suppress PEV. Demonstrates epigenetic spread of chromatin states."
+  },
+  {
+    "id": "ubio-18", "section": "biology",
+    "question": "In CRISPR-Cas9 genome editing, the Cas9 protein creates a blunt-ended double-strand break (DSB) at a sequence specified by the guide RNA, and the DNA is subsequently repaired by:",
+    "options": ["NHEJ (error-prone, causing indels/knockout) or HDR (if a repair template is provided, enabling precise edits) — both pathways compete, with NHEJ dominant in most mammalian somatic cells", "Only base excision repair (BER)", "RecA-mediated strand exchange only", "Mismatch repair correcting the Cas9-induced mismatch"],
+    "correct": 0,
+    "explanation": "After Cas9 cuts (RuvC domain cuts non-template strand, HNH domain cuts template strand, 3bp upstream of PAM sequence), two repair pathways compete: (1) NHEJ — fast, error-prone, causes insertions/deletions (indels), used for gene knockout. (2) HDR — slow, high-fidelity, requires a homologous template, used for precise gene correction/insertion. In dividing cells: HDR available in S/G2. Somatic cells: NHEJ dominant. Base editors and prime editors avoid DSBs."
+  },
+  {
+    "id": "ubio-19", "section": "biology",
+    "question": "The enzyme telomerase is a reverse transcriptase that carries its own RNA template. In humans, the RNA template (TERC) sequence 3'-AAUCCC-5' directs synthesis of the telomeric repeat:",
+    "options": ["5'-TTAGGG-3' added to the 3' end of the chromosome; after each synthesis step, the enzyme translocates and repeats — extending the G-rich strand, followed by C-strand synthesis by regular DNA polymerase using the extended G-strand as template", "3'-AATCCC-5' added to both strands simultaneously", "TTAGGG added to the 5' end of chromosomes", "Telomerase works without any RNA template"],
+    "correct": 0,
+    "explanation": "Telomerase mechanism: TERC (RNA template: 3'-AAUCCC-5') anneals to the 3'-TTAGGG overhang. TERT (reverse transcriptase) synthesizes 5'-TTAGGG-3' using TERC as template. Telomerase translocates, repeating this process. The G-rich 3' overhang is extended. Then primase + DNA Pol α synthesize the complementary C-strand, followed by maturation. Telomerase is active in stem cells, germ cells, and 85% of cancers."
+  },
+  {
+    "id": "ubio-20", "section": "biology",
+    "question": "The signaling cascade downstream of the epidermal growth factor receptor (EGFR) involves:",
+    "options": ["EGF binding → EGFR dimerization and autophosphorylation → Grb2/SOS recruitment → Ras-GTP activation → Raf → MEK → ERK (MAPK cascade) → gene expression changes in nucleus", "EGF directly enters the nucleus and activates transcription factors", "EGFR activates adenylyl cyclase to produce cAMP", "EGFR is a nuclear receptor that binds EGF in the nucleus"],
+    "correct": 0,
+    "explanation": "EGFR signaling: EGF binds → EGFR homo/heterodimerizes → transautophosphorylation of cytoplasmic tyrosine residues → phospho-Tyr recruits Grb2 (via SH2 domain) → Grb2-SOS complex → SOS is GEF for Ras → Ras-GDP → Ras-GTP → activates Raf (MAPKKK) → MEK (MAPKK) → ERK (MAPK) → ERK enters nucleus → phosphorylates transcription factors (Elk-1, Fos) → proliferation genes."
+  },
+  {
+    "id": "ubio-21", "section": "biology",
+    "question": "The intrinsic pathway of apoptosis is triggered by:",
+    "options": ["Mitochondrial outer membrane permeabilization (MOMP) controlled by Bcl-2 family proteins (pro-apoptotic: Bax/Bak; anti-apoptotic: Bcl-2/Bcl-xL) releasing cytochrome c → apoptosome → caspase-9 → caspase-3 activation", "Death receptor TNFR1 directly activating caspase-8 only", "Caspase-8 directly cleaving mitochondria", "Cytochrome c being released by perforin from NK cells"],
+    "correct": 0,
+    "explanation": "Intrinsic pathway: Cellular stress (DNA damage, oxidative stress) → BH3-only proteins (Bid, Bad, Puma, Noxa) activated → inhibit anti-apoptotic Bcl-2/Bcl-xL → Bax/Bak oligomerize → MOMP → cytochrome c released into cytoplasm → forms apoptosome with Apaf-1 and procaspase-9 (heptameric 'wheel') → caspase-9 activated → cleaves procaspase-3/7 (executioner caspases) → apoptosis. IAPs inhibit caspases; SMAC/DIABLO released from mitochondria inhibits IAPs."
+  },
+  {
+    "id": "ubio-22", "section": "biology",
+    "question": "MHC restriction, discovered by Zinkernagel and Doherty (Nobel 1996), means:",
+    "options": ["T cells recognize antigen ONLY when presented as peptide fragments bound to self-MHC molecules — CD8+ cells recognize peptide+MHC-I (endogenous antigens), CD4+ recognize peptide+MHC-II (exogenous antigens)", "T cells can recognize free antigens circulating in blood", "MHC molecules present entire proteins not peptides", "B cells require MHC restriction while T cells do not"],
+    "correct": 0,
+    "explanation": "MHC restriction: TCR recognizes dual ligand — processed peptide (8-10 aa for MHC-I, 13-25 aa for MHC-II) bound to MHC groove. MHC-I (expressed on all nucleated cells): presents endogenous peptides via proteasome → TAP → ER loading. MHC-II (expressed on APCs): presents exogenous peptides via lysosomal degradation, CLIP displaced by HLA-DM. Cross-presentation (MHC-I presenting exogenous antigens) also occurs in dendritic cells."
+  },
+  {
+    "id": "ubio-23", "section": "biology",
+    "question": "In complement system, the membrane attack complex (MAC) is formed by:",
+    "options": ["C5b + C6 + C7 + C8 + multiple C9 molecules (C9 polymerizes to form a pore ~10nm diameter in target membrane) — MAC (C5b-9) causes osmotic lysis", "C3b coating the bacterium for opsonization only", "C1q activating the classical pathway", "All complement proteins forming a single spike"],
+    "correct": 0,
+    "explanation": "MAC assembly: C5b (from C5 cleavage) + C6 → C5b6 + C7 → C5b67 (membrane-associating) + C8 → C5b678 (partial insertion) + C9 (12-18 molecules polymerize) → MAC pore (~10nm, amphipathic β-barrel). MAC dissipates transmembrane ion gradients causing osmotic lysis. CD59 (protectin) on host cells inhibits C9 polymerization. PNH (paroxysmal nocturnal hemoglobinuria) — loss of CD59/DAF leads to complement attack on own RBCs."
+  },
+  {
+    "id": "ubio-24", "section": "biology",
+    "question": "The pressure-flow hypothesis (Münch model) of phloem transport requires:",
+    "options": ["A hydrostatic pressure gradient generated by active sucrose loading in source sieve elements (high osmotic potential → water entry → high turgor) and unloading at sink (low turgor), driving bulk flow of solutes", "Active transport of sugars through every sieve element by ATP-powered pumps", "Electroosmosis driven by K⁺ gradients through sieve plates", "Transpiration pull extended to phloem vessels"],
+    "correct": 0,
+    "explanation": "Münch pressure-flow: Source (leaf) — sucrose actively loaded into phloem via H⁺/sucrose symporters → ↓ osmotic potential → water enters from xylem → ↑ turgor pressure. Sink (root, fruit) — sucrose unloaded → ↑ osmotic potential → water leaves phloem → ↓ turgor. The turgor pressure difference drives bulk flow from source to sink. Sieve plates have large pores (>1μm) allowing bulk flow. Supports: aphid stylet experiments, radioactive tracer studies."
+  },
+  {
+    "id": "ubio-25", "section": "biology",
+    "question": "The role of Ca²⁺ in muscle contraction beyond troponin binding involves:",
+    "options": ["Ca²⁺ binds troponin C → conformational change in troponin I and T → tropomyosin shifts from 'blocked' to 'closed' to 'open' state exposing myosin binding sites on actin; additionally Ca²⁺ activates myosin light chain kinase (MLCK) in smooth muscle", "Ca²⁺ directly phosphorylates myosin heads", "Ca²⁺ only functions in cardiac muscle, not skeletal", "Ca²⁺ inhibits ATP hydrolysis by myosin ATPase"],
+    "correct": 0,
+    "explanation": "In skeletal muscle: Ca²⁺ (from SR via RyR1) binds TnC → TnI releases actin → tropomyosin shifts exposing strong-binding myosin heads → cross-bridge cycle. Three states: Blocked (no Ca²⁺, TnI-actin interaction, tropomyosin blocks), Closed (Ca²⁺ bound, partial exposure), Open (strong myosin binding). In smooth muscle: Ca²⁺-calmodulin activates MLCK → phosphorylates myosin regulatory light chain (RLC) → ATPase activity and cross-bridge cycling activated."
+  },
+  {
+    "id": "ubio-26", "section": "biology",
+    "question": "The voltage-gated Na⁺ channel during action potential has three distinct states:",
+    "options": ["Resting/closed (activation gate closed, inactivation gate open), Open/activated (both gates open, Na⁺ flows in), Inactivated (activation gate open but inactivation gate closed — ABSOLUTE refractory period), returning to closed after membrane repolarization", "Open and closed only", "Closed and inactivated only", "The channel has only one gate that opens and closes"],
+    "correct": 0,
+    "explanation": "Na⁺ channel (9 transmembrane segments in domain I-IV): Resting: m-gates (activation) closed, h-gate (inactivation) open → no Na⁺ flow. Depolarization → m-gates open rapidly → Na⁺ influx (rising phase). Inactivation: h-gate (ball-and-chain inactivation, N-terminus peptide) closes within milliseconds while m-gates still open → no Na⁺ flow = absolute refractory period. Repolarization (K⁺ efflux) → m-gates close → h-gate slowly reopens → relative refractory period → return to resting."
+  },
+  {
+    "id": "ubio-27", "section": "biology",
+    "question": "In renal physiology, countercurrent multiplication in the loop of Henle establishes a medullary osmolality gradient because:",
+    "options": ["The descending limb is permeable to water (not NaCl) while the ascending limb actively transports NaCl out (impermeable to water) via the NKCC2 cotransporter (furosemide target) — creating hyperosmotic medulla up to 1200 mOsm/kg at the papilla", "Both limbs pump NaCl and are impermeable to water", "Water is actively pumped out of the descending limb", "Urea has no role in medullary gradient formation"],
+    "correct": 0,
+    "explanation": "Countercurrent multiplier: Descending limb — aquaporin-1 rich, highly permeable to water, NOT NaCl → water exits → tubular fluid becomes concentrated. Ascending limb (thin) — passive NaCl exit. Ascending limb (thick) — NKCC2 (Na⁺-K⁺-2Cl⁻) actively transports NaCl out, IMPERMEABLE to water → dilutes tubular fluid, concentrates medullary interstitium. Urea recycling from collecting duct (via UT-A1/UT-A3) contributes ~50% of papillary osmolality. ADH increases collecting duct AQP2 expression."
+  },
+  {
+    "id": "ubio-28", "section": "biology",
+    "question": "The concept of 'island biogeography' (MacArthur-Wilson theory) predicts species richness on islands based on:",
+    "options": ["Dynamic equilibrium between immigration rate (decreasing as richness increases) and extinction rate (increasing with richness) — equilibrium species number depends on island SIZE (larger = lower extinction) and DISTANCE from mainland (closer = higher immigration)", "Islands always have fewer species than mainland habitats", "Only extinction rate determines species richness", "Distance from mainland has no effect on species number"],
+    "correct": 0,
+    "explanation": "MacArthur-Wilson (1967): Species equilibrium (Ŝ) = intersection of immigration curve (decreases as S increases — fewer new species available) and extinction curve (increases as S increases — more species competing). Larger islands: lower extinction (more resources, more habitat heterogeneity) → higher Ŝ. Closer islands: higher immigration → higher Ŝ. This led to reserve design principles (SLOSS debate). Supported by defaunation and recolonization experiments on mangrove islands."
+  },
+  {
+    "id": "ubio-29", "section": "biology",
+    "question": "The r/K selection theory in ecology predicts that K-selected species compared to r-selected species would show:",
+    "options": ["Larger body size, delayed reproduction, lower reproductive rate, higher parental investment, longer lifespan, and stable population size near carrying capacity — versus r-selected (small, early reproduction, many offspring, short-lived, boom-bust populations)", "Smaller body size and higher reproductive rate than r-strategists", "K-selected species are always predators and r-selected are always prey", "K-selected species thrive in disturbed habitats while r-selected dominate stable ones"],
+    "correct": 0,
+    "explanation": "r-selected (r-strategists): High r (intrinsic growth rate), small body size, short generation time, many small offspring (low parental investment), opportunistic (early succession/disturbed habitats), Type III survivorship curve, boom-bust dynamics. K-selected (K-strategists): Population maintained near K, large body size, long lifespan, few offspring with high parental care, specialist competitors (late succession/stable habitats), Type I survivorship curve. Most species fall on a continuum (life history trade-offs)."
+  },
+  {
+    "id": "ubio-30", "section": "biology",
+    "question": "In the nitrogen cycle, the anammox reaction (anaerobic ammonia oxidation) is carried out by:",
+    "options": ["Planctomycetes bacteria using NO₂⁻ as electron acceptor: NH₄⁺ + NO₂⁻ → N₂ + 2H₂O — the intermediate hydrazine (N₂H₄) is produced within the anammoxosome compartment", "Nitrosomonas under aerobic conditions", "Rhizobium in root nodules", "Denitrifying Pseudomonas producing NO₃⁻"],
+    "correct": 0,
+    "explanation": "Anammox (discovered 1999): Performed by Planctomycetes (Brocadia, Kuenenia). Reaction: NH₄⁺ + NO₂⁻ → N₂ + 2H₂O (ΔG = -357 kJ/mol). Unique intermediate: hydrazine (N₂H₄ — rocket fuel!) produced in the anammoxosome (ladderane lipid membrane). Important in oxygen minimum zones of oceans — responsible for ~30-50% of oceanic N₂ production. No external organic carbon needed (chemolithotroph)."
+  },
+  {
+    "id": "ubio-31", "section": "biology",
+    "question": "The 'RNA World' hypothesis proposes that early life had RNA molecules that could both carry genetic information AND catalyze reactions. The strongest evidence comes from:",
+    "options": ["Ribozymes (catalytic RNAs) including self-splicing introns (Group I/II), RNase P RNA, hammerhead ribozyme, and most critically the peptidyl transferase activity of 23S rRNA — proving RNA can catalyze peptide bond formation", "The discovery that RNA can replicate without any protein", "DNA being found in all primitive organisms", "RNA always being single-stranded"],
+    "correct": 0,
+    "explanation": "RNA World evidence: (1) Ribozymes exist — self-splicing Group I introns (Tetrahymena, Cech Nobel 1989), Group II introns, RNase P catalytic RNA (Altman Nobel 1989), hammerhead, HDV. (2) Ribosome is a ribozyme — strongest evidence (Nobel 2009). (3) RNA can store information (as genes) AND catalyze reactions. (4) Nucleotide cofactors (ATP, NAD⁺, CoA, FAD) — 'molecular fossils' of RNA world. RNA World → RNA-protein world → DNA-RNA-protein world."
+  },
+  {
+    "id": "ubio-32", "section": "biology",
+    "question": "In the p53 tumor suppressor pathway, p53 protein stability under normal conditions is regulated by:",
+    "options": ["MDM2 (Hdm2) which binds p53 transactivation domain, ubiquitinates p53 (E3 ligase activity), promoting proteasomal degradation; DNA damage activates ATM/ATR kinases phosphorylating p53 at Ser15/20 preventing MDM2 binding — p53 stabilized", "p53 is constitutively active in all cells", "p53 degradation is controlled by p21 directly", "MDM2 activates p53 transcriptional activity"],
+    "correct": 0,
+    "explanation": "p53 regulation: Normally — MDM2 binds p53 N-terminus (aa 19-26) → nuclear export → ubiquitination (K370, K372, K373, K381, K382, K386) → proteasomal degradation. p53 t½ ~20 min. DNA damage → ATM/ATR activated → Chk1/Chk2 activated → phosphorylate p53 at Ser15 (ATM directly), Ser20 (Chk2) → MDM2 cannot bind → p53 stabilized (t½ hours) → activates p21 (CDK inhibitor → G1 arrest), GADD45 (DNA repair), Bax/PUMA (apoptosis), TIGAR (metabolism). MDM2 is also p53 target — negative feedback."
+  },
+  {
+    "id": "ubio-33", "section": "biology",
+    "question": "The role of cyclin-dependent kinases (CDKs) in cell cycle regulation involves:",
+    "options": ["Cyclin oscillations (D/E for G1-S; A/B for G2-M) activate cognate CDKs; CDK4/6-CyclinD phosphorylates Rb at multiple sites releasing E2F transcription factors; CDK1-CyclinB (MPF) triggers mitotic entry by phosphorylating nuclear lamins, condensins, and APC regulators", "CDKs are constitutively active throughout the cell cycle", "Cyclins are rate-limiting only at the G2/M checkpoint", "CDK inhibitors (CKIs) activate CDK-cyclin complexes"],
+    "correct": 0,
+    "explanation": "Cell cycle CDK regulation: G1: CDK4/6-CyclinD phosphorylates pRb (partial) → CDK2-CyclinE (activated by released E2F) hyperphosphorylates pRb → E2F fully activated → S-phase genes. S-phase: CDK2-CyclinA replicates DNA, prevents re-replication (Cdc6, MCM phosphorylation). G2/M: CDK1-CyclinA/B. M: CDK1-CyclinB (MPF) = key mitotic kinase → nuclear envelope breakdown, chromosome condensation. APC/C (anaphase promoting complex) ubiquitinates CyclinB at metaphase-anaphase transition → securin degradation → separase cleaves cohesin → sister chromatid separation. CKIs: p21 (CDKN1A), p27 (CDKN1B), p16 (CDKN2A)."
+  },
+  {
+    "id": "ubio-34", "section": "biology",
+    "question": "What is the molecular basis of prion diseases (TSEs — transmissible spongiform encephalopathies)?",
+    "options": ["Misfolded PrPSc (scrapie isoform, β-sheet rich, protease-resistant) acts as a template converting normal PrPC (α-helix rich, protease-sensitive) into PrPSc without any nucleic acid — 'protein-only' hypothesis; PrPSc aggregates forming amyloid plaques", "Prions are RNA viruses requiring reverse transcriptase", "Prion diseases are caused by a slow conventional virus", "PrPSc activates inflammatory pathways without protein aggregation"],
+    "correct": 0,
+    "explanation": "Prusiner's prion hypothesis (Nobel 1997): The infectious agent is PrPSc — a misfolded isoform of the normal cellular protein PrPC (PRNP gene, chromosome 20). PrPC: α-helical, soluble, protease-sensitive, GPI-anchored. PrPSc: β-sheet rich, insoluble, protease-resistant (proteinase K resistant core = PrP 27-30). Mechanism: PrPSc + PrPC → 2 PrPSc (autocatalytic conformational conversion). Amyloid fibril formation → neurodegeneration. Diseases: CJD, kuru, scrapie (sheep), BSE (cattle), FFI."
+  },
+  {
+    "id": "ubio-35", "section": "biology",
+    "question": "The mechanism of CRISPR-based base editing (adenine base editors — ABE) allows:",
+    "options": ["A-to-G editing (A•T → G•C) by using a catalytically impaired Cas9 (nCas9/dCas9) fused to an evolved adenosine deaminase (TadA) that deaminates adenine to inosine (read as G) in the single-stranded DNA bubble — without creating DSBs", "Deletion of entire exons using two guide RNAs", "C-to-T conversion using cytidine deaminase only", "Random insertion of the corrected sequence at the target site"],
+    "correct": 0,
+    "explanation": "Base editing (David Liu, 2016-2017): Adenine Base Editors (ABE) — nCas9 (nickase) + evolved TadA (adenosine deaminase). Mechanism: gRNA directs ABE to target. nCas9 creates R-loop (ssDNA bubble in 'editing window' positions 4-7). TadA deaminates A in ssDNA → inosine (I). I is read as G by DNA/RNA polymerases. Cell repair converts I:T mismatch → G:C. Net: A•T → G•C, no DSB. CBE (Cytosine Base Editors): APOBEC1 deaminase → C→U (read as T) → C•G → T•A. Prime editing (2019) uses pegRNA and reverse transcriptase for all 12 substitution types."
+  },
+  {
+    "id": "ubio-36", "section": "biology",
+    "question": "The 'selfish gene' perspective (Dawkins, 1976, derived from Williams and Hamilton) argues that:",
+    "options": ["The unit of selection is the allele/replicator, not the individual organism or group; organisms are 'survival machines' built by genes to propagate themselves; this explains apparent altruism via inclusive fitness (Hamilton's kin selection: rB > C)", "Organisms evolve for the benefit of the species", "Group selection is the primary mechanism of evolution", "Genes are passive recipients of natural selection acting on organisms"],
+    "correct": 0,
+    "explanation": "Gene-centered view: Genes are replicators; organisms are vehicles. Altruistic behaviors explained by inclusive fitness (W.D. Hamilton): ΔW = rB - C > 0 (Hamilton's rule), where r = coefficient of relatedness, B = benefit to recipient, C = cost to actor. Sterile worker bee workers share 75% of genes with sisters (haplodiploidy) so rB > C. Reciprocal altruism (Trivers) explains altruism between non-relatives. ESS (evolutionary stable strategy) — game theory applied to evolution (Maynard Smith)."
+  },
+  {
+    "id": "ubio-37", "section": "biology",
+    "question": "Which of the following correctly describes the molecular mechanism of stomatal opening under blue light?",
+    "options": ["Blue light activates phototropin (phot1/phot2) receptor kinases → autophosphorylation → activation of plasma membrane H⁺-ATPase (by 14-3-3 protein binding to phosphorylated C-terminus) → H⁺ pumped out → membrane hyperpolarization → K⁺ influx via inward-rectifying K⁺ channels (KAT1, AKT1) + Cl⁻ influx + malate synthesis → guard cell osmotic potential decreases → water entry → turgor increase → stomatal opening", "Red light activates phytochrome → direct K⁺ channel opening", "Blue light causes CO₂ decrease which is the direct signal for stomatal opening", "ABA directly activates H⁺-ATPase promoting stomatal opening"],
+    "correct": 0,
+    "explanation": "Blue light stomatal opening: phototropins (LOV domains absorb blue) autophosphorylate → 14-3-3 proteins bind phosphorylated Thr948 of H⁺-ATPase → ATPase activated → ATP hydrolysis pumps H⁺ out → inside negative → voltage-gated inward K⁺ channels (KAT1) open → K⁺ influx (20-200 mM in guard cells) → Cl⁻ influx, malate²⁻ synthesis from starch → ↓ osmotic potential → water flows in → turgor ↑ → stomata open. ABA (drought stress) activates anion channels → membrane depolarization → K⁺ efflux → stomata close."
+  },
+  {
+    "id": "ubio-38", "section": "biology",
+    "question": "The mechanism of action of Auxin (IAA) in promoting cell elongation (acid growth theory) involves:",
+    "options": ["Auxin activates plasma membrane H⁺-ATPase → cell wall acidification (↓ pH to ~4.5) → expansins activated (break H-bonds between wall polysaccharides) + extensins loosened → cell wall loosening + turgor-driven expansion; also binds TIR1 (F-box) receptor → AUX/IAA repressor ubiquitination → ARF transcription factors released → gene expression", "Auxin directly cutting polysaccharide bonds in cell wall", "Auxin binding a nuclear receptor to promote DNA replication", "Auxin working only through cytokinin-dependent pathways"],
+    "correct": 0,
+    "explanation": "Auxin acid growth (Hager hypothesis, 1971): IAA → plasma membrane H⁺-ATPase activation → H⁺ secretion → apoplast acidification (pH 4.0-4.5) → expansin proteins activated (at acidic pH) → break non-covalent bonds (H-bonds) between cellulose microfibrils and hemicelluloses (xyloglucans) → wall loosening → turgor-driven elongation. Genomic (slow) response: IAA binds TIR1 (SCF complex) receptor → AUX/IAA repressor ubiquitinated and degraded → ARF (Auxin Response Factors) transcription factors activated → SAUR, GH3, LBD genes expressed."
+  },
+  {
+    "id": "ubio-39", "section": "biology",
+    "question": "The ABC model of floral organ development specifies which organs by which gene classes?",
+    "options": ["A alone → sepals; A+B → petals; B+C → stamens; C alone → carpels; A and C are mutually exclusive (in absence of A, C expands to all whorls; in absence of C, A expands); MADS-box transcription factors execute the combinatorial code", "A → petals; B → stamens; C → carpels and sepals", "A+B+C together → all floral organs uniformly", "Only C class genes determine all floral organs"],
+    "correct": 0,
+    "explanation": "ABC model (Coen and Meyerowitz, 1991): 4 whorls from outside to inside: Whorl 1 (A only) → sepals; Whorl 2 (A+B) → petals; Whorl 3 (B+C) → stamens; Whorl 4 (C only) → carpels. A-class: AP1, AP2; B-class: AP3, PI; C-class: AG (AGAMOUS). Antagonism: A and C genes repress each other — in ap2 mutants, AG expands to all 4 whorls (carpels replace sepals, stamens replace petals). Extended ABCDE model includes D-class (ovule identity) and E-class (SEP — sepallata, required for floral organ identity). All are MADS-box TFs forming tetrameric 'floral quartet' complexes."
+  },
+  {
+    "id": "ubio-40", "section": "biology",
+    "question": "The Wnt/β-catenin signaling pathway is OFF (no Wnt ligand) because:",
+    "options": ["The destruction complex (APC + Axin + GSK-3β + CK1) phosphorylates β-catenin → β-TrCP E3 ligase ubiquitinates it → proteasomal degradation; Wnt ON: Wnt binds Frizzled+LRP5/6 → Dvl activated → destruction complex inhibited → β-catenin accumulates → enters nucleus → displaces Groucho from TCF/LEF → activates Wnt target genes (Myc, CyclinD1)", "Wnt binds directly to β-catenin in the cytoplasm preventing nuclear entry", "TCF/LEF proteins degrade β-catenin in the nucleus", "APC promotes β-catenin nuclear entry in the OFF state"],
+    "correct": 0,
+    "explanation": "Wnt OFF: CK1 phosphorylates β-catenin Ser45 → primes GSK-3β to phosphorylate Thr41, Ser37, Ser33 → recognized by β-TrCP (F-box protein in SCF complex) → K48-linked polyubiquitination → 26S proteasome degrades β-catenin. TCF/LEF bound to Groucho repressor → target genes OFF. Wnt ON: Wnt binds Frizzled (GPCR-like) + LRP5/6 → LRP phosphorylated → Axin recruited to membrane → destruction complex disassembled → β-catenin accumulates → enters nucleus → Groucho displaced → Wnt targets: AXIN2, MYC, CCND1, VEGF, MMP7. Mutations: APC (colorectal cancer), β-catenin (many cancers)."
+  },
+  {
+    "id": "ubio-41", "section": "biology",
+    "question": "In the classical genetics experiment by Meselson and Stahl (1958), which result distinguished semi-conservative from conservative and dispersive replication?",
+    "options": ["After 1 generation in ¹⁴N: ALL DNA was hybrid (intermediate density) by CsCl equilibrium density centrifugation; after 2 generations: equal amounts of hybrid AND light DNA — proving each strand serves as template (semi-conservative), not both strands separating as intact duplexes (conservative) or random scrambling (dispersive)", "After 1 generation: half heavy, half light DNA", "After 2 generations: all light DNA indicating dispersive replication", "Only conservative replication would give intermediate density at generation 1"],
+    "correct": 0,
+    "explanation": "Meselson-Stahl: E. coli grown in ¹⁵N medium (heavy) → switched to ¹⁴N. CsCl density centrifugation: Gen 0: One band (heavy, ¹⁵N/¹⁵N). Gen 1: One band (intermediate — all hybrid ¹⁵N/¹⁴N). Gen 2: Two equal bands (intermediate + light ¹⁴N/¹⁴N). Gen 3: One intermediate + three light bands. Conservative would give: Gen 1 = heavy + light (no hybrid). Dispersive would give: Gen 1 = intermediate, Gen 2 = slightly lighter intermediate (no fully light band). Only semi-conservative gives: Gen 1 = ALL intermediate; Gen 2 = 50% intermediate + 50% light."
+  },
+  {
+    "id": "ubio-42", "section": "biology",
+    "question": "The molecular mechanism of the Holliday junction resolution during homologous recombination involves:",
+    "options": ["Resolvases (RuvC in bacteria, GEN1/SLX1-SLX4 in eukaryotes) make symmetric cuts on Holliday junction in one of two orientations, giving either crossover (patches with flanking sequence exchange) or non-crossover (splice) products depending on cut orientation", "The Holliday junction is dissolved by topoisomerase directly", "Branch migration is the only mechanism to resolve junctions", "Both strands are cut simultaneously at the crossover point by helicase"],
+    "correct": 0,
+    "explanation": "Holliday junction (HJ) resolution: After strand invasion (RecA/Rad51) and branch migration (RuvAB/Blm), the 4-way HJ is resolved by resolvases. Two cut orientations give different products: Horizontal cuts → non-crossover (no flanking sequence exchange, gene conversion only). Vertical cuts → crossover (exchange of flanking sequences). In bacteria: RuvC (resolves HJ at consensus 5'-A/TTG-3'). Eukaryotes: GEN1, SLX1-SLX4, BLM-TOP3α-RMI1/2 (dissolves HJs — dHJ dissolution via convergent migration → Topoisomerase → only non-crossovers). SDSA pathway: no HJ formed, always non-crossover."
+  },
+  {
+    "id": "ubio-43", "section": "biology",
+    "question": "The endosymbiotic gene transfer (EGT) is the process by which:",
+    "options": ["Genes from the endosymbiont (proto-mitochondria/plastid) are transferred to the host nuclear genome over evolutionary time; the encoded proteins are then synthesized in the cytoplasm and imported back into the organelle via TOM/TIM (mitochondria) or TOC/TIC (chloroplast) translocon complexes", "Host genes are transferred into the mitochondrial genome", "EGT is unidirectional from nucleus to organelle", "EGT occurred once and is now complete with no genes remaining in organellar genomes"],
+    "correct": 0,
+    "explanation": "EGT (Endosymbiotic Gene Transfer): Over ~1-2 billion years, most endosymbiont genes transferred to the nucleus. Alpha-proteobacterial ancestor had ~3000 genes → modern mitochondrial genome retains only 13 protein-coding genes (in humans). Cyanobacterial ancestor had ~3000 genes → plastid genome retains 70-200 genes. The proteins encoded by nuclear-transferred genes are imported back: Mitochondria: TOM complex (outer membrane) + TIM23/TIM22 (inner membrane) + presequence targeting signal. Chloroplasts: TOC (translocon outer chloroplast) + TIC (inner). Transit peptides are cleaved after import."
+  },
+  {
+    "id": "ubio-44", "section": "biology",
+    "question": "Polyploidy in plants is more common than in animals because:",
+    "options": ["Plants have cell fate flexibility (meiosis not sequestered in germline), often self-fertilize or reproduce asexually allowing polyploid lineages to establish, lack sex chromosomes in many species, and can often tolerate dosage imbalances; animals have sex determination often dependent on chromosome dosage and germline sequestration making polyploidy lethal", "Animals have larger genomes preventing polyploidy", "Polyploidy is equally common in animals but goes undetected", "Plants have fewer chromosomes making doubling easier"],
+    "correct": 0,
+    "explanation": "Polyploidy tolerance in plants: (1) Indeterminate growth — meristematic cells continuously form gametes, so somatic polyploids can still reproduce. (2) Self-fertilization/vegetative reproduction allows polyploid individuals to bypass mate-compatibility problems. (3) Many plants lack heteromorphic sex chromosomes (dosage sensitivity). (4) Colchicine blocks spindle → endopolyploidy possible. In animals: germline is sequestered early (Weismann), sex determination sensitive to dosage (X chromosome dosage in mammals/Drosophila), haploinsufficiency of sex-linked genes. Exceptions: some fish, frogs, insects (leech), some invertebrates tolerate polyploidy."
+  },
+  {
+    "id": "ubio-45", "section": "biology",
+    "question": "The 'Red Queen hypothesis' (Van Valen, 1973) in evolutionary biology proposes:",
+    "options": ["Species must continuously evolve (genetic change) just to maintain fitness relative to co-evolving species (parasites, predators, competitors) — organisms in arms races run to 'stay in the same place' in fitness; explains maintenance of sexual reproduction (genetic diversity evades parasites faster than asexual clones)", "Organisms evolve to become simpler over time to increase reproductive speed", "Fitness is absolute and independent of the biotic environment", "Species only evolve in response to abiotic environmental changes"],
+    "correct": 0,
+    "explanation": "Red Queen (named after Lewis Carroll's Red Queen who runs to stay in place): Biotic environment constantly changes because co-evolving species also evolve. Example: host-parasite coevolution — parasites adapt to infect common host genotypes → sexual reproduction maintains genotypic diversity → parasites cannot evolve fast enough to track all genotypes → sexual reproduction maintained (Hamilton-Zuk hypothesis). Evidence: Snail Potamopyrgus antipodarum — sexual populations coexist with asexual clones where parasites (trematodes) are common; asexual clones dominate parasite-free environments."
+  },
+  {
+    "id": "ubio-46", "section": "biology",
+    "question": "The molecular mechanism by which auxin (IAA) is transported polarly (PAT — polar auxin transport) involves:",
+    "options": ["AUX1/LAX influx carriers on all faces; PIN efflux carriers (PIN1-PIN7) asymmetrically localized to basal membranes of cells (maintained by GNOM ARF-GEF-mediated vesicle trafficking); IAA enters by diffusion + AUX1, exits only via basally-located PINs creating directional flow", "Auxin diffuses freely through plasmodesmata without any polar mechanism", "Vascular tissue-specific channels transport auxin with gravity", "Auxin is transported in the xylem from roots to shoots (upward)"],
+    "correct": 0,
+    "explanation": "PAT chemiosmotic model: IAA (pKa 4.75) — at apoplast pH ~5.5, ~23% is protonated (IAAH) and diffuses in. At cytoplasm pH ~7.0, IAA is almost fully ionized (IAA⁻) and cannot diffuse out. PIN efflux carriers (localized basally via ARF-GEF GNOM-dependent vesicle recycling) export IAA⁻ → IAA moves basipetally (shoot tip → base). PIN1 responds to mechanical cues and auxin itself (canalization). PIN polarity can be reversed → auxin flow redirection in organogenesis. ABCB transporters (MDR/PGP) also export auxin."
+  },
+  {
+    "id": "ubio-47", "section": "biology",
+    "question": "In the coagulation cascade, the extrinsic pathway is initiated by:",
+    "options": ["Tissue factor (TF/Factor III) exposed on damaged endothelium binding Factor VIIa → TF-VIIa complex activates Factor X (and Factor IX) → Factor Xa + Factor Va (prothrombinase complex) + phospholipid + Ca²⁺ → prothrombin → thrombin → fibrinogen → fibrin", "Factor XII contact activation by collagen (intrinsic pathway)", "Platelet thromboxane A2 directly cleaving fibrinogen", "Antithrombin III activating the cascade"],
+    "correct": 0,
+    "explanation": "Extrinsic pathway: Vascular injury → TF (tissue factor, expressed by subendothelial cells) exposed → binds Factor VII → TF-VIIa complex activates Factor X and IX. Factor Xa + Va (cofactor) + Ca²⁺ + phospholipid (from activated platelets) = prothrombinase complex → prothrombin (II) → thrombin (IIa). Thrombin: fibrinogen → fibrin (cleavage of FpA and FpB), activates Factor XIII (fibrin crosslinker), activates V, VIII, XI (amplification), activates platelets (PAR-1/PAR-4). Intrinsic: XII → XI → IX → VIII-IXa complex. Both converge at Factor X."
+  },
+  {
+    "id": "ubio-48", "section": "biology",
+    "question": "The sarcomere Z-disc to Z-disc measurement shortens during contraction from ~2.2μm (relaxed) to ~1.6μm (contracted). Which bands CHANGE length and which remain constant?",
+    "options": ["A-band stays CONSTANT (thick filaments don't shorten); I-band SHORTENS (thin filaments pulled inward); H-zone DISAPPEARS (thin filaments overlap thick filament completely); Zone of overlap INCREASES — confirming sliding filament (no filament shortening)", "Both A-band and I-band shorten equally", "Only the H-zone stays constant and the A-band shortens", "I-band stays constant and A-band shortens"],
+    "correct": 0,
+    "explanation": "Sarcomere during contraction (Huxley & Hanson, 1954): A-band = thick filament (myosin) length = CONSTANT ~1.6μm. I-band (thin filaments not overlapping thick) = DECREASES. H-zone (thick filaments not overlapping thin) = DECREASES → disappears at maximum contraction. Zone of overlap = INCREASES. Z-lines move closer. Thin filament length constant (~1.0μm), thick filament constant (~1.6μm). These observations were critical evidence FOR sliding filament theory AGAINST the folding/shortening hypothesis."
+  },
+  {
+    "id": "ubio-49", "section": "biology",
+    "question": "The differentiation of pluripotent stem cells requires the master transcription factor network of:",
+    "options": ["OCT4, SOX2, NANOG, KLF4 — they form autoregulatory circuits (each activates the others' expression) maintaining pluripotency; differentiation requires downregulation of this network; Yamanaka showed OCT4+SOX2+KLF4+c-MYC can reprogram somatic cells to iPSCs (induced pluripotent stem cells)", "Only OCT4 alone controlling all pluripotency", "Lineage-specific TFs maintaining pluripotency", "DNA methyltransferases directly maintaining the stem cell state"],
+    "correct": 0,
+    "explanation": "Pluripotency network (core): OCT4 (POU domain), SOX2 (HMG domain), NANOG (homeodomain) form the 'Bermuda Triangle' — each activates the others and cooperatively bind enhancers of both pluripotency genes (self-reinforcing) and developmental genes (repressed via Polycomb). Yamanaka (Nobel 2012): OCT4+SOX2+KLF4+c-MYC reprogramming of mouse fibroblasts to iPSCs. Thomson: OCT4+SOX2+NANOG+LIN28 for human iPSCs. Super-enhancers (large enhancer clusters with high TF occupancy) mark key pluripotency genes. bFGF (FGF2) maintains human ESC pluripotency; LIF/STAT3 maintains mouse ESCs."
+  },
+  {
+    "id": "ubio-50", "section": "biology",
+    "question": "Transgenerational epigenetic inheritance refers to:",
+    "options": ["Epigenetic marks (DNA methylation, histone modifications) being transmitted to offspring through the germline despite genome-wide epigenetic reprogramming events at fertilization and during primordial germ cell specification — demonstrated in plants (paramutation), Drosophila (transgenerational piRNA), and mammals (Avy mouse, paternal stress models)", "Genes inherited via Mendelian genetics over many generations", "Mitochondrial DNA transmission through maternal lineage", "RNA being transmitted in sperm causing non-Mendelian inheritance only in plants"],
+    "correct": 0,
+    "explanation": "Transgenerational epigenetics: Two major reprogramming events normally erase epigenetic marks: (1) Shortly after fertilization — demethylation of paternal genome (active, TET-mediated) and maternal (passive). (2) During PGC development in embryo. However, some regions ESCAPE reprogramming: IAPs (retrotransposons with CpG-rich LTRs), imprinting control regions, pericentric heterochromatin. Evidence: Avy allele in mice (epigenetically determined coat color inherited), Dutch Hunger Winter (grandmother starvation affecting grandchildren's health), Drosophila chromatin states inherited. Small RNAs (piRNAs, siRNAs) in sperm may carry epigenetic information."
+  },
+  {
+    "id": "ubio-51", "section": "biology",
+    "question": "The mechanism of action of Type II restriction endonucleases involves:",
+    "options": ["Recognition of palindromic sequences (4-8 bp) as homodimers; cleavage within or adjacent to the recognition sequence using Mg²⁺ cofactor via an SN2-like in-line attack by a carboxylate nucleophile (Asp/Glu) on the scissile phosphodiester bond; generating either 5'-phosphate overhang (EcoRI), 3'-OH overhang (KpnI), or blunt ends (SmaI/EcoRV)", "They require ATP for DNA cutting", "They cut DNA at random positions not related to recognition sequence", "Type II enzymes methylate DNA rather than cutting it"],
+    "correct": 0,
+    "explanation": "Type II REase mechanism: Dimeric structure recognizes palindromic sequence. Each subunit cuts one strand. Catalytic mechanism: Mg²⁺ coordinates water molecule → OH⁻ attacks phosphorus (SN2 in-line) → leaving 3'-OH + 5'-phosphate. EcoRI: cuts G↓AATTC → 4-nt 5' overhang (5'-AATT sticky ends). BamHI: G↓GATCC → 4-nt 5' overhang. PstI: CTGCA↓G → 3' overhang. SmaI: CCC↓GGG → blunt ends. EcoRV: GAT↓ATC → blunt ends. Type IIS (e.g., FokI) cut outside recognition sequence — used in ZFNs, TALENs."
+  },
+  {
+    "id": "ubio-52", "section": "biology",
+    "question": "The 'molecular clock' hypothesis states that:",
+    "options": ["Amino acid or nucleotide substitutions accumulate at a constant rate over time independent of lineage and population size (neutral mutations fix at rate μ) — allowing estimation of divergence times from the extent of sequence difference; rate varies by gene and by type of substitution (synonymous > nonsynonymous)", "Evolution always occurs at the same rate in all lineages", "Molecular evolution is independent of neutral mutation rate", "Morphological changes are strictly correlated with molecular changes"],
+    "correct": 0,
+    "explanation": "Molecular clock (Zuckerkandl & Pauling, 1965; Kimura's neutral theory): Neutral mutations fix at rate = μ (mutation rate per site per generation), independent of population size. Constant substitution rate → molecular clock. Calibrations: fossil record, biogeographic events. Different rates: (1) Synonymous > nonsynonymous (more neutral), (2) Pseudogenes fastest (no selection), (3) Conserved genes (histones) slowest. Violations: rate variation (generation time effect, metabolic rate, DNA repair efficiency), positive selection episodes. Relaxed molecular clocks (Bayesian methods) allow rate variation among lineages."
+  },
+  {
+    "id": "ubio-53", "section": "biology",
+    "question": "The mechanism of adaptive immunity requiring both signal 1 and signal 2 for T cell activation prevents:",
+    "options": ["Signal 1 (TCR+MHC-peptide) without Signal 2 (CD28-B7) leads to T cell anergy (unresponsiveness) rather than activation — ensuring T cells can only be activated by professional APCs expressing co-stimulatory molecules, preventing autoimmunity and self-reactive T cell activation by non-professional APCs", "Signal 1 alone causing excessive T cell activation", "Signal 2 alone being sufficient for T cell killing", "All APCs constitutively providing both signals"],
+    "correct": 0,
+    "explanation": "Two-signal model (Bretscher-Cohn, 1970; Lafferty-Cunningham): Signal 1: TCR + cognate peptide-MHC (antigen-specific). Signal 2: CD28 (T cell) + B7-1/B7-2/CD80/86 (APC). Signal 1 alone → T cell anergy (clonal anergy) — T cell becomes unresponsive. Both signals → T cell activation, IL-2 production, proliferation. Tolerogenic DCs lack B7 → present self-antigens without co-stimulation → anergy. CTLA-4 (CD152) — high-affinity B7 receptor, expressed after activation, competes with CD28, inhibitory signal. PD-1 (Programmed Death-1) + PD-L1/L2 → T cell exhaustion/anergy (cancer immune evasion). Checkpoint inhibitors: anti-CTLA-4 (ipilimumab), anti-PD-1 (nivolumab)."
+  },
+  {
+    "id": "ubio-54", "section": "biology",
+    "question": "The MAPK/ERK cascade exhibits switch-like bistable behavior due to:",
+    "options": ["Ultrasensitivity from multisite phosphorylation of MEK (distributive mechanism requiring two sequential phosphorylation events) combined with positive feedback (ERK phosphorylates SOS activating Ras) creates a bistable switch — all-or-nothing ERK activation with hysteresis", "Simple linear signaling without any feedback", "ERK activation being directly proportional to stimulus strength (graded response)", "The cascade always operating at full capacity"],
+    "correct": 0,
+    "explanation": "MAPK switch dynamics: MEK (MAP2K) requires phosphorylation of both Thr218 and Tyr220 for activation (distributive dual phosphorylation — two separate enzyme encounters needed → ultrasensitivity, Hill coefficient >1). ERK also requires dual phosphorylation. Positive feedback loops amplify signal. The combination creates: ultrasensitivity → switch-like all-or-nothing response. Bistability (Ferrell & Bhatt, 1997) demonstrated in Xenopus oocytes. Duration encoding (sustained ERK → differentiation; transient ERK → proliferation). Cross-talk with PI3K/Akt pathway."
+  },
+  {
+    "id": "ubio-55", "section": "biology",
+    "question": "In meristem maintenance, the CLAVATA-WUSCHEL (CLV-WUS) feedback loop works as:",
+    "options": ["WUS (homeodomain TF) in the organizing center promotes stem cell fate in the overlying cells; CLV3 (peptide) secreted by stem cells activates CLV1/CLV2 receptor kinases → phosphorylation cascade represses WUS expression — negative feedback maintaining fixed stem cell pool size", "WUS represses CLV3 and CLV3 activates WUS in a positive feedback loop", "CLV3 promotes WUS expression in all meristem cells", "Only CLV1 determines meristem size with no WUS involvement"],
+    "correct": 0,
+    "explanation": "SAM (Shoot Apical Meristem) homeostasis: Central Zone (CZ) stem cells express CLV3 (CLE peptide, 12 aa). CLV3 binds CLV1 (LRR-RLK)/CLV2 receptor complex → MAPK/phosphorylation cascade → represses WUS transcription. WUS (WUSCHEL) expressed in organizing center (OC) → non-cell autonomously promotes CLV3 expression in CZ (via symplastic movement). Negative feedback maintains stem cell numbers: More WUS → more CLV3 → less WUS → stable. Loss of CLV1/3 → WUS overexpressed → enlarged meristems. Loss of WUS → meristems terminate. STM (SHOOT MERISTEMLESS) also required for meristem maintenance (represses differentiation)."
+  },
+  {
+    "id": "ubio-56", "section": "biology",
+    "question": "The Notch signaling pathway is unique because the Notch receptor upon binding its ligand (Delta/Jagged on adjacent cell) undergoes:",
+    "options": ["Two sequential proteolytic cleavages: first by ADAM metalloprotease (S2 cleavage in ectodomain), then γ-secretase (S3 cleavage in transmembrane domain) releasing NICD (Notch intracellular domain) → translocates to nucleus → displaces HDAC from CSL/RBPJ → activates HES/HEY target genes", "Phosphorylation cascade without proteolysis", "Endocytosis of entire Notch receptor before signaling", "Notch directly phosphorylating transcription factors in the cytoplasm"],
+    "correct": 0,
+    "explanation": "Notch signaling (regulated intramembrane proteolysis — RIP): Ligand binding (trans from neighboring cell) → conformational change exposes S2 site → ADAM10/ADAM17 cleaves ectodomain (S2) → NEXT fragment retained → γ-secretase complex (Presenilin, Nicastrin, APH-1, PEN-2) cleaves S3 site within transmembrane domain → NICD released into cytoplasm → enters nucleus → displaces SHARP (HDAC-associated corepressor) from RBPJ (CSL) → recruits MAML coactivator → activates HES1, HES5, HEY1, HEY2 (bHLH repressors regulating differentiation). Notch ligand endocytosis in sending cell essential for force-mediated activation. Fringe glycosyltransferases modulate Notch-ligand binding."
+  },
+  {
+    "id": "ubio-57", "section": "biology",
+    "question": "The Hardy-Weinberg principle fails when which condition is violated, and what is the expected consequence?",
+    "options": ["Genetic drift (finite population): random sampling error changes allele frequencies each generation — smaller population (lower Ne) → greater drift → faster fixation or loss of alleles, reducing heterozygosity at rate 1/(2Ne) per generation regardless of initial frequency", "HWE fails only when selection acts — drift has no effect", "Mutation is the primary force disrupting HWE in large populations", "Gene flow always restores HWE even in small populations"],
+    "correct": 0,
+    "explanation": "H-W assumes: (1) Infinite population, (2) Random mating, (3) No mutation, (4) No selection, (5) No gene flow. Violation of finite population → genetic drift. Effective population size (Ne) < census size due to: unequal sex ratio [Ne = 4NmNf/(Nm+Nf)], variance in reproductive success, fluctuating population size (harmonic mean). Rate of heterozygosity loss: Ht = H0(1-1/2Ne)^t → heterozygosity → 0 as t → ∞. Small Ne → fixation/loss faster → reduced genetic variation → potentially reduces adaptive potential (genetic erosion). Conservation genetics: minimum viable population, Ne >50 (prevent inbreeding depression short-term), >500 (maintain evolutionary potential long-term)."
+  },
+  {
+    "id": "ubio-58", "section": "biology",
+    "question": "The evolutionary transition from water to land in plants required innovations to overcome which main challenges?",
+    "options": ["Desiccation (→ cuticle, stomata, sporopollenin), gravity support without water buoyancy (→ lignified vascular tissue, sclerenchyma), UV radiation (→ flavonoids, sporopollenin in spore walls), sperm transport without water (→ pollen in seed plants), and nutrient absorption from soil (→ roots with mycorrhizae) — sequentially evolved in different plant lineages", "Only the development of seeds was required for land colonization", "Land plants evolved from fungi, not aquatic algae", "The only challenge was reproduction; photosynthesis and support were already evolved"],
+    "correct": 0,
+    "explanation": "Land plant (embryophyte) innovations: (1) Cuticle + stomata — prevent desiccation while allowing gas exchange. (2) Sporopollenin in spore walls — UV protection and desiccation resistance. (3) Embryo retention (nutritional support in archegonium). (4) Vascular system (xylem with lignin — water/support; phloem — photosynthate transport) — evolved in tracheophytes. (5) Roots — anchoring + absorption (with mycorrhizal fungi — >90% land plants). (6) Seed — desiccation-resistant, dispersible embryo with endosperm + seed coat — water-independent fertilization. (7) Pollen tube → freed from water for sperm delivery."
+  },
+  {
+    "id": "ubio-59", "section": "biology",
+    "question": "In marine ecosystems, the 'biological pump' refers to:",
+    "options": ["The process by which photosynthesis in the surface ocean fixes CO₂, organic carbon sinks as dead organisms/fecal pellets/aggregates to the deep ocean (export production), and microbial remineralization at depth releases nutrients — effectively sequestering atmospheric CO₂ in deep ocean for centuries to millennia", "Mechanical pumping of water by jellyfish and marine mammals", "The physical mixing of deep cold water to the surface (upwelling)", "Salt water movement through marine sediments driven by osmosis"],
+    "correct": 0,
+    "explanation": "Biological pump: Surface ocean phytoplankton fix CO₂ + nutrients → primary production. A fraction of organic matter (POC — particulate organic carbon) sinks: fecal pellets, marine snow (aggregates), zooplankton carcasses. Sinking efficiency depends on: particle size/density, ballasting by minerals (CaCO₃, opal, lithogenic), temperature, microbial degradation. At depth: bacteria remineralize organic C → CO₂ + nutrients (regenerated production). Only ~1% of surface production reaches the sediment and is permanently sequestered. The pump exports ~10-12 PgC/year. Factors: iron limitation in HNLC (high-nutrient, low-chlorophyll) regions, temperature, stratification. Iron fertilization experiments (LOHAFEX, SOIREE) tested pump enhancement."
+  },
+  {
+    "id": "ubio-60", "section": "biology",
+    "question": "Biofilm formation by bacteria occurs through which sequential steps?",
+    "options": ["Reversible attachment (motile bacteria contact surface) → irreversible attachment (type IV pili, adhesins binding) → microcolony formation (quorum sensing via AHL/AI-2 activating biofilm genes) → maturation (EPS matrix: polysaccharides + proteins + eDNA production) → dispersal (flagellar motility restored by c-di-GMP reduction) — regulated by second messenger c-di-GMP", "Bacteria simply die and aggregate on surfaces passively", "Biofilms form only in pathogenic bacteria and not in environmental bacteria", "Quorum sensing inhibits biofilm formation by promoting planktonic lifestyle"],
+    "correct": 0,
+    "explanation": "Biofilm lifecycle: (1) Attachment: Conditioning film (proteins from medium adsorb to surface) → planktonic bacteria approach by Brownian motion/chemotaxis → reversible (weak van der Waals, hydrophobic) → irreversible (specific adhesin-receptor: type I/IV pili, fimbriae, flagella, surface adhesins like MSCRAMM in Staphylococcus). (2) Microcolony: cell division + quorum sensing (Pseudomonas: 3OC12-HSL/C4-HSL → LasR/RhlR → virulence + biofilm genes). (3) Maturation: EPS (alginate in Pseudomonas, PIA in Staphylococcus), eDNA released by lysis. (4) Dispersal: c-di-GMP ↓ → phosphodiesterase activity ↑ → flagellar motility restored → cells disperse. Biofilms resist antibiotics 100-1000× (diffusion barrier, persister cells, slow growth)."
+  },
+  {
+    "id": "ubio-61", "section": "biology",
+    "question": "The Meselson-Stahl experiment proved semi-conservative replication. What experimental technique was critical?",
+    "options": ["Cesium chloride (CsCl) equilibrium density gradient centrifugation, which separates DNA based on buoyant density — ¹⁵N DNA is denser (1.724 g/cm³) than ¹⁴N DNA (1.710 g/cm³), allowing resolution of heavy, hybrid, and light DNA bands in the centrifuge tube", "Gel electrophoresis by size", "Autoradiography using ³H-thymidine", "Southern blot hybridization"],
+    "correct": 0,
+    "explanation": "CsCl density gradient (isopycnic/equilibrium) centrifugation: CsCl solution (6 M) centrifuged at very high speed (~45,000 rpm) for hours → CsCl gradient forms by sedimentation equilibrium. DNA molecules migrate to their buoyant density position (where ρ_DNA = ρ_CsCl). ¹⁵N-DNA: higher density → lower position. ¹⁴N-DNA: lower density → upper position. ¹⁵N/¹⁴N hybrid: intermediate. UV absorbance at 260nm detects band position and relative amount. Gen 1: one band at intermediate density → all hybrid (both strands: one ¹⁵N, one ¹⁴N) → disproves conservative. Gen 2: two bands (intermediate + light) → half molecules have both ¹⁴N strands (light) + half are hybrid. The distribution uniquely fits only the semi-conservative model."
+  },
+  {
+    "id": "ubio-62", "section": "biology",
+    "question": "The molecular basis of Huntington's disease involves:",
+    "options": ["Expansion of CAG trinucleotide repeat (>36 repeats) in exon 1 of the HTT gene encoding huntingtin protein, producing a polyglutamine (polyQ) tract that misfolds → aggregates → sequesters transcription factors (CBP, SP1) → mitochondrial dysfunction + BDNF reduction → striatal neuron death; dominant gain-of-toxic-function mutation", "Loss-of-function mutation in HTT protein causing striatal degeneration", "Repeat expansion in the 3' UTR preventing HTT mRNA translation", "CAG repeat expansion causing RNA toxicity only without protein aggregation"],
+    "correct": 0,
+    "explanation": "Huntington's disease (HD): HTT gene (chromosome 4p16.3), exon 1 CAG expansion. Normal: 6-35 repeats. Reduced penetrance: 36-39. Full penetrance: ≥40 repeats (highest ~250). Mechanism: polyQ tract forms β-sheet-rich amyloid-like aggregates → sequesters nuclear CBP (CREB-binding protein), SP1, other TFs → transcriptional dysregulation → BDNF reduction → striatal neurons deprived of trophic support. Mutant HTT also impairs: mitochondrial trafficking, autophagy, ubiquitin-proteasome system. Anticipation (earlier onset in subsequent generations) due to CAG expansion during paternal transmission. CAG length negatively correlates with age of onset. Autosomal dominant."
+  },
+  {
+    "id": "ubio-63", "section": "biology",
+    "question": "The mechanism of nonsense-mediated mRNA decay (NMD) detects premature stop codons (PTCs) by:",
+    "options": ["EJC (exon junction complexes) deposited 20-24 nt upstream of exon-exon junctions during splicing; if a stop codon is >50-55 nt upstream of the last EJC, NMD is triggered as translation terminates at PTC, UPF1 (on ribosome) interacts with EJC-bound UPF2/UPF3 → UPF1 phosphorylated → SMG enzymes recruit deadenylases/decapping → mRNA degraded", "NMD recognizes PTCs by comparing them to a cytoplasmic 'stop codon database'", "All mRNAs with stop codons are degraded by NMD regardless of position", "NMD occurs in the nucleus before mRNA is exported"],
+    "correct": 0,
+    "explanation": "NMD mechanism (EJC-dependent, major mammalian pathway): During splicing, EJC (EIFG4A3, MAGOH, Y14, MLN51) deposited 20-24 nt upstream of each exon-exon junction. During translation: ribosomes displace EJCs normally. Rule: >50-55 nt downstream of stop codon → EJC retained → PTC criterion met. At PTC: eRF1-eRF3 release factors contact UPF1 (ATPase/helicase), forming SURF complex. UPF1 interacts with EJC-associated UPF2-UPF3b → UPF1 phosphorylated by SMG1 → recruits: SMG5-SMG7 (deadenylation, 3'→5' decay), SMG6 (endonuclease cleavage), decapping. Functions: eliminates aberrant mRNAs, regulates ~5-10% of normal transcriptome."
+  },
+  {
+    "id": "ubio-64", "section": "biology",
+    "question": "Long-term potentiation (LTP) at hippocampal CA1 synapses requires:",
+    "options": ["Theta-burst or high-frequency stimulation → enough AMPA receptor activation to depolarize postsynaptic membrane sufficiently to relieve Mg²⁺ block from NMDA receptors → Ca²⁺ influx through NMDA receptors → CaMKII activation → CaMKII autophosphorylation (Thr286) → phosphorylates AMPA receptors increasing conductance + promotes AMPA receptor insertion (GluA1 trafficking) → E-LTP. L-LTP requires PKA + MAPK + CREB → new protein synthesis", "Simple repeated action potential firing without NMDA receptor involvement", "Only pre-synaptic changes (more glutamate vesicles) without post-synaptic changes", "LTP is independent of calcium signaling"],
+    "correct": 0,
+    "explanation": "LTP (Bliss & Lømo, 1973): HFS (100 Hz, 1s) or TBS at CA3-CA1 Schaffer collateral synapses. Induction: AMPA activation → partial depolarization → Mg²⁺ partially unblocked from NMDA-R → coincidence detection (Hebb's postulate: simultaneous pre+post activity). Ca²⁺ enters via NMDA-R + VGCCs. Early LTP (E-LTP, <2h): CaMKII (critical — autonomously active after autophosphorylation Thr286) → phospho-GluA1 Ser831 (increased single-channel conductance) + GluA1 insertion at synapses via SNARE-mediated exocytosis. Late LTP (L-LTP, >2h): PKA activation → CREB phosphorylation (Ser133) → BDNF + Arc/Arg3.1 gene expression → structural changes (spine growth, new synapse formation). Protein synthesis required. LTP = cellular substrate for memory."
+  },
+  {
+    "id": "ubio-65", "section": "biology",
+    "question": "The concept of 'ecological stoichiometry' and the Redfield ratio in marine biology states:",
+    "options": ["Marine phytoplankton have remarkably constant C:N:P = 106:16:1 (atomic ratios) — the Redfield ratio; deep ocean nutrients have similar N:P ratio (~16:1) suggesting phytoplankton have shaped ocean chemistry over geological time; deviations indicate nutrient limitation (N vs P limitation)", "All ocean organisms have C:N:P = 1:1:1", "Phytoplankton C:N:P varies independently with no consistent ratio", "The Redfield ratio applies only to terrestrial plants"],
+    "correct": 0,
+    "explanation": "Redfield ratio (Alfred Redfield, 1934): Phytoplankton biomass = C₁₀₆H₂₆₃O₁₁₀N₁₆P₁ (Redfield 1958). Net photosynthesis (including nutrient uptake): 106CO₂ + 16NO₃⁻ + HPO₄²⁻ + 122H₂O + 18H⁺ → C₁₀₆H₂₆₃O₁₁₀N₁₆P₁ + 138O₂. The near-constancy of oceanic N:P (~16:1) was noted, with Redfield proposing feedback: N-fixing organisms bloom when N:P < 16 (P in excess), restoring N:P. Modern view: N:P varies by phytoplankton group (diatoms higher Si, Trichodesmium higher N), by growth rate, nutrient conditions. Ocean N-limitation at surface, P-limitation in some basins (Mediterranean, parts of Atlantic), Fe-limitation in HNLC areas."
+  },
+  {
+    "id": "ubio-66", "section": "biology",
+    "question": "The mechanism of auxin-induced lateral root initiation involves:",
+    "options": ["Auxin accumulation in pericycle founder cells (Xylem-pole pericycle in Arabidopsis) → ARF7/ARF19 activation → LBD16/LBD29/LBD18/LBD33 expression → asymmetric anticlinal divisions → primordium development → organ-shaping signals allow emergence through endodermis/cortex/epidermis via auxin-driven remodeling", "Only apical meristem producing signals for lateral root initiation", "Cytokinin being the primary hormone for lateral root formation", "Ethylene promoting lateral root emergence without any auxin requirement"],
+    "correct": 0,
+    "explanation": "Lateral root (LR) development: Periodic auxin maxima (auxin oscillation from the root tip, DR5:GFP oscillations) mark 'prebranch sites' in protoxylem-pole pericycle cells. Auxin → TIR1 (receptor) → AXR3/IAA17 and SLR/IAA14 (AUX/IAA repressors) degraded → ARF7+ARF19 activated → LBD (LOB Domain) TFs expressed (LBD16 promotes asymmetric division). Founder cells undergo asymmetric anticlinal division → lateral root primordium (8 stages). Emergence: Auxin from primordium remodels overlying endodermis (auxin-responsive Cdpk5→cell wall loosening) + cytokinin signaling in endodermis facilitates penetration. Nitrate (N-sensing) modulates LR elongation and angle."
+  },
+  {
+    "id": "ubio-67", "section": "biology",
+    "question": "What is 'kin discrimination' in the context of social insect colonies and how does it relate to genetic relatedness?",
+    "options": ["Social Hymenoptera (bees, wasps, ants) can distinguish nestmates from non-nestmates using cuticular hydrocarbons (CHCs) as recognition cues; haplodiploidy makes full sisters share r=0.75 (exceeds mother-offspring r=0.5) providing genetic basis for why workers more often raise sisters than own offspring — Hamilton's rule satisfied more easily", "Kin discrimination occurs only through learned behavior with no genetic basis", "All Hymenoptera recognize kin only through visual cues", "Queen pheromones entirely control worker behavior without kin recognition"],
+    "correct": 0,
+    "explanation": "Hymenopteran haplodiploidy: Males haploid (from unfertilized eggs), females diploid. Queens mated once: Full sisters share all paternal alleles (father's one set) + 50% maternal = r = 0.75 (vs 0.5 for normal diploid full sisters). Workers to their own offspring: r = 0.5. Since rB > C: workers gain more inclusive fitness raising sisters (r=0.75) than own offspring (r=0.5) if queen is monandrous. But: polyandry (multiple mating) reduces relatedness between half-sisters to r=0.25 — then Hamilton's rule for altruism harder to satisfy. CHC recognition: CHC blend on cuticle is genetically determined (desaturases, elongases) + colony-specific learned template. Discrimination allows nepotism (egg-laying workers preferentially police eggs of others)."
+  },
+  {
+    "id": "ubio-68", "section": "biology",
+    "question": "In plant defense signaling, systemic acquired resistance (SAR) is mediated by:",
+    "options": ["Salicylic acid (SA) acting as a mobile signal (or methyl-SA) from infected tissue → through phloem → distant tissues → NPR1 (SA receptor) releases from cytoplasmic oligomeric complex → enters nucleus as monomer → activates PR gene (PR1, PR2, PR5) expression via TGA transcription factors → broad-spectrum resistance", "Jasmonic acid being the primary signal for SAR against all pathogens", "SAR requires physical transport of pathogens to trigger systemic immunity", "Ethylene is the systemic signal for SAR"],
+    "correct": 0,
+    "explanation": "SAR (Ross, 1961; Ryals et al., 1994): Local infection with necrotizing pathogen → SA accumulation locally and systemically (SA travels as methyl-SA or as a glycolipid G3P signal through phloem + azelaic acid). SA binds NPR1 (Non-Pathogenesis Related 1) in cytoplasm — oligomeric complex maintained by intermolecular disulfide bonds. SA-induced redox change → Trxh5/Trxh3 reduce NPR1 → monomerizes → enters nucleus → interacts with TGA TFs (class II) → PR gene activation (PR1 = β-1,3-glucanase marker; PR2 = glucanase; PR5 = thaumatin-like). NPR3/NPR4 are SA receptors with opposing functions. ISR (Induced Systemic Resistance): JA/ET-dependent, triggered by non-pathogenic rhizobacteria."
+  },
+  {
+    "id": "ubio-69", "section": "biology",
+    "question": "The biochemistry of bioluminescence in fireflies (Photinus pyralis) involves:",
+    "options": ["Luciferase enzyme catalyzes: Luciferin + ATP + O₂ → Oxyluciferin* + AMP + PPi + CO₂ → Oxyluciferin (ground state) + hν (green-yellow light, 550-570nm) — the excited state oxyluciferin emits a photon upon returning to ground state; Mg²⁺ required; 90% quantum efficiency", "Luciferin is spontaneously oxidized without enzyme assistance", "GFP (green fluorescent protein) is responsible for firefly bioluminescence", "Bioluminescence requires an external light source for excitation"],
+    "correct": 0,
+    "explanation": "Firefly bioluminescence: Reaction: D-Luciferin + ATP → Luciferyl-AMP (enzyme-bound) + PPi (step 1). Luciferyl-AMP + O₂ → [Dioxetanone intermediate] → CO₂ + Oxyluciferin* (electronically excited) → Oxyluciferin + hν (light). Peak emission ~560nm (yellow-green). pH affects emission color: acidic pH → red shift (620nm) due to oxyluciferin protonation. Different firefly species emit different colors (Mg²⁺, pH, and luciferase active site shape). ~90% quantum yield (most photons per reaction). Used extensively as reporter gene. Luciferins differ in marine bioluminescence (Renilla: coelenterazine; dinoflagellates: tetrapyrrole luciferin)."
+  },
+  {
+    "id": "ubio-70", "section": "biology",
+    "question": "The fate of pyruvate under aerobic vs. anaerobic conditions in a eukaryotic cell is determined by:",
+    "options": ["Aerobic: pyruvate → mitochondria → pyruvate dehydrogenase complex (PDC: E1-pyruvate decarboxylase/E2-dihydrolipoyl transacetylase/E3-dihydrolipoyl dehydrogenase) → Acetyl-CoA + CO₂ + NADH → TCA cycle. Anaerobic: pyruvate stays in cytoplasm → lactate dehydrogenase (LDH) → lactate (in animal muscle) OR pyruvate decarboxylase+alcohol dehydrogenase → ethanol+CO₂ (yeast) — regenerating NAD⁺ for continued glycolysis", "Aerobic conditions: pyruvate converted to lactate to regenerate NADH", "Anaerobic: pyruvate enters mitochondria for oxidative phosphorylation", "PDC is located in the cytoplasm in eukaryotes"],
+    "correct": 0,
+    "explanation": "Pyruvate dehydrogenase complex (PDC): Located in mitochondrial matrix. Three enzymes (E1: thiamine pyrophosphate/TPP cofactor; E2: lipoic acid + CoA; E3: FAD + NAD⁺) + regulatory proteins (PDK: phosphorylates/inactivates E1; PDP: dephosphorylates/activates). Net: Pyruvate + CoA + NAD⁺ → Acetyl-CoA + CO₂ + NADH (ΔG = -33.5 kJ/mol, irreversible). Regulation: PDK activated by NADH, ATP, acetyl-CoA (product inhibition) → inactivates PDC. Exercise/starvation: PDK inhibited → PDC active. Arsenate poisoning inhibits PDC (attacks lipoic acid). Wernicke-Korsakoff (thiamine deficiency) → PDC dysfunction → neurological damage."
+  },
+  {
+    "id": "ubio-71", "section": "biology",
+    "question": "The mechanism of action of type I interferons (IFN-α/β) in antiviral immunity involves:",
+    "options": ["Viral dsRNA/ssRNA detected by PRRs (RIG-I, MDA5, TLR3/7/8) → IRF3/IRF7 phosphorylated → IFN-α/β gene transcription. Secreted IFNs bind IFNAR1/2 → JAK1/TYK2 → STAT1/STAT2 phosphorylation → ISGF3 complex (STAT1-STAT2-IRF9) → ISRE binding → antiviral ISGs induced: OAS/RNase L (RNA degradation), PKR (inhibits eIF2α → translation block), Mx GTPases", "IFN-α/β directly kill virus-infected cells by forming pores", "Type I IFNs are produced only by T lymphocytes and NK cells", "IFN signaling bypasses JAK-STAT pathway in antiviral defense"],
+    "correct": 0,
+    "explanation": "IFN pathway: Detection: Cytoplasmic: RIG-I (5'-ppp RNA, short dsRNA) + MDA5 (long dsRNA) → MAVS (mitochondrial) → TBK1/IKKε → IRF3/7 phosphorylation + NF-κB → IFN-β gene. Endosomal: TLR3 (dsRNA) → TRIF → IRF3; TLR7/8 (ssRNA) + TLR9 (CpG DNA) → MyD88 → IRF7. Secreted IFN-β binds IFNAR (ubiquitously expressed) → JAK1+TYK2 kinases activated → STAT1 (Tyr701) + STAT2 (Tyr690) phosphorylated → ISGF3 (STAT1-STAT2-IRF9) → ISRE (interferon-stimulated response element). ISG products: OAS1-3 activates RNase L (RNA degradation); PKR (EIF2AK2): phosphorylates eIF2α Ser51 → global translation inhibition; Mx1/Mx2: GTPases trapping viral nucleocapsids; ISG15 (ISGylation); IFIT proteins (sequester viral 5'-ppp RNA); Viperin."
+  },
+  {
+    "id": "ubio-72", "section": "biology",
+    "question": "The process of alternative splicing in pre-mRNA can generate multiple protein isoforms from a single gene. The alternative splicing of the Dscam gene in Drosophila can potentially generate:",
+    "options": ["~38,016 different mRNA isoforms (from 4 alternatively spliced exon clusters: exon 4 with 12 variants, exon 6 with 48 variants, exon 9 with 33 variants, exon 17 with 2 variants: 12×48×33×2) — each neuron expresses a unique Dscam isoform enabling self-avoidance in neural wiring", "Exactly 2 isoforms by exon skipping", "48 isoforms by single exon alternative selection", "Alternative splicing of Dscam has no relevance to neural development"],
+    "correct": 0,
+    "explanation": "Drosophila Dscam (Down syndrome cell adhesion molecule): Contains 4 clusters of alternatively spliced exons: Exon 4 cluster: 12 variants; Exon 6 cluster: 48 variants; Exon 9 cluster: 33 variants; Exon 17 cluster: 2 variants. Total: 12 × 48 × 33 × 2 = 38,016 potential isoforms (more than total Drosophila genes ~15,000). Function: Each neuron expresses one isoform combination. Homophilic interactions (same isoform) → repulsion (self-avoidance). Stochastic isoform expression ensures different isoforms on sister branches → mutual repulsion → branch spreading. In mammals: Dscam has only 2 isoforms but Pcdh (protocadherin) clusters (α, β, γ) provide similar diversity for self-avoidance via ~1500 combinations."
+  },
+  {
+    "id": "ubio-73", "section": "biology",
+    "question": "The ABO blood group system (Landsteiner, 1901) at the molecular level is determined by:",
+    "options": ["Allelic variants of a glycosyltransferase gene on chromosome 9: I^A allele encodes N-acetylgalactosaminyltransferase adding GalNAc to H antigen; I^B encodes galactosyltransferase adding Gal; I^O is nonfunctional (frameshift or null mutation); H antigen made by H-transferase (FUT1 gene); Bombay (Oh) phenotype lacks H antigen (FUT1 null)", "ABO determined by amino acid sequence of red blood cell surface proteins, not carbohydrates", "The I gene encodes the carbohydrate antigen directly, not a transferase", "A and B alleles are incompletely dominant without the I^O null allele"],
+    "correct": 0,
+    "explanation": "ABO biochemistry: H antigen (Fucose added to Type 2 chain by H-transferase/FUT1 gene) is the substrate. I^A (α-1,3-N-acetylgalactosaminyltransferase) adds GalNAc to H → A antigen. I^B (α-1,3-galactosyltransferase, differs by 4 aa from I^A) adds Gal to H → B antigen. I^A and I^B codominant (both enzymes active in AB). I^O: frameshift deletion (G261del most common) or missense → no active enzyme → H antigen remains → O phenotype. Bombay (hh or Oh): FUT1 null mutation → no H antigen → H-transferase substrate absent → no A or B antigen regardless of I genotype → universal recipients but can only receive Oh blood. Anti-H antibodies form."
+  },
+  {
+    "id": "ubio-74", "section": "biology",
+    "question": "The complete mechanism of oxidative phosphorylation (Complex I-V) in the inner mitochondrial membrane involves these complexes in order:",
+    "options": ["Complex I (NADH:ubiquinone reductase) + Complex II (succinate:ubiquinone reductase) → reduce CoQ → Complex III (ubiquinol:cytochrome c reductase, Q-cycle: 4H⁺ pumped per 2e⁻) → Cyt c → Complex IV (cytochrome c oxidase: reduces O₂→H₂O, 2H⁺ pumped per e⁻ pair) → proton gradient → Complex V (ATP synthase: FO-F1, ~2.7 H⁺ per ATP)", "Complex I → Complex IV → Complex II → CoQ → Complex III → ATP synthase", "Complex I and IV together directly make ATP without involving Complex III", "CoQ is not involved in electron transport and only Complex I donates electrons to Complex IV"],
+    "correct": 0,
+    "explanation": "OXPHOS complexes: CI (NADH dehydrogenase, 45 subunits): NADH → NAD⁺, 2e⁻ to FMN → Fe-S clusters → CoQ. Pumps 4H⁺/2e⁻ transferred. CII (succinate dehydrogenase, 4 subunits): Succinate → Fumarate, FADH₂ → Fe-S → CoQ. NO proton pumping. CoQ (Coenzyme Q/ubiquinone): Lipid-soluble, mobile carrier in membrane. CIII (bc1 complex/Rieske Fe-S + Cyt b + Cyt c1): Q-cycle → 4H⁺ pumped per 2e⁻, transfers electrons to Cyt c. CIV (4 subunits core, 13 total): Cyt c → CuA → heme a → heme a3/CuB → O₂ + 4H⁺ → 2H₂O. Pumps ~4H⁺/2e⁻. CV (ATP synthase): FO (c-ring rotation) + F1 (α₃β₃γδε): ~3 H⁺ per β-subunit rotation. Theoretical P:O ratios: NADH ~2.5 ATP; FADH₂ ~1.5 ATP."
+  },
+  {
+    "id": "ubio-75", "section": "biology",
+    "question": "The concept of 'facilitated diffusion' in the context of transcription factor binding to DNA involves:",
+    "options": ["TFs find their specific binding sites by 1D sliding along DNA (non-specific binding + diffusion along DNA helix), 3D diffusion through solution, and DNA-to-DNA 'jumping' (intersegment transfer) — reducing search time ~1000-fold compared to pure 3D diffusion; estimated ~10⁶ non-specific sites must be searched for ~1 specific site", "TFs directly bind their specific DNA sequence in a single collision event", "Protein chaperones escort TFs directly to target DNA sequences", "TFs find target sites by random 3D diffusion only — no 1D sliding occurs"],
+    "correct": 0,
+    "explanation": "Target-site location by TFs: Pure 3D diffusion would require ~10³-10⁴ seconds to find a target among ~10⁸ bp (E. coli) or ~10⁹ bp (human) — too slow. Facilitated diffusion (Berg, Winter, von Hippel 1981): TF first binds DNA non-specifically (electrostatic, weaker) → slides/hops along DNA in 1D random walk → occasionally dissociates → 3D diffusion (short jump) → reassociation → continues searching. Advantage: 1D sliding searches ~50-100 bp per association event. For lac repressor: measured k_on ~ 10¹⁰ M⁻¹s⁻¹ (10-100× faster than diffusion limit for 3D) — because 1D sliding. Intersegment transfer: TF transiently bridges two DNA segments → transfers directly (requires two DNA-binding domains). These mechanisms reduce target search time from thousands to seconds."
+  },
+  {
+    "id": "ubio-76", "section": "biology",
+    "question": "The genetic code's near-universality has key exceptions including:",
+    "options": ["Mitochondrial code uses UGA = Trp (not stop), AUA = Met (not Ile), AGA/AGG = stop (not Arg) in vertebrates; Mycoplasma uses UGA = Trp; some ciliates (Paramecium) use UAA/UAG = Gln; Euplotes uses UGA = Cys; selenocysteine (21st amino acid) encoded by UGA + SECIS element in specific mRNAs; pyrrolysine (22nd AA) encoded by UAG in some archaea", "The genetic code is completely universal with no exceptions anywhere", "Only the human mitochondrial code differs from the standard code", "All UGA codons universally encode tryptophan"],
+    "correct": 0,
+    "explanation": "Genetic code variations: Standard code UGA = stop; UAA, UAG = stop. Vertebrate mitochondria: UGA = Trp (tryptophan); AUA = Met; AGA, AGG = stop codons (not Arg). Yeast mitochondria: CUU, CUC, CUA, CUG = Thr (not Leu). Mitochondria have minimal tRNA set (~22 tRNAs using 'wobble' rules), explaining codon reassignments. Mycoplasma: UGA = Trp. Ciliates Paramecium, Tetrahymena: UAA, UAG = Gln. Euplotes crassus: UGA = Cys (Sec in most organisms with SECIS). Selenocysteine (Sec, U): encoded by UGA + SECIS element in 3' UTR; special tRNA (tRNA^Sec), SelA-SelB machinery. Pyrrolysine (Pyl, O): UAG + PYLIS element in some methanogenic archaea (Methanosarcina). These are 'recoded' stops."
+  },
+  {
+    "id": "ubio-77", "section": "biology",
+    "question": "The mechanism of Agrobacterium tumefaciens-mediated plant transformation involves:",
+    "options": ["Ti plasmid: VirA/VirG two-component system senses plant wound signals (acetosyringone) → activates vir genes → VirD1/VirD2 nicks Ti plasmid at border sequences producing T-strand (ssDNA) → VirD2 caps 5' end → VirE2 coats T-strand → T-complex transported via VirB type IV secretion system into plant cell → VirD2 NLS → nucleus → T-DNA integrates into plant genome (semi-random)", "Agrobacterium directly injects whole plasmid DNA into plant cells through physical puncture", "T-DNA integration occurs in plant chloroplasts, not the nucleus", "VirB proteins form pili for mating between two Agrobacterium cells only"],
+    "correct": 0,
+    "explanation": "Agrobacterium transformation: Wound signals (acetosyringone, sugars, acidic pH) → VirA (membrane sensor HK) → phosphorylates VirG (RR TF) → activates vir regulon (virA,B,C,D,E,F,G,H). T-DNA processing: VirD2 (site-specific endonuclease) + VirD1 cleave precisely at right and left T-DNA border (25bp) → release T-strand (bottom strand). VirD2 covalently attached at 5' end (protects from exonuclease). VirE2 (ssDNA-binding protein) coats T-strand → T-complex. Export: VirB2-11 + VirD4 form Type IV secretion system (bacterial mating pilus-related). Nuclear targeting: VirD2 + VirE2 carry NLS → importins. Integration: Illegitimate recombination at nicks in plant genome (not homologous). T-DNA carries transgene between LB/RB borders; backbone vir genes and T-DNA are on separate binary vectors in modern systems."
+  },
+  {
+    "id": "ubio-78", "section": "biology",
+    "question": "In the context of population viability analysis (PVA), the minimum viable population (MVP) concept considers:",
+    "options": ["The minimum population size giving a 95% probability of persistence for 100 years, incorporating demographic stochasticity (random variation in birth/death rates), environmental stochasticity (year-to-year variation), genetic stochasticity (inbreeding/drift), and catastrophes — the '50/500 rule' (50 for avoiding inbreeding depression short-term; 500 for maintaining evolutionary potential)", "Only genetic drift as the factor determining minimum population size", "MVP applies only to endangered species with populations below 10 individuals", "MVP is solely determined by habitat area available to the species"],
+    "correct": 0,
+    "explanation": "MVP concepts (Franklin 1980, Soule 1980): 50/500 rule: Ne>50 to avoid inbreeding depression (F<0.01/generation); Ne>500 to maintain mutation-selection balance and long-term evolutionary potential. Modern PVA uses computer simulations (VORTEX, RAMAS) integrating: Demographic stochasticity — birth/death as Bernoulli trials (more severe in smaller populations). Environmental stochasticity — year-to-year K variation, predation pressure. Genetic stochasticity — drift, inbreeding (F = 1 - [1-1/2Ne]^t). Catastrophes — low probability, high mortality events. Allee effects — positive density dependence at low N (mate-finding, cooperative defense). General guideline: MVP ~1000-10,000 depending on species life history. IUCN uses quantitative criteria based on PVA (e.g., >50% extinction probability in 10 years = Critically Endangered)."
+  },
+  {
+    "id": "ubio-79", "section": "biology",
+    "question": "The phenomenon of 'quorum sensing' in gram-negative bacteria uses which specific type of signaling molecules?",
+    "options": ["N-acyl homoserine lactones (AHLs) that freely diffuse across membranes; at threshold density, AHLs accumulate → bind LuxR-type receptors (cytoplasmic) → LuxR-AHL complex activates target promoters (lux box) — V. fischeri LuxI/LuxR system regulates bioluminescence; P. aeruginosa uses LasI/LasR (3OC12-HSL) + RhlI/RhlR (C4-HSL) in hierarchical two-circuit system controlling virulence", "Peptide autoinducers (AIPs) used exclusively in gram-negative bacteria", "cAMP is the universal quorum sensing molecule in all bacteria", "AHLs only function in E. coli and not in other gram-negative organisms"],
+    "correct": 0,
+    "explanation": "Gram-negative QS: AHL system (Fuqua, Winans, Greenberg 1994). Synthase (LuxI-type): uses SAM + acyl-ACP → N-acyl-HSL (fatty acid chain length 4-18C, with/without 3-oxo modification determines signal specificity). Detection: LuxR-type receptors — in absence of AHL: unstable, often bound to 70S ribosome (inactive). AHL binding → stable LuxR-AHL complex → binds lux box (DNA binding domain) → transcription. V. fischeri: LuxI (3OC6-HSL) → LuxR-AHL → lux operon (luciferase + LuxI positive feedback). P. aeruginosa: LasI (3OC12-HSL) + RhlI (C4-HSL) in cascade; MvfR for PQS (2-heptyl-3-hydroxy-4-quinolone). Gram-positive: AIPs (autoinducing peptides) detected by membrane-bound two-component HK. Universal: AI-2 (furanosyl borate diester, LuxS enzyme) used across gram+/gram-."
+  },
+  {
+    "id": "ubio-80", "section": "biology",
+    "question": "Which molecular mechanism explains the directionality (5'→3') of DNA synthesis?",
+    "options": ["The 3'-OH of the last incorporated nucleotide attacks the α-phosphate of the incoming dNTP (at the 5' end) → forms phosphodiester bond + releases PPi (pyrophosphate) → PPi hydrolysis by pyrophosphatase makes reaction thermodynamically irreversible → chain can ONLY grow in 5'→3' direction; synthesis in 3'→5' would require attack on the 3'-OH of the incoming nucleotide which is sterically and thermodynamically unfavorable", "DNA polymerase can synthesize in both directions but preferentially goes 5'→3'", "The template strand determines directionality by having a directional signal sequence", "Helicase orientation dictates which direction DNA polymerase moves"],
+    "correct": 0,
+    "explanation": "DNA synthesis directionality: Mechanism: Active site of DNA Pol contains two Mg²⁺ ions coordinated by conserved Asp residues. The 3'-OH of growing chain (nucleophile) attacks the α-phosphate of incoming dNTP (5'-triphosphate end). SN2-like in-line attack → phosphodiester bond formed + PPi released. PPi hydrolysis (pyrophosphatase): PPi → 2Pi (ΔG < 0) pulls reaction forward. Why not 3'→5'?: Would require the 3'-OH of an incoming nucleotide to be the nucleophile, but the 5' triphosphate provides energy for the reaction — there is no 3'-triphosphate nucleotide. Also, 3'→5' synthesis would have no energy source (OH attacking OH equivalent). Error correction in 3'→5' exonuclease proofreading is OPPOSITE to synthesis direction, allowing Pol to back up and correct."
+  },
+  {
+    "id": "ubio-81", "section": "biology",
+    "question": "The concept of 'constructive neutral evolution' (Stoltzfus, 1999; Gray et al., 2010) proposes:",
+    "options": ["Complexity can increase through purely neutral processes without positive selection — a neutral mutation that renders a previously dispensable component now essential (mutation + secondary mutations creating dependence) can fix by drift; explains origin of complex spliceosome, nuclear pore, and ribosome structure without adaptive benefit", "All increases in biological complexity require positive selection", "Neutral mutations decrease complexity over time", "Constructive evolution only applies to regulatory regions, not protein structure"],
+    "correct": 0,
+    "explanation": "Constructive neutral evolution (CNE): Mechanism: Starting state — process works with component A optional (A is redundant). Neutral mutation 1: adds dependence on component A (A becomes required but no fitness cost because A still present). Now system is more complex but neutral. Additional drift and neutral mutations can continue building complexity. Examples: (1) Group II introns (self-splicing) → spliceosome (many proteins + snRNAs needed) — each addition could be neutral while spliceosome grows. (2) Nuclear pore complex — elaborate structure evolved neutrally if each addition exploited existing protein-protein interactions. (3) Genetic code redundancy → increasing dependency. CNE is an alternative/complement to the view that all complexity requires positive selection. Relevant to C-value paradox (large non-coding genomes in some organisms)."
+  },
+  {
+    "id": "ubio-82", "section": "biology",
+    "question": "In the context of signal transduction, the second messenger cAMP activates protein kinase A (PKA) by:",
+    "options": ["4 cAMP molecules bind 2 regulatory subunits (R, each binds 2 cAMP via CNB-A and CNB-B domains) → conformational change → R subunits dissociate from 2 catalytic subunits (C) → free C subunits active → phosphorylate substrates at Ser/Thr in consensus R-R-X-S/T-Φ motif; C subunits can also enter nucleus", "cAMP directly phosphorylates substrates without protein kinase activity", "PKA is activated by a single cAMP molecule binding to one R subunit", "cAMP degrades PKA R-subunits to release catalytic subunits"],
+    "correct": 0,
+    "explanation": "PKA (cAMP-dependent protein kinase): Inactive holoenzyme: R₂C₂ tetramer (two regulatory R subunits + two catalytic C subunits). R subunits (RI or RII type) have pseudosubstrate sequence that occupies C-subunit active site + two cAMP-binding domains (CNB-A + CNB-B) in C-terminus. Activation: cAMP (produced by adenylyl cyclase from ATP) binds CNB-B first (higher affinity) → conformational change exposes CNB-A → second cAMP binds → large conformational change in R → pseudosubstrate released → C subunits dissociate and become active. 4 cAMP: 2 per R subunit × 2 R subunits. Active C phosphorylates CREB (Ser133) in nucleus (cAMP response element). PKI (protein kinase inhibitor) inhibits free C subunits + promotes nuclear export. Subunit types: RIα, RIβ, RIIα, RIIβ with different distribution and function."
+  },
+  {
+    "id": "ubio-83", "section": "biology",
+    "question": "The Chargaff rules (A=T, G≡C) were essential for the Watson-Crick model, but more specifically, the BASE STACKING energy in the double helix is primarily due to:",
+    "options": ["π-π interactions (electronic delocalization) between stacked aromatic base rings perpendicular to helix axis, contributing ~1-4 kcal/mol per base pair step — greater than hydrogen bond energy per base pair (~1-2 kcal/mol for AT, ~3 kcal/mol for GC); base stacking contributes ~75% of total duplex stability", "Only hydrogen bonds between base pairs stabilize the double helix", "Ionic interactions between the phosphate backbone stabilize the helix", "Hydrophobic interactions from the sugar ring, not the bases, provide most stability"],
+    "correct": 0,
+    "explanation": "DNA duplex stability contributions: (1) Base stacking: π-π interactions between aromatic rings perpendicular to helix axis. London dispersion forces + electrostatic interactions between π electrons. Favorable stacking varies with nearest-neighbor sequence (ApG/CpT most stable stacks). ~2-4 kcal/mol per step. (2) Hydrogen bonds: AT = 2 H-bonds (~2 kcal/mol), GC = 3 H-bonds (~3 kcal/mol). However, H-bonds in water are partly offset by competing water H-bonds. Net: H-bonds ~1-2 kcal/mol per bp. (3) Evidence for stacking dominance: Single-stranded poly(A) still has significant UV hypochromism (due to stacking). Denaturation (DNA melting): loss of stacking is cooperative (entire stacking network collapses). Nearest-neighbor analysis shows sequence-dependent Tm. AT-rich regions melt first (less GC H-bonds + different stacking energies). Counterion condensation (Manning theory): ~76% of phosphate negative charge neutralized by condensed counterions (reduces electrostatic repulsion)."
+  },
+  {
+    "id": "ubio-84", "section": "biology",
+    "question": "In the context of protein folding diseases (proteinopathies), the seeded polymerization model of amyloid formation proposes:",
+    "options": ["A nucleation-elongation mechanism: intrinsically disordered monomers slowly form a thermodynamically unfavorable nucleus (oligomeric seed, lag phase) → nucleus acts as template for rapid monomer addition (elongation phase) → amyloid fibrils (cross-β sheet structure, H-bonds perpendicular to fibril axis) — seeding with preformed fibrils eliminates lag phase, explaining prion-like spreading in Parkinson's and Alzheimer's disease", "Amyloid forms only inside lysosomes by a non-template mechanism", "Fibril formation always requires chaperone assistance", "Once formed, amyloid fibrils are completely reversible under physiological conditions"],
+    "correct": 0,
+    "explanation": "Amyloid seeded polymerization: Intrinsically disordered proteins (α-synuclein in Parkinson's, tau in Alzheimer's/tauopathies, Aβ in Alzheimer's, TDP-43 in ALS) adopt partially unfolded conformations. Kinetics: Lag phase (slow — thermodynamically unfavorable nucleus of oligomers, critical nucleus size n*), Elongation phase (fast — fibril growth by monomer addition to fibril ends), Plateau (equilibrium). Cross-β structure: β-strands perpendicular to fibril axis, H-bonds parallel to fibril axis (amyloid-specific Congo red staining, thioflavin T fluorescence, birefringence). Seeding: preformed fibrils eliminate lag phase → template for same protein conformation → explains prion-like spreading. Braak staging (Parkinson's): α-synuclein pathology spreads from gut enteric nervous system → brainstem → cortex (Braak hypothesis: Lewy pathology spreading via cell-to-cell transmission). Toxic species: oligomers (not mature fibrils) may be the most toxic form (membrane disruption)."
+  },
+  {
+    "id": "ubio-85", "section": "biology",
+    "question": "The plant hormone abscisic acid (ABA) promotes stomatal closure during drought by:",
+    "options": ["ABA binds PYR/PYL/RCAR receptors → PYR-ABA complex inhibits PP2C phosphatases (ABI1, ABI2) → SnRK2 kinases (OST1/SnRK2.6) become active → phosphorylate SLAC1 (slow anion channel) and ALMT12/QUAC1 → anion efflux → membrane depolarization → outward-rectifying K⁺ channels (GORK) open → K⁺ efflux → loss of turgor → stomatal closure; also activates RBOH for ROS signaling", "ABA directly opens K⁺ channels without any kinase signaling", "ABA promotes H⁺ pumping → hyperpolarization → stomata close", "Only CO₂ concentration controls stomatal closure; ABA has no role"],
+    "correct": 0,
+    "explanation": "ABA stomatal closure signaling (complete pathway): Drought → ABA synthesized (NCED1 key enzyme in ABA biosynthesis from xanthoxin). ABA binds cytosolic PYR/PYL receptors (START domain proteins) → PYR-ABA dimer closes around PP2C (ABI1, ABI2, HAB1) → PP2C inhibited → SnRK2s (previously inhibited by PP2C dephosphorylation) become active. SnRK2 (OST1) phosphorylates: (1) SLAC1 (slow anion channel, AtSLAC1, major channel) → Cl⁻, NO₃⁻, malate efflux. (2) ALMT12/QUAC1 (quick-activating anion channel) → rapid anion efflux. Anion efflux → membrane depolarization → GORK (guard-cell outward rectifying K⁺ channel) opens → K⁺ efflux. Also: SnRK2 activates RBOHF (NADPH oxidase) → H₂O₂ → activates OSCA1 (Ca²⁺ channel) → Ca²⁺ rise → CaDPK → additional SLAC1 activation. Vacuolar water efflux via AtTIP2;1 → turgor loss → closure."
+  },
+  {
+    "id": "ubio-86", "section": "biology",
+    "question": "The evolution of eukaryotes from prokaryotes required which key innovations? Which is the most supported current hypothesis?",
+    "options": ["The 'inside-out' model or 'entangle-engulf-endogenize' proposes a syntrophic partnership between an Asgard archaeon (hydrogen-producing) and an alphaproteobacterium (hydrogen-consuming) → metabolic interdependence → engulfment → mitochondrion; Asgard archaea (Lokiarchaeota etc.) are the closest known prokaryotic relatives of eukaryotes based on phylogenomics", "Eukaryotes evolved directly from gram-positive bacteria without any archaeal contribution", "The nucleus evolved before mitochondria in eukaryotic evolution", "Eukaryotes and prokaryotes share no evolutionary relationship"],
+    "correct": 0,
+    "explanation": "Eukaryote origin: Phylogenomics consistently places eukaryotes within/sister to Asgard archaea (superphylum containing Lokiarchaeota, Thorarchaeota, Odinarchaeota, Heimdallarchaeota — discovered via metagenomics 2015-2020). Heimdallarchaeota appears closest to eukaryotes. Asgard archaea have many 'eukaryotic signature proteins': actin homologs (crenactin), ubiquitin-like proteins, endosomal sorting, ESCRT, tubulin-like protein. Two-domain tree: (Bacteria (Asgard+Eukaryotes)) vs. Three-domain tree (Bacteria, Archaea, Eukarya). Hydrogen hypothesis (Martin & Müller 1998): syntrophy between H₂-producing anaerobe (proto-mitochondrion, alphaproteobacterium) and H₂-consuming archaeon. Gene transfer → alphaproteobacterium became mitochondrion. Evidence: Mitochondria closely related to Alphaproteobacteria (Rickettsia relatives); All eukaryotes had mitochondria (no amitochondriate eukaryote found without relict mitochondrion)."
+  },
+  {
+    "id": "ubio-87", "section": "biology",
+    "question": "The mechanism of piRNA (Piwi-interacting RNA) biogenesis and function in protecting the germline genome involves:",
+    "options": ["Primary piRNAs processed from single-stranded precursor transcripts from piRNA clusters → loaded into PIWI proteins → 'ping-pong' amplification cycle (antisense piRNA in PIWI cleaves transposon mRNA → sense piRNAs loaded into Aubergine/PIWI → cleave antisense piRNA precursor) → secondary piRNAs amplified exponentially → transposon silencing (post-transcriptional + transcriptional via H3K9me3)", "piRNAs are processed by Dicer from dsRNA like siRNAs", "piRNAs only silence transposons in somatic cells, not germline", "The ping-pong cycle amplifies miRNAs, not piRNAs"],
+    "correct": 0,
+    "explanation": "piRNA biology: Size: 24-31 nt (longer than miRNA/siRNA). PIWI proteins: Argonaute family — PIWI, Aubergine (AUB), AGO3 in Drosophila; MILI, MIWI, MIWI2 in mice. Primary biogenesis: piRNA clusters (transposon-rich heterochromatin regions) transcribed into long ssRNA → processed by Zucchini (mitoPLD) endonuclease → Trimmer (Papi/Parn) for 3' trimming → loaded into AUB or PIWI → 2'-O-methylation at 3' end by Hen1 (Pimet). Ping-pong cycle (secondary amplification): Primary antisense piRNA (in AUB/PIWI) cleaves complementary sense transposon mRNA → sense fragment loaded into AGO3 → AGO3-sense piRNA cleaves antisense piRNA precursor → new antisense piRNA in AUB → amplification. Signature: 10nt 5' overlap between antisense (AUB) and sense (AGO3) piRNAs, U at position 1 (AUB), A at position 10 (AGO3). Transcriptional silencing: Nuclear PIWI + piRNA recruits H3K9me3 methyltransferases → heterochromatin → transposon silencing. Failure → transposon mobilization → fertility defects."
+  },
+  {
+    "id": "ubio-88", "section": "biology",
+    "question": "In the context of plant immunity, the 'guard hypothesis' explains how NLR (nucleotide-binding leucine-rich repeat) proteins activate disease resistance by:",
+    "options": ["NLR proteins (TIR-NLR or CC-NLR) do NOT directly bind pathogen effectors; instead they 'guard' host immune components (guardees/decoys) that are targeted and modified by pathogen effectors → NLR detects modification of guardee → activation → ETI (effector-triggered immunity) — hypersensitive response, massive defense gene induction, often cell death", "NLR proteins directly bind PAMP patterns like PRR receptors", "NLR proteins are only expressed in vascular tissue", "Guardees are pathogen proteins that NLRs recognize extracellularly"],
+    "correct": 0,
+    "explanation": "Plant immunity two-tier model: PTI (PAMP-Triggered Immunity): PRRs (FLS2/BAK1 for flagellin, EFR for EF-Tu, CERK1 for chitin) recognize PAMPs → PTI responses (MAPK, ROS burst, callose, defense genes). ETI (Effector-Triggered Immunity): Pathogens inject effectors to suppress PTI. Guard hypothesis (Jones & Dangl, 2001): RPS2 (NLR) guards RIN4 (guardee protein). Pseudomonas AvrRpt2 cleaves RIN4 → RPS2 detects modified RIN4 → ETI. Decoy hypothesis (van der Hoorn & Kamoun, 2008): Decoys mimic real targets but have no immune function — evolved solely to be detected. Examples: PBS1 (guarded by RPS5) cleaved by AvrPphB protease → RPS5 activation. Effector detection strategies: direct binding (rare, e.g., RPM1), guardee modification detection, integrated decoy domains (ID) within NLR (NLR-ID: e.g., RGA5 has RATX1 domain mimicking target). ETI: HR (hypersensitive response), SAR induction, massive NLR gene induction."
+  },
+  {
+    "id": "ubio-89", "section": "biology",
+    "question": "The process of 'alternative end joining' (alt-EJ/MMEJ) as a DNA double-strand break repair pathway involves:",
+    "options": ["Resection of DNA ends (by MRN/CtIP) exposing microhomologous sequences (2-25 bp) on either side of the break → microhomology annealing → flap removal → error-prone synthesis → ligation by Ligase III/XRCC1; results in deletions between the microhomologies; predominates in NHEJ-deficient cells; used in CRISPR repair leading to characteristic deletion signatures; Pol θ (POLQ) is key polymerase", "Alt-EJ is identical to classical NHEJ but uses different ligase", "MMEJ requires a long homology template like HDR", "Pol θ is involved in nucleotide excision repair, not DSB repair"],
+    "correct": 0,
+    "explanation": "Alt-EJ (alternative end joining) / MMEJ (microhomology-mediated end joining) / TMEJ (theta-mediated EJ): Initiated: DSB ends resected by MRN (MRE11-RAD50-NBS1) + CtIP (short resection, ~100 nt) → 3' ssDNA tails exposed. Microhomology (2-25 nt) search: ssDNA tails from opposite ends anneal at microhomologies. Flap endonuclease (ERCC1/XPF) removes non-annealing tails. Pol θ (POLQ gene): Unique features — N-terminal helicase-like domain + C-terminal polymerase domain; extremely low fidelity, can extend mismatched primers, generates template switching/insertions. Gap synthesis by Pol θ → Ligase III/XRCC1 completes repair. Outcome: Deletion of sequence between microhomologies + sometimes insertions (Pol θ slippage). CRISPR: Alt-EJ signatures help distinguish from NHEJ (blunt indels) or HDR. Clinical: BRCA1/2 deficient tumors rely more on alt-EJ → target with Pol θ inhibitors. Olaparib (PARP inhibitor) traps PARP on DNA → prevents alt-EJ → synthetic lethality in BRCA-deficient cells."
+  },
+  {
+    "id": "ubio-90", "section": "biology",
+    "question": "The evolutionary concept of 'evolvability' and 'robustness' are related because:",
+    "options": ["Robustness (ability to maintain phenotype despite perturbations — mutations, environment) can INCREASE evolvability by allowing cryptic genetic variation to accumulate neutrally; when robustness is disrupted (e.g., Hsp90 buffering), hidden variation is revealed and can fuel rapid evolution — proposed by Rutherford & Lindquist (1998) using Hsp90 as capacitor of morphological evolution", "Robustness and evolvability are mutually exclusive — more robust means less evolvable", "Evolvability is a direct consequence of high mutation rates only", "Hsp90 prevents evolution by correcting all misfolded proteins uniformly"],
+    "correct": 0,
+    "explanation": "Robustness-evolvability relationship: Hsp90 as 'capacitor' (Rutherford & Lindquist 1998): Hsp90 is a chaperone stabilizing normally unstable client proteins (kinases, TFs, hormone receptors). Many signaling pathway components are Hsp90 clients. Cryptic genetic variation: mutations in Hsp90 clients that are normally buffered (protein still folds with Hsp90 help) accumulate neutrally. When Hsp90 is overwhelmed (environmental stress, or Hsp90 mutations/inhibitors like geldanamycin) → cryptic variation revealed as new phenotypes → selection can act. Evidence: Drosophila Hsp90 (Hsp83) reduction → variety of morphological phenotypes uncovered from different genetic backgrounds. Capacitor model: Neutral networks in sequence space allow many mutations without phenotypic change (robustness) → genetic variation accumulates → chance rare environmental/genetic perturbation releases variation → rapid phenotypic evolution. Mathematical: RNA secondary structure neutral networks (Schuster/Fontana), protein neutral networks, metabolic flux robustness."
+  }
+]

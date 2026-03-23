@@ -1,0 +1,362 @@
+[
+  {
+    "id": "chemistry-1",
+    "section": "chemistry",
+    "question": "Among the following species, which has the smallest bond angle?",
+    "options": ["BF3", "NH3", "H2O", "CH4"],
+    "correct": 2,
+    "explanation": "H2O has two lone pairs, so lone pair-lone pair repulsion compresses the bond angle the most."
+  },
+  {
+    "id": "chemistry-2",
+    "section": "chemistry",
+    "question": "The molecular shape of SF4 is:",
+    "options": ["Tetrahedral", "Trigonal bipyramidal", "Square pyramidal", "See-saw"],
+    "correct": 3,
+    "explanation": "SF4 has 5 electron domains with one lone pair, giving a see-saw shape."
+  },
+  {
+    "id": "chemistry-3",
+    "section": "chemistry",
+    "question": "Which of the following species is paramagnetic?",
+    "options": ["N2", "O2", "CO2", "Ne2"],
+    "correct": 1,
+    "explanation": "O2 has two unpaired electrons in its molecular orbital configuration."
+  },
+  {
+    "id": "chemistry-4",
+    "section": "chemistry",
+    "question": "Which species has the highest bond order?",
+    "options": ["O2+", "O2", "O2-", "O2 2-"],
+    "correct": 0,
+    "explanation": "O2+ has bond order 2.5, which is higher than O2, O2-, and O2 2-."
+  },
+  {
+    "id": "chemistry-5",
+    "section": "chemistry",
+    "question": "Among the following salts, which has the highest lattice enthalpy?",
+    "options": ["NaCl", "KBr", "CaO", "MgO"],
+    "correct": 3,
+    "explanation": "MgO has doubly charged ions and smaller ionic radii, so its lattice enthalpy is highest."
+  },
+  {
+    "id": "chemistry-6",
+    "section": "chemistry",
+    "question": "The strongest acid among the hydrogen halides is:",
+    "options": ["HF", "HCl", "HBr", "HI"],
+    "correct": 3,
+    "explanation": "HI has the weakest H-I bond and is therefore the strongest acid."
+  },
+  {
+    "id": "chemistry-7",
+    "section": "chemistry",
+    "question": "The strongest reducing agent among halide ions is:",
+    "options": ["F-", "Cl-", "Br-", "I-"],
+    "correct": 3,
+    "explanation": "Reducing power increases down the group; I- is the easiest to oxidize."
+  },
+  {
+    "id": "chemistry-8",
+    "section": "chemistry",
+    "question": "The oxidation state of manganese in KMnO4 is:",
+    "options": ["+4", "+5", "+6", "+7"],
+    "correct": 3,
+    "explanation": "Let Mn be x: K(+1) + x + 4(-2) = 0, so x = +7."
+  },
+  {
+    "id": "chemistry-9",
+    "section": "chemistry",
+    "question": "Which molecule has zero dipole moment?",
+    "options": ["cis-1,2-dichloroethene", "trans-1,2-dichloroethene", "1,1-dichloroethene", "CH2Cl2"],
+    "correct": 1,
+    "explanation": "The bond dipoles cancel in trans-1,2-dichloroethene."
+  },
+  {
+    "id": "chemistry-10",
+    "section": "chemistry",
+    "question": "Which of the following complexes is square planar and diamagnetic?",
+    "options": ["[NiCl4]2-", "[Ni(CN)4]2-", "[FeF6]3-", "[CoF6]3-"],
+    "correct": 1,
+    "explanation": "CN- is a strong-field ligand; Ni2+ becomes dsp2 and diamagnetic."
+  },
+  {
+    "id": "chemistry-11",
+    "section": "chemistry",
+    "question": "How many unpaired electrons are present in [FeF6]3-?",
+    "options": ["0", "1", "3", "5"],
+    "correct": 3,
+    "explanation": "Fe3+ is d5 and F- is weak-field, so the complex is high-spin with five unpaired electrons."
+  },
+  {
+    "id": "chemistry-12",
+    "section": "chemistry",
+    "question": "The strongest field ligand among the following is:",
+    "options": ["F-", "H2O", "NH3", "CN-"],
+    "correct": 3,
+    "explanation": "CN- is a strong-field ligand and produces maximum crystal-field splitting among these."
+  },
+  {
+    "id": "chemistry-13",
+    "section": "chemistry",
+    "question": "Which pair shows linkage isomerism?",
+    "options": ["[Co(NH3)5(NO2)]Cl2 and [Co(NH3)5(ONO)]Cl2", "[Co(NH3)5Cl]Cl2 and [Co(NH3)5Br]Br2", "[Pt(NH3)2Cl2] and [Pt(NH3)4Cl2]", "[Cr(H2O)6]3+ and [Cr(NH3)6]3+"],
+    "correct": 0,
+    "explanation": "NO2- can coordinate through N or O, giving nitro and nitrito linkage isomers."
+  },
+  {
+    "id": "chemistry-14",
+    "section": "chemistry",
+    "question": "Among the chlorine oxyacids, the strongest acid is:",
+    "options": ["HClO", "HClO2", "HClO3", "HClO4"],
+    "correct": 3,
+    "explanation": "Acid strength increases with the number of oxygen atoms due stronger -I effect and resonance stabilization."
+  },
+  {
+    "id": "chemistry-15",
+    "section": "chemistry",
+    "question": "Why is the electron gain enthalpy of chlorine more negative than that of fluorine?",
+    "options": ["Higher nuclear charge in fluorine", "Smaller size of fluorine causes stronger electron-electron repulsion", "Chlorine has no p-electrons", "Fluorine has more shells"],
+    "correct": 1,
+    "explanation": "In fluorine, the added electron enters a very compact 2p orbital and faces greater repulsion."
+  },
+  {
+    "id": "chemistry-16",
+    "section": "chemistry",
+    "question": "For a gaseous equilibrium, Kp equals Kc when:",
+    "options": ["Δn = 1", "Δn = 0", "Δn = 2", "Δn = -1"],
+    "correct": 1,
+    "explanation": "Kp = Kc(RT)^Δn, so equality holds when Δn = 0."
+  },
+  {
+    "id": "chemistry-17",
+    "section": "chemistry",
+    "question": "For an exothermic equilibrium, increasing temperature shifts the equilibrium toward:",
+    "options": ["Products", "Reactants", "No shift", "Depends only on pressure"],
+    "correct": 1,
+    "explanation": "Heat acts like a product in exothermic reactions, so higher temperature favors reactants."
+  },
+  {
+    "id": "chemistry-18",
+    "section": "chemistry",
+    "question": "The half-life of a first-order reaction is:",
+    "options": ["Dependent on initial concentration", "Independent of initial concentration", "Directly proportional to initial concentration", "Equal to 1/k"],
+    "correct": 1,
+    "explanation": "For first-order kinetics, t1/2 = 0.693/k."
+  },
+  {
+    "id": "chemistry-19",
+    "section": "chemistry",
+    "question": "On dilution of a solution, which of the following decreases?",
+    "options": ["Molar conductance", "Specific conductance", "Equivalent conductance", "Degree of dissociation"],
+    "correct": 1,
+    "explanation": "Specific conductance decreases because the number of ions per unit volume decreases."
+  },
+  {
+    "id": "chemistry-20",
+    "section": "chemistry",
+    "question": "At 298 K, the relation between standard cell potential and equilibrium constant is:",
+    "options": ["E° = (0.0591/n) log K", "E° = n log K / 0.0591", "E° = -0.0591 log K / n", "E° = K/n"],
+    "correct": 0,
+    "explanation": "From ΔG° = -nFE° and ΔG° = -RT ln K, we get E° = (0.0591/n) log K at 298 K."
+  },
+  {
+    "id": "chemistry-21",
+    "section": "chemistry",
+    "question": "At half-neutralization of a weak acid with a strong base, the pH is equal to:",
+    "options": ["1/2 pKa", "pKa", "pH 7", "pKb"],
+    "correct": 1,
+    "explanation": "At half-neutralization, concentration of acid equals conjugate base, so pH = pKa."
+  },
+  {
+    "id": "chemistry-22",
+    "section": "chemistry",
+    "question": "The slowest step in a reaction mechanism determines the:",
+    "options": ["Equilibrium constant", "Rate law", "Molecular mass", "Catalyst polarity"],
+    "correct": 1,
+    "explanation": "The rate-determining step controls the overall rate law."
+  },
+  {
+    "id": "chemistry-23",
+    "section": "chemistry",
+    "question": "The oxidation state of chromium in K2Cr2O7 is:",
+    "options": ["+4", "+5", "+6", "+7"],
+    "correct": 2,
+    "explanation": "Let each Cr be x: 2(+1) + 2x + 7(-2) = 0, so x = +6."
+  },
+  {
+    "id": "chemistry-24",
+    "section": "chemistry",
+    "question": "Which species is aromatic?",
+    "options": ["Cyclobutadiene", "Cyclopentadienyl cation", "Cyclopentadienyl anion", "Cyclooctatetraene"],
+    "correct": 2,
+    "explanation": "Cyclopentadienyl anion has 6 pi electrons and satisfies Hückel's rule."
+  },
+  {
+    "id": "chemistry-25",
+    "section": "chemistry",
+    "question": "Which species is antiaromatic?",
+    "options": ["Benzene", "Cyclopentadienyl anion", "Cyclobutadiene", "Cyclooctatetraene"],
+    "correct": 2,
+    "explanation": "Cyclobutadiene has 4 pi electrons in a planar conjugated ring, which makes it antiaromatic."
+  },
+  {
+    "id": "chemistry-26",
+    "section": "chemistry",
+    "question": "The number of unpaired electrons in [Mn(H2O)6]2+ is:",
+    "options": ["0", "1", "3", "5"],
+    "correct": 3,
+    "explanation": "Mn2+ is d5 and H2O is a weak-field ligand, so the complex remains high-spin."
+  },
+  {
+    "id": "chemistry-27",
+    "section": "chemistry",
+    "question": "The number of sigma bonds and pi bonds in the nitrate ion, NO3-, is:",
+    "options": ["3 sigma, 0 pi", "3 sigma, 1 pi", "2 sigma, 2 pi", "3 sigma, 2 pi"],
+    "correct": 1,
+    "explanation": "There are three sigma bonds and one delocalized pi bond in nitrate."
+  },
+  {
+    "id": "chemistry-28",
+    "section": "chemistry",
+    "question": "The major product of addition of HBr to propene in the presence of peroxide is:",
+    "options": ["2-bromopropane", "1-bromopropane", "1,2-dibromopropane", "Propan-1-ol"],
+    "correct": 1,
+    "explanation": "Peroxide effect gives anti-Markovnikov addition, so Br goes to the terminal carbon."
+  },
+  {
+    "id": "chemistry-29",
+    "section": "chemistry",
+    "question": "Which compound does NOT give the iodoform test?",
+    "options": ["Ethanal", "Ethanol", "2-Propanol", "Propanal"],
+    "correct": 3,
+    "explanation": "Propanal lacks the required CH3CO- or CH3CH(OH)- unit needed for the iodoform test."
+  },
+  {
+    "id": "chemistry-30",
+    "section": "chemistry",
+    "question": "PCC is mainly used for the oxidation of primary alcohols to:",
+    "options": ["Carboxylic acids", "Aldehydes", "Ketones", "Alkanes"],
+    "correct": 1,
+    "explanation": "PCC is a mild oxidizing agent that stops at the aldehyde stage."
+  },
+  {
+    "id": "chemistry-31",
+    "section": "chemistry",
+    "question": "Clemmensen reduction converts carbonyl compounds into:",
+    "options": ["Alcohols", "Carboxylic acids", "Alkanes", "Ethers"],
+    "correct": 2,
+    "explanation": "Clemmensen reduction converts aldehydes and ketones to methylene compounds under acidic conditions."
+  },
+  {
+    "id": "chemistry-32",
+    "section": "chemistry",
+    "question": "Aldol condensation is shown by aldehydes and ketones having:",
+    "options": ["No oxygen atoms", "Alpha-hydrogen", "Only aromatic rings", "Halogen atoms"],
+    "correct": 1,
+    "explanation": "Alpha-hydrogen is required to form the enolate/enol intermediate."
+  },
+  {
+    "id": "chemistry-33",
+    "section": "chemistry",
+    "question": "Which compound is the least acidic?",
+    "options": ["Picric acid", "p-Nitrophenol", "Phenol", "p-Cresol"],
+    "correct": 3,
+    "explanation": "Electron-donating methyl group decreases acidity, so p-cresol is least acidic."
+  },
+  {
+    "id": "chemistry-34",
+    "section": "chemistry",
+    "question": "The nitro group in benzene is:",
+    "options": ["Ortho-para directing and activating", "Meta directing and deactivating", "Ortho-para directing and deactivating", "Meta directing and activating"],
+    "correct": 1,
+    "explanation": "The nitro group withdraws electron density by both -I and -M effects."
+  },
+  {
+    "id": "chemistry-35",
+    "section": "chemistry",
+    "question": "Compared with aniline, methylamine is more basic because:",
+    "options": ["Methylamine has resonance stabilization", "Aniline nitrogen is less available due to resonance with the ring", "Methylamine is aromatic", "Aniline has no lone pair"],
+    "correct": 1,
+    "explanation": "In aniline, the lone pair is delocalized into the benzene ring and is less available for protonation."
+  },
+  {
+    "id": "chemistry-36",
+    "section": "chemistry",
+    "question": "In aqueous solution, the basicity order of methylamines is:",
+    "options": ["(CH3)2NH > CH3NH2 > (CH3)3N > NH3", "(CH3)3N > (CH3)2NH > CH3NH2 > NH3", "CH3NH2 > (CH3)2NH > (CH3)3N > NH3", "NH3 > CH3NH2 > (CH3)2NH > (CH3)3N"],
+    "correct": 0,
+    "explanation": "In water, solvation makes secondary amines the most basic among simple alkyl amines."
+  },
+  {
+    "id": "chemistry-37",
+    "section": "chemistry",
+    "question": "The stability order of carbocations is:",
+    "options": ["Methyl > primary > secondary > tertiary", "Primary > secondary > tertiary > methyl", "Tertiary > secondary > primary > methyl", "Secondary > tertiary > primary > methyl"],
+    "correct": 2,
+    "explanation": "Hyperconjugation and inductive effects stabilize tertiary carbocations the most."
+  },
+  {
+    "id": "chemistry-38",
+    "section": "chemistry",
+    "question": "The fastest SN1 reaction is shown by:",
+    "options": ["CH3Cl", "CH3CH2Cl", "(CH3)2CHCl", "(CH3)3CCl"],
+    "correct": 3,
+    "explanation": "SN1 proceeds through carbocation formation, so the tertiary halide reacts fastest."
+  },
+  {
+    "id": "chemistry-39",
+    "section": "chemistry",
+    "question": "The product of propene + HBr in the presence of peroxide is:",
+    "options": ["2-bromopropane", "1-bromopropane", "1,2-dibromopropane", "2-bromopropan-1-ol"],
+    "correct": 1,
+    "explanation": "Peroxide induces anti-Markovnikov addition of HBr."
+  },
+  {
+    "id": "chemistry-40",
+    "section": "chemistry",
+    "question": "Which compound does NOT undergo aldol condensation?",
+    "options": ["Ethanal", "Acetone", "Propanal", "Formaldehyde"],
+    "correct": 3,
+    "explanation": "Formaldehyde has no alpha-hydrogen, so it cannot form the enolate required for aldol condensation."
+  },
+  {
+    "id": "chemistry-41",
+    "section": "chemistry",
+    "question": "At physiological pH, glycine mainly exists as a:",
+    "options": ["Carbanion", "Zwitterion", "Neutral molecule only", "Free radical"],
+    "correct": 1,
+    "explanation": "Amino acids commonly exist as zwitterions near neutral pH."
+  },
+  {
+    "id": "chemistry-42",
+    "section": "chemistry",
+    "question": "Which molecule stores and transmits genetic information?",
+    "options": ["Protein", "DNA", "Starch", "Cellulose"],
+    "correct": 1,
+    "explanation": "DNA is the hereditary material in most organisms."
+  },
+  {
+    "id": "chemistry-43",
+    "section": "chemistry",
+    "question": "Polyvinyl chloride is obtained by polymerization of:",
+    "options": ["Ethene", "Vinyl chloride", "Styrene", "Tetrafluoroethene"],
+    "correct": 1,
+    "explanation": "Vinyl chloride polymerizes to form PVC."
+  },
+  {
+    "id": "chemistry-44",
+    "section": "chemistry",
+    "question": "Which sugar is non-reducing?",
+    "options": ["Glucose", "Maltose", "Lactose", "Sucrose"],
+    "correct": 3,
+    "explanation": "In sucrose, both anomeric carbons are involved in the glycosidic bond, so no free reducing end remains."
+  },
+  {
+    "id": "chemistry-45",
+    "section": "chemistry",
+    "question": "Which oxide is amphoteric?",
+    "options": ["Na2O", "MgO", "Al2O3", "SO3"],
+    "correct": 2,
+    "explanation": "Al2O3 reacts with both acids and bases, so it is amphoteric."
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "id": "phy2-1", "section": "physics",
+    "question": "A particle undergoes SHM with amplitude A. The ratio of kinetic energy to total energy when displacement is A/2 is:",
+    "options": ["1/4", "1/2", "3/4", "1"],
+    "correct": 2,
+    "explanation": "KE = ½mω²(A²-x²). At x=A/2: KE = ½mω²(3A²/4). Total E = ½mω²A². Ratio = 3/4."
+  },
+  {
+    "id": "phy2-2", "section": "physics",
+    "question": "Two planets have the same density but radii R and 2R. The ratio of their surface gravities g₁:g₂ is:",
+    "options": ["1:2", "1:4", "2:1", "4:1"],
+    "correct": 0,
+    "explanation": "g = GM/R² = G(4πR³ρ/3)/R² = (4πGρ/3)R. So g ∝ R (at same density). g₁:g₂ = R:2R = 1:2."
+  },
+  {
+    "id": "phy2-3", "section": "physics",
+    "question": "The de Broglie wavelength of a particle accelerated through potential V is proportional to:",
+    "options": ["V", "V^(1/2)", "V^(-1/2)", "V^(-1)"],
+    "correct": 2,
+    "explanation": "KE = qV = p²/2m → p = √(2mqV). λ = h/p = h/√(2mqV) ∝ V^(-1/2)."
+  },
+  {
+    "id": "phy2-4", "section": "physics",
+    "question": "In a Young's double slit experiment, one slit is covered by a glass slab (μ, thickness t). The central fringe shifts by:",
+    "options": ["(μ-1)t/λ fringes toward the slab side", "(μ+1)t/λ fringes", "λ/(μ-1)t fringes", "No shift occurs"],
+    "correct": 0,
+    "explanation": "Optical path through slab increases by (μ-1)t. Fringe shift = (μ-1)t/λ fringe widths, toward the side of the slab."
+  },
+  {
+    "id": "phy2-5", "section": "physics",
+    "question": "A convex lens (f=20cm) and concave lens (f=-40cm) are in contact. Effective focal length is:",
+    "options": ["20 cm", "40 cm", "60 cm", "80 cm"],
+    "correct": 1,
+    "explanation": "1/f = 1/f₁ + 1/f₂ = 1/20 + 1/(-40) = 2/40 - 1/40 = 1/40. So f = 40 cm."
+  },
+  {
+    "id": "phy2-6", "section": "physics",
+    "question": "The electric field inside a uniformly charged solid sphere at distance r from center (r < R) is:",
+    "options": ["kQ/r²", "kQr/R³", "Zero", "kQ/R²"],
+    "correct": 1,
+    "explanation": "By Gauss's law inside solid sphere: E = kQr/R³. The field increases linearly with r inside the sphere."
+  },
+  {
+    "id": "phy2-7", "section": "physics",
+    "question": "In a series LCR circuit at resonance, the impedance is:",
+    "options": ["Maximum √(R²+(XL-XC)²)", "Minimum and equal to R only", "Zero", "Equal to XL"],
+    "correct": 1,
+    "explanation": "At resonance, XL = XC, so they cancel. Z = √(R²+0) = R (minimum). Current is maximum."
+  },
+  {
+    "id": "phy2-8", "section": "physics",
+    "question": "The time constant of an LR circuit (τ = L/R) represents the time for current to reach:",
+    "options": ["50% of final value", "(1 - 1/e) ≈ 63.2% of final value", "100% of final value", "25% of final value"],
+    "correct": 1,
+    "explanation": "I(t) = I₀(1 - e^(-t/τ)). At t = τ: I = I₀(1 - e⁻¹) = I₀(1 - 0.368) ≈ 0.632 I₀ = 63.2% of final."
+  },
+  {
+    "id": "phy2-9", "section": "physics",
+    "question": "EM waves are produced by:",
+    "options": ["Stationary charges", "Charges moving with constant velocity", "Accelerating charges", "Neutral atoms only"],
+    "correct": 2,
+    "explanation": "Maxwell's equations predict that accelerating (oscillating) charges produce changing E and B fields that propagate as electromagnetic waves."
+  },
+  {
+    "id": "phy2-10", "section": "physics",
+    "question": "The threshold frequency in the photoelectric effect is where:",
+    "options": ["Maximum KE of emitted electrons is maximum", "Photon energy exactly equals work function; emitted electron has zero KE", "Photocurrent is maximum", "Stopping potential equals supply voltage"],
+    "correct": 1,
+    "explanation": "Threshold frequency ν₀: hν₀ = φ (work function). At ν < ν₀, no emission. At ν = ν₀, emission just begins with zero KE."
+  },
+  {
+    "id": "phy2-11", "section": "physics",
+    "question": "In Bohr's model, the ratio of radius of 3rd orbit to 1st orbit in hydrogen is:",
+    "options": ["3", "6", "9", "27"],
+    "correct": 2,
+    "explanation": "Bohr radius rₙ = a₀n². r₃/r₁ = n₃²/n₁² = 9/1 = 9."
+  },
+  {
+    "id": "phy2-12", "section": "physics",
+    "question": "A radioactive sample decays to 1/16th of its original amount. The number of half-lives elapsed is:",
+    "options": ["2", "3", "4", "8"],
+    "correct": 2,
+    "explanation": "(1/2)ⁿ = 1/16 = (1/2)⁴. Therefore n = 4 half-lives."
+  },
+  {
+    "id": "phy2-13", "section": "physics",
+    "question": "In nuclear fission, energy is released because the fission products have:",
+    "options": ["Less binding energy per nucleon than the parent nucleus", "Greater binding energy per nucleon than U-235", "Zero mass defect", "Equal binding energy per nucleon"],
+    "correct": 1,
+    "explanation": "Fission products (medium-mass nuclei ~8.5 MeV/nucleon) have higher BE/nucleon than U-235 (~7.6 MeV/nucleon). The difference in total binding energy is released."
+  },
+  {
+    "id": "phy2-14", "section": "physics",
+    "question": "Under forward bias in a p-n junction, the depletion layer:",
+    "options": ["Increases in width", "Decreases in width", "Remains same", "Becomes infinite"],
+    "correct": 1,
+    "explanation": "Forward bias reduces the built-in potential barrier, causing the depletion region to narrow, allowing majority carriers to cross the junction."
+  },
+  {
+    "id": "phy2-15", "section": "physics",
+    "question": "The angle of dip at Earth's geographic poles is:",
+    "options": ["0°", "45°", "60°", "90°"],
+    "correct": 3,
+    "explanation": "At geographic poles, Earth's magnetic field lines are vertical, so a dip needle points straight down. The angle of dip (inclination) is 90°."
+  },
+  {
+    "id": "phy2-16", "section": "physics",
+    "question": "A particle projected at angle θ has range R. If projected at (90°-θ) with same speed, range is:",
+    "options": ["R/2", "2R", "R", "R·sinθ"],
+    "correct": 2,
+    "explanation": "Range R = v²sin2θ/g. Since sin2θ = sin(180°-2θ) = sin[2(90°-θ)], complementary angles give identical range."
+  },
+  {
+    "id": "phy2-17", "section": "physics",
+    "question": "For a Carnot engine, maximum possible efficiency of 100% would require:",
+    "options": ["T₁ = T₂", "T₂ = 0 K (cold reservoir at absolute zero)", "T₁ → ∞ only", "Work done = heat input at any temperature"],
+    "correct": 1,
+    "explanation": "Carnot efficiency η = 1 - T₂/T₁. η = 1 (100%) only when T₂ = 0 K. The Third Law makes this unattainable in practice."
+  },
+  {
+    "id": "phy2-18", "section": "physics",
+    "question": "Stefan-Boltzmann law states that power radiated per unit area of a blackbody is proportional to:",
+    "options": ["T²", "T³", "T⁴", "T"],
+    "correct": 2,
+    "explanation": "Stefan-Boltzmann law: P/A = σT⁴, where σ = 5.67 × 10⁻⁸ W m⁻² K⁻⁴."
+  },
+  {
+    "id": "phy2-19", "section": "physics",
+    "question": "For a reversible adiabatic process, the correct relation is:",
+    "options": ["PV = constant", "TV = constant", "PVγ = constant (where γ = Cp/Cv)", "P/T = constant"],
+    "correct": 2,
+    "explanation": "For a reversible adiabatic (isentropic) process: PVγ = constant. Also related: TV^(γ-1) = constant and TP^(γ/(1-γ)) = constant."
+  },
+  {
+    "id": "phy2-20", "section": "physics",
+    "question": "A charge q is at the center of a cube. Electric flux through one face of the cube is:",
+    "options": ["q/ε₀", "q/6ε₀", "q/8ε₀", "6q/ε₀"],
+    "correct": 1,
+    "explanation": "By Gauss's law: total flux through cube = q/ε₀. By symmetry, all 6 faces are equal. Flux through one face = q/6ε₀."
+  },
+  {
+    "id": "phy2-21", "section": "physics",
+    "question": "A 10μF capacitor charged to 100V is connected to an uncharged 10μF capacitor. Final voltage across each is:",
+    "options": ["100 V", "50 V", "200 V", "Zero"],
+    "correct": 1,
+    "explanation": "Q = CV = 10×10⁻⁶ × 100 = 10⁻³ C. After connection: total C = 20μF. V = Q/C_total = 10⁻³/(20×10⁻⁶) = 50 V."
+  },
+  {
+    "id": "phy2-22", "section": "physics",
+    "question": "A NAND gate followed by a NOT gate is logically equivalent to:",
+    "options": ["OR gate", "NOR gate", "AND gate", "XOR gate"],
+    "correct": 2,
+    "explanation": "NAND output = NOT(A·B). Passing through NOT: NOT[NOT(A·B)] = A·B → AND gate."
+  },
+  {
+    "id": "phy2-23", "section": "physics",
+    "question": "Two identical tuning forks at 256 Hz are sounded. A wax piece on one gives 4 beats/sec. The frequency of that fork is now:",
+    "options": ["260 Hz", "252 Hz", "256 Hz", "264 Hz"],
+    "correct": 1,
+    "explanation": "Wax adds mass → lowers frequency. Beats = |f₁ - f₂| = 4 Hz. Since frequency decreased: 256 - 4 = 252 Hz."
+  },
+  {
+    "id": "phy2-24", "section": "physics",
+    "question": "An object at center of curvature (C) of a concave mirror forms an image:",
+    "options": ["At infinity", "Between F and C", "At C — real, inverted, same size", "Behind the mirror (virtual)"],
+    "correct": 2,
+    "explanation": "With u = 2f, mirror formula: 1/v + 1/u = 1/f → 1/v = 1/f - 1/2f = 1/2f → v = 2f. Image at C — real, inverted, same size."
+  },
+  {
+    "id": "phy2-25", "section": "physics",
+    "question": "Polarization of light proves that light waves are:",
+    "options": ["Longitudinal", "Transverse", "Mechanical", "Scalar"],
+    "correct": 1,
+    "explanation": "Only transverse waves can be polarized (vibration restricted to one plane). Longitudinal waves (like sound) cannot be polarized."
+  },
+  {
+    "id": "phy2-26", "section": "physics",
+    "question": "A wire of resistance R is stretched to double its length (volume constant). New resistance is:",
+    "options": ["R", "2R", "4R", "8R"],
+    "correct": 2,
+    "explanation": "R = ρL/A. Volume constant: AL = A'(2L) → A' = A/2. New R' = ρ(2L)/(A/2) = 4ρL/A = 4R."
+  },
+  {
+    "id": "phy2-27", "section": "physics",
+    "question": "The gravitational potential inside a hollow spherical shell is:",
+    "options": ["Zero", "Constant and equal to -GM/R (value at surface)", "Maximum at center", "Minimum at center"],
+    "correct": 1,
+    "explanation": "Inside a hollow sphere, gravitational field E = 0. Since E = -dV/dr = 0, V = constant = -GM/R (the potential at the surface)."
+  },
+  {
+    "id": "phy2-28", "section": "physics",
+    "question": "The work done by the magnetic force on a charged particle moving in a magnetic field is:",
+    "options": ["Positive", "Negative", "Zero always", "Depends on charge sign"],
+    "correct": 2,
+    "explanation": "Magnetic force F = q(v × B) is always perpendicular to velocity v. Since W = F·ds = Fv cosθ = F·v cos90° = 0. Magnetic force does no work."
+  },
+  {
+    "id": "phy2-29", "section": "physics",
+    "question": "In Bohr's hydrogen model, the energy of the electron in nth orbit is Eₙ = -13.6/n² eV. The energy required to excite the electron from n=2 to n=4 is:",
+    "options": ["2.55 eV", "13.6 eV", "10.2 eV", "1.9 eV"],
+    "correct": 0,
+    "explanation": "E₂ = -13.6/4 = -3.4 eV; E₄ = -13.6/16 = -0.85 eV. ΔE = E₄ - E₂ = -0.85-(-3.4) = 2.55 eV."
+  },
+  {
+    "id": "phy2-30", "section": "physics",
+    "question": "The coefficient of viscosity η has dimensions:",
+    "options": ["MLT⁻¹", "ML⁻¹T⁻¹", "ML²T⁻²", "M⁰LT⁻²"],
+    "correct": 1,
+    "explanation": "From Stokes' law F = 6πηrv: η = F/(rv) = MLT⁻²/L·LT⁻¹ = ML⁻¹T⁻¹. SI unit is Pa·s (Pascal-second)."
+  },
+  {
+    "id": "phy2-31", "section": "physics",
+    "question": "For an ideal gas, the rms speed of molecules is related to temperature by:",
+    "options": ["vrms ∝ T", "vrms ∝ T²", "vrms ∝ √T", "vrms is independent of T"],
+    "correct": 2,
+    "explanation": "vrms = √(3RT/M). As T doubles, vrms increases by √2. So vrms ∝ √T."
+  },
+  {
+    "id": "phy2-32", "section": "physics",
+    "question": "Two parallel wires carrying currents in the SAME direction:",
+    "options": ["Repel each other", "Attract each other", "Exert no force", "Rotate about each other"],
+    "correct": 1,
+    "explanation": "By Ampere's law, the magnetic field of one wire exerts an attractive force on the other when currents are parallel (same direction). This principle defines the SI Ampere."
+  },
+  {
+    "id": "phy2-33", "section": "physics",
+    "question": "The pressure at depth h in a liquid of density ρ is given by: (P₀ = atmospheric pressure)",
+    "options": ["P₀ + ρgh", "P₀ - ρgh", "ρgh only", "P₀/ρgh"],
+    "correct": 0,
+    "explanation": "Pressure increases with depth: P = P₀ + ρgh. The hydrostatic pressure ρgh adds to the atmospheric pressure at the surface."
+  },
+  {
+    "id": "phy2-34", "section": "physics",
+    "question": "When a capillary tube is inserted in a liquid that wets the glass (contact angle < 90°), the liquid:",
+    "options": ["Depresses in the capillary", "Rises in the capillary — capillary rise", "Shows no change", "Overflows the capillary"],
+    "correct": 1,
+    "explanation": "For a wetting liquid (θ < 90°, like water-glass), meniscus is concave. Surface tension creates upward pressure, causing capillary rise. h = 2Tcosθ/rρg."
+  },
+  {
+    "id": "phy2-35", "section": "physics",
+    "question": "The total mechanical energy of a satellite in circular orbit at height h above Earth (radius R) is:",
+    "options": ["-GMm/2(R+h)", "-GMm/(R+h)", "GMm/2(R+h)", "Zero"],
+    "correct": 0,
+    "explanation": "KE = GMm/2r; PE = -GMm/r. Total E = KE + PE = GMm/2r - GMm/r = -GMm/2r = -GMm/2(R+h). Negative value indicates bound orbit."
+  },
+  {
+    "id": "phy2-36", "section": "physics",
+    "question": "For simple harmonic motion, which graph is linear?",
+    "options": ["Displacement vs time", "Acceleration vs time", "Acceleration vs displacement", "Velocity vs time"],
+    "correct": 2,
+    "explanation": "In SHM: a = -ω²x. So a ∝ x with slope -ω². Acceleration vs displacement is a straight line through origin with negative slope."
+  },
+  {
+    "id": "phy2-37", "section": "physics",
+    "question": "The resolving power of a microscope is best when:",
+    "options": ["Wavelength of light is large", "Wavelength of light is small (e.g., blue light, UV, electrons)", "Numerical aperture is small", "Lens aperture is reduced"],
+    "correct": 1,
+    "explanation": "Resolving power = 2μsinα/λ. Higher resolving power (smaller resolvable distance) requires smaller λ. Blue light > red light > UV > electrons in resolving power."
+  },
+  {
+    "id": "phy2-38", "section": "physics",
+    "question": "In an AC circuit, the power factor (cos φ) equals 1 when:",
+    "options": ["Only inductance is present", "Only capacitance is present", "Only pure resistance is present or at resonance in LCR", "Impedance is maximum"],
+    "correct": 2,
+    "explanation": "Power factor cosφ = R/Z. When Z = R (pure resistive circuit or LCR at resonance where XL = XC), cosφ = 1, meaning all power is dissipated as heat."
+  },
+  {
+    "id": "phy2-39", "section": "physics",
+    "question": "A photon of wavelength λ has momentum:",
+    "options": ["hλ", "h/λ", "hλ/c", "hc/λ²"],
+    "correct": 1,
+    "explanation": "Photon momentum p = h/λ = E/c = hν/c = h/λ. This was demonstrated by Compton scattering."
+  },
+  {
+    "id": "phy2-40", "section": "physics",
+    "question": "The critical angle for total internal reflection depends on:",
+    "options": ["Only the denser medium's refractive index", "The ratio of refractive indices (sinC = n₂/n₁, where n₁ > n₂)", "Only the wavelength of light", "The angle of incidence in the rarer medium"],
+    "correct": 1,
+    "explanation": "At critical angle C: n₁sinC = n₂sin90° → sinC = n₂/n₁. TIR occurs when light goes from denser (n₁) to rarer (n₂) medium at angle ≥ C."
+  },
+  {
+    "id": "phy2-41", "section": "physics",
+    "question": "In the photoelectric effect, doubling the intensity of light (same frequency) causes:",
+    "options": ["Doubling of maximum KE of photoelectrons", "Doubling of stopping potential", "Doubling of the number of photoelectrons emitted per second (photocurrent)", "No change"],
+    "correct": 2,
+    "explanation": "Intensity = number of photons per unit time. Doubling intensity doubles the photon flux → twice as many photoelectrons per second → photocurrent doubles. Max KE depends only on frequency."
+  },
+  {
+    "id": "phy2-42", "section": "physics",
+    "question": "The moment of inertia of a solid cylinder of mass M and radius R about its central axis is:",
+    "options": ["MR²", "½MR²", "⅔MR²", "2MR²/5"],
+    "correct": 1,
+    "explanation": "I = ½MR² for a solid cylinder about its central (symmetry) axis. Compare: hollow cylinder = MR²; solid sphere = 2MR²/5."
+  },
+  {
+    "id": "phy2-43", "section": "physics",
+    "question": "According to Kepler's third law, for planets orbiting the Sun, T² is proportional to:",
+    "options": ["r", "r²", "r³", "r^(1/2)"],
+    "correct": 2,
+    "explanation": "Kepler's third law: T² ∝ r³ (where r is the semi-major axis of the orbit). Derived from Newton's law of gravitation for circular orbits."
+  },
+  {
+    "id": "phy2-44", "section": "physics",
+    "question": "In a common emitter transistor amplifier, when input is applied at base-emitter and output taken at collector-emitter, the voltage gain is approximately:",
+    "options": ["β × (Rc/Rin)", "Rin/Rc", "β only", "1 always"],
+    "correct": 0,
+    "explanation": "Voltage gain Av = β × Rc/Rin (where β = hFE = current gain, Rc = collector resistance, Rin = input resistance at base). CE amplifier gives high voltage gain."
+  },
+  {
+    "id": "phy2-45", "section": "physics",
+    "question": "In Heisenberg's uncertainty principle, which pair of observables are conjugate variables?",
+    "options": ["Mass and velocity", "Position (x) and linear momentum (px) — Δx·Δpx ≥ ħ/2", "Charge and current", "Energy and mass"],
+    "correct": 1,
+    "explanation": "Heisenberg's uncertainty principle: Δx·Δpx ≥ ħ/2. It is impossible to know simultaneously the exact position and exact momentum of a particle. Other conjugate pair: ΔE·Δt ≥ ħ/2."
+  }
+]

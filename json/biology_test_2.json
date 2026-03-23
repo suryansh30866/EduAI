@@ -1,0 +1,542 @@
+[
+  {
+    "id": "bio2-1", "section": "biology", "question": "During Z-scheme of photosynthesis, the correct sequence of electron carriers between the two photosystems is:",
+    "options": ["PQ → Cyt b6f → PC → PSI → Fd → NADP⁺", "PC → PQ → Cyt b6f → Fd → NADP⁺", "Fd → PC → PQ → Cyt b6f → NADP⁺", "PQ → PC → Cyt b6f → PSI → Fd"],
+    "correct": 0,
+    "explanation": "After PSII, electrons move through plastoquinone (PQ), Cyt b6f complex, plastocyanin (PC) to PSI, then via ferredoxin (Fd) to reduce NADP⁺."
+  },
+  {
+    "id": "bio2-2", "section": "biology", "question": "The light compensation point in a plant is the light intensity at which:",
+    "options": ["Photosynthesis exceeds respiration", "Net CO2 fixation is zero — photosynthesis exactly equals respiration", "Only respiration occurs", "CO2 concentration is maximum"],
+    "correct": 1,
+    "explanation": "At the light compensation point, rate of photosynthesis = rate of respiration, so net gas exchange is zero."
+  },
+  {
+    "id": "bio2-3", "section": "biology", "question": "Which correctly describes the chemiosmotic hypothesis in chloroplasts?",
+    "options": ["H⁺ accumulates in stroma and flows into thylakoid lumen", "H⁺ accumulates in thylakoid lumen and flows to stroma through CF0-CF1 ATP synthase", "Electrons move from stroma to lumen through CF0-CF1 complex", "ATP is synthesized in the lumen by substrate-level phosphorylation"],
+    "correct": 1,
+    "explanation": "Protons accumulate inside the thylakoid lumen creating a proton gradient. They flow through CF0-CF1 ATP synthase to the stroma, driving ATP synthesis."
+  },
+  {
+    "id": "bio2-4", "section": "biology", "question": "In the Hatch-Slack pathway, the enzyme that regenerates PEP in mesophyll cells is:",
+    "options": ["RuBisCO", "PEPC", "PPDK (pyruvate phosphate dikinase)", "Malate dehydrogenase"],
+    "correct": 2,
+    "explanation": "Pyruvate phosphate dikinase (PPDK) converts pyruvate back to phosphoenolpyruvate (PEP) in mesophyll chloroplasts, consuming ATP."
+  },
+  {
+    "id": "bio2-5", "section": "biology", "question": "A cell lacking telomerase activity over many divisions would most likely show:",
+    "options": ["Chromosomes becoming longer each division", "Progressive chromosome shortening leading to replicative senescence", "DNA replication becoming bidirectional", "Okazaki fragments failing to join"],
+    "correct": 1,
+    "explanation": "Telomerase adds TTAGGG repeats to chromosome ends. Without it, each replication shortens telomeres, eventually triggering senescence or apoptosis."
+  },
+  {
+    "id": "bio2-6", "section": "biology", "question": "The wobble hypothesis by Crick explains why:",
+    "options": ["Ribosome subunits dissociate after translation", "The same tRNA can recognize multiple codons by flexible base pairing at the 3rd codon position", "Stop codons have no tRNA", "mRNA is processed in the nucleus"],
+    "correct": 1,
+    "explanation": "The wobble position is the 3rd nucleotide of the codon. Non-Watson-Crick base pairing here allows one tRNA to recognize multiple synonymous codons."
+  },
+  {
+    "id": "bio2-7", "section": "biology", "question": "Catabolite repression in the lac operon occurs because:",
+    "options": ["Lactose binds to the operator directly", "Low glucose → high cAMP → activates CAP → enhances transcription", "High glucose causes allolactose accumulation", "cAMP inhibits RNA polymerase binding"],
+    "correct": 1,
+    "explanation": "When glucose is absent, cAMP levels rise. cAMP binds CAP (catabolite activator protein), which enhances RNA polymerase binding at the lac promoter."
+  },
+  {
+    "id": "bio2-8", "section": "biology", "question": "The correct mechanism of RNA interference (RNAi) is:",
+    "options": ["siRNA activates ribosomes to degrade mRNA", "dsRNA is cleaved by Dicer into siRNA, which guides RISC to cleave complementary mRNA", "miRNA binds promoter and blocks transcription", "RNAi inserts stop codons into mRNA"],
+    "correct": 1,
+    "explanation": "Dicer cleaves dsRNA into siRNAs. These are incorporated into RISC, which uses the guide strand to find and degrade complementary mRNA."
+  },
+  {
+    "id": "bio2-9", "section": "biology", "question": "A recessive lethal allele in heterozygotes causes a 2:1 ratio in F2 because:",
+    "options": ["Incomplete dominance occurs", "Codominance occurs", "Homozygous recessive class is lethal, eliminating 1/4 of offspring", "Genomic imprinting occurs"],
+    "correct": 2,
+    "explanation": "When aa is lethal, 1/4 of offspring die, leaving AA (1/4) and Aa (2/4), giving a 1:2 ratio among survivors, seen as 2:1."
+  },
+  {
+    "id": "bio2-10", "section": "biology", "question": "A carrier female (X^R X^r) mates with a white-eyed male (X^r Y). What fraction of daughters will be white-eyed?",
+    "options": ["0", "1/4", "1/2", "All daughters"],
+    "correct": 2,
+    "explanation": "Daughters: X^R X^r (red) and X^r X^r (white) → 1/2 of daughters are white-eyed."
+  },
+  {
+    "id": "bio2-11", "section": "biology", "question": "The correct sequence of events during B-cell activation leading to antibody secretion is:",
+    "options": ["Antigen binding → T helper co-stimulation → clonal expansion → plasma cell differentiation", "T cell activation → B cell migration → antibody secretion → clonal expansion", "Plasma cell formation → clonal expansion → antigen binding", "B cell secretes antibody → antigen binding → T cell help"],
+    "correct": 0,
+    "explanation": "B cells bind antigen, receive co-stimulation from Th2 cells, proliferate (clonal expansion), and differentiate into plasma cells which secrete antibodies."
+  },
+  {
+    "id": "bio2-12", "section": "biology", "question": "The juxtaglomerular apparatus (JGA) responds to low blood pressure by:",
+    "options": ["Directly excreting more Na⁺", "Releasing renin → angiotensin II → aldosterone → increased Na⁺ reabsorption", "Releasing ADH from kidney to conserve water", "Inhibiting aldosterone synthesis"],
+    "correct": 1,
+    "explanation": "JGA cells release renin → angiotensinogen → angiotensin I → ACE → angiotensin II → stimulates aldosterone from adrenal cortex → Na⁺ retention."
+  },
+  {
+    "id": "bio2-13", "section": "biology", "question": "During the absolute refractory period of a nerve impulse:",
+    "options": ["K⁺ channels are still open", "Voltage-gated Na⁺ channels are inactivated and cannot open regardless of stimulus strength", "The membrane potential is at resting level", "Na⁺/K⁺ ATPase is inactive"],
+    "correct": 1,
+    "explanation": "During absolute refractory period, Na⁺ channels are in an inactivated state. They cannot be reopened until they reset to the closed-resting state."
+  },
+  {
+    "id": "bio2-14", "section": "biology", "question": "Which enzyme converts fibrinogen to fibrin during blood clotting?",
+    "options": ["Prothrombin", "Thrombin", "Factor X", "Plasmin"],
+    "correct": 1,
+    "explanation": "Thrombin (activated from prothrombin by the clotting cascade) cleaves fibrinogen into fibrin monomers that polymerize to form the clot."
+  },
+  {
+    "id": "bio2-15", "section": "biology", "question": "The Bohr effect explains that hemoglobin releases O₂ more readily when:",
+    "options": ["pH is high and CO₂ is low", "pH is low and CO₂ is high", "Temperature is low", "2,3-BPG is absent"],
+    "correct": 1,
+    "explanation": "In metabolically active tissues, CO₂ and H⁺ decrease pH. This causes conformational change in hemoglobin reducing O₂ affinity (Bohr effect), promoting O₂ release."
+  },
+  {
+    "id": "bio2-16", "section": "biology", "question": "Which cell type in the testes produces testosterone?",
+    "options": ["Sertoli cells", "Spermatogonia", "Leydig (interstitial) cells", "Primary spermatocytes"],
+    "correct": 2,
+    "explanation": "Leydig cells (interstitial cells) secrete testosterone in response to LH from the anterior pituitary."
+  },
+  {
+    "id": "bio2-17", "section": "biology", "question": "Genetic load in a population refers to:",
+    "options": ["The total number of genes in the genome", "Reduction in average fitness due to deleterious alleles maintained by mutation-selection balance", "Extra chromosomes from polyploidy", "The weight of DNA per cell"],
+    "correct": 1,
+    "explanation": "Genetic load is the proportion by which the population's mean fitness is reduced compared to the maximum, due to deleterious mutations maintained in the gene pool."
+  },
+  {
+    "id": "bio2-18", "section": "biology", "question": "The Bt toxin (Cry protein) in transgenic Bt cotton kills insects by:",
+    "options": ["Inhibiting mitochondrial ATP synthesis", "Binding to midgut epithelial receptors, creating pores causing cell lysis and death", "Blocking photosynthesis in feeding insects", "Inhibiting chitin synthesis in insect exoskeleton"],
+    "correct": 1,
+    "explanation": "The Cry protein binds specific receptors in lepidopteran larval gut epithelium, forms ion channels/pores, disrupts osmotic balance, and kills the insect."
+  },
+  {
+    "id": "bio2-19", "section": "biology", "question": "The interaction between a fig tree and its pollinating wasp is an example of:",
+    "options": ["Commensalism", "Parasitism", "Obligate mutualism", "Protocooperation"],
+    "correct": 2,
+    "explanation": "Fig trees and fig wasps are entirely dependent on each other — the wasp pollinates the fig and can only reproduce inside the fig. This is obligate mutualism."
+  },
+  {
+    "id": "bio2-20", "section": "biology", "question": "Which population growth model assumes intraspecific competition increases proportionally with population size?",
+    "options": ["Exponential growth model", "Logistic (Verhulst) growth model", "Metapopulation model", "Island biogeography model"],
+    "correct": 1,
+    "explanation": "The logistic model introduces carrying capacity (K) and assumes growth rate decreases as population approaches K, due to increasing intraspecific competition."
+  },
+  {
+    "id": "bio2-21", "section": "biology", "question": "Secondary succession differs from primary succession in that it:",
+    "options": ["Occurs on bare rock with no soil", "Always has lichens as pioneer species", "Occurs in areas with remnant soil after disturbance and is faster", "Takes the same time as primary succession"],
+    "correct": 2,
+    "explanation": "Secondary succession occurs in previously vegetated areas where soil remains (e.g., after fire). It is faster because soil and seed bank are already present."
+  },
+  {
+    "id": "bio2-22", "section": "biology", "question": "Lindeman's 10% law of energy transfer means:",
+    "options": ["10% of sunlight is fixed by plants", "Only 10% of energy at one trophic level is available to the next", "Decomposers receive 10% of total energy", "Producers retain 10% of energy for growth"],
+    "correct": 1,
+    "explanation": "Only about 10% of energy stored at one trophic level is transferred to the next, the rest being lost as heat during metabolic processes."
+  },
+  {
+    "id": "bio2-23", "section": "biology", "question": "The cofactor required by nitrogenase for biological nitrogen fixation is:",
+    "options": ["Heme iron", "Molybdenum-iron (MoFe) cofactor", "Copper", "Zinc"],
+    "correct": 1,
+    "explanation": "Nitrogenase has two components: Fe protein and MoFe protein. The iron-molybdenum cofactor (FeMo-co) is the active site where N₂ is reduced."
+  },
+  {
+    "id": "bio2-24", "section": "biology", "question": "Ethylene promotes fruit ripening primarily by:",
+    "options": ["Inhibiting cellulase enzymes", "Upregulating genes for cell wall-degrading enzymes and promoting climacteric respiration", "Increasing cytokinin levels in the fruit", "Preventing abscission zone formation"],
+    "correct": 1,
+    "explanation": "Ethylene induces expression of polygalacturonase and other cell wall-degrading enzymes, and triggers a burst of climacteric respiration in ripening fruits."
+  },
+  {
+    "id": "bio2-25", "section": "biology", "question": "The critical photoperiod in a Short Day Plant (SDP) refers to:",
+    "options": ["The maximum day length that allows flowering", "The minimum dark period required for flowering", "The exact hours of light needed", "The light length required to inhibit flowering"],
+    "correct": 0,
+    "explanation": "SDPs flower when day length is SHORTER than their critical photoperiod. Interrupting the continuous dark period with a brief light flash inhibits flowering in SDPs."
+  },
+  {
+    "id": "bio2-26", "section": "biology", "question": "Vernalization helps certain plants flower by:",
+    "options": ["Providing extra nutrients during winter", "Epigenetic silencing of a floral repressor (FLC gene) through prolonged cold treatment", "Increasing gibberellin levels in autumn", "Reducing photoperiod sensitivity permanently"],
+    "correct": 1,
+    "explanation": "Vernalization silences the FLC (Flowering Locus C) gene via Polycomb-mediated chromatin remodeling, allowing later activation of floral integrators."
+  },
+  {
+    "id": "bio2-27", "section": "biology", "question": "In angiosperms, the mature male gametophyte is the:",
+    "options": ["Microsporangium", "Mature pollen grain containing tube cell and generative cell (2 sperms)", "Stamen", "Anther wall tapetum"],
+    "correct": 1,
+    "explanation": "The mature pollen grain is the male gametophyte; it consists of the tube cell (forms the pollen tube) and a generative cell (divides to form 2 sperm cells)."
+  },
+  {
+    "id": "bio2-28", "section": "biology", "question": "MALDI-TOF mass spectrometry in proteomics measures mass-to-charge ratio based on:",
+    "options": ["Protein folding speed", "Time for ionized molecules to travel to detector — lighter ions arrive faster", "Duration of gel electrophoresis", "Time for antibody-antigen binding"],
+    "correct": 1,
+    "explanation": "Ionized molecules are accelerated in an electric field. Lighter ions reach the detector faster. TOF measures this flight time to calculate mass-to-charge ratio (m/z)."
+  },
+  {
+    "id": "bio2-29", "section": "biology", "question": "Gram-positive bacteria differ from Gram-negative bacteria in that they:",
+    "options": ["Have an outer membrane with LPS", "Retain crystal violet due to thick peptidoglycan; lack the outer membrane", "Are always more sensitive to antibiotics", "Have LPS embedded in their cell wall"],
+    "correct": 1,
+    "explanation": "Gram-positive bacteria have a thick peptidoglycan layer that traps crystal violet dye. Gram-negative have thin peptidoglycan but an outer membrane containing LPS."
+  },
+  {
+    "id": "bio2-30", "section": "biology", "question": "In the operon model, a constitutive mutant (operator mutation) of the lac operon results in:",
+    "options": ["Lac genes never being transcribed", "Lac genes being transcribed continuously regardless of lactose or glucose levels", "Increased repressor binding", "Permanent catabolite repression"],
+    "correct": 1,
+    "explanation": "A constitutive operator mutation prevents repressor from binding. Structural genes are transcribed continuously regardless of inducer or glucose levels."
+  },
+  {
+    "id": "bio2-31", "section": "biology", "question": "Which of the following is the first stable product of CO₂ fixation in C4 plants (in mesophyll cells)?",
+    "options": ["3-phosphoglycerate (3-PGA)", "Oxaloacetate (OAA)", "Malate", "Pyruvate"],
+    "correct": 1,
+    "explanation": "In C4 plants, PEP carboxylase in mesophyll cells combines CO₂ with PEP to form oxaloacetate (OAA) — the 4-carbon first product."
+  },
+  {
+    "id": "bio2-32", "section": "biology", "question": "Which of the following is an example of post-translational modification?",
+    "options": ["Addition of a 5' cap to mRNA", "Splicing of introns from pre-mRNA", "Phosphorylation of a serine residue in a protein", "Polyadenylation of mRNA 3' end"],
+    "correct": 2,
+    "explanation": "Post-translational modifications occur after protein synthesis. Phosphorylation of amino acid residues (serine, threonine, tyrosine) by kinases is a common example."
+  },
+  {
+    "id": "bio2-33", "section": "biology", "question": "Hybridoma technology is used to produce:",
+    "options": ["Recombinant insulin", "Monoclonal antibodies", "Interferon", "Human growth hormone"],
+    "correct": 1,
+    "explanation": "Hybridoma cells are formed by fusing B lymphocytes (antibody-producing) with myeloma cells (immortal). They produce monoclonal antibodies indefinitely."
+  },
+  {
+    "id": "bio2-34", "section": "biology", "question": "Which statement correctly describes apomixis in plants?",
+    "options": ["Sexual reproduction requiring double fertilization", "Production of seeds without fertilization from diploid cells", "Vegetative propagation only through stems", "Formation of pollen without meiosis"],
+    "correct": 1,
+    "explanation": "Apomixis is asexual seed formation. Seeds develop from diploid cells (not from fertilized egg), producing offspring genetically identical to the mother plant."
+  },
+  {
+    "id": "bio2-35", "section": "biology", "question": "In which phase of meiosis does crossing over (chiasmata formation) occur?",
+    "options": ["Leptotene", "Zygotene", "Pachytene", "Diplotene"],
+    "correct": 2,
+    "explanation": "Crossing over occurs during pachytene (the 'thick thread' stage) of meiosis I prophase, when homologous chromosomes are fully synapsed as bivalents."
+  },
+  {
+    "id": "bio2-36", "section": "biology", "question": "The phenomenon where a single gene affects multiple phenotypic traits is called:",
+    "options": ["Polygeny", "Pleiotropy", "Epistasis", "Codominance"],
+    "correct": 1,
+    "explanation": "Pleiotropy occurs when a single gene influences multiple, seemingly unrelated phenotypic traits. Example: Marfan syndrome gene affecting heart, skeleton, and eyes."
+  },
+  {
+    "id": "bio2-37", "section": "biology", "question": "Which type of RNA has the CCA-3' sequence at the 3' end for amino acid attachment?",
+    "options": ["mRNA", "rRNA", "tRNA", "snRNA"],
+    "correct": 2,
+    "explanation": "All mature tRNAs have a conserved CCA-3' sequence at their 3' end, to which amino acids are covalently attached by aminoacyl-tRNA synthetases."
+  },
+  {
+    "id": "bio2-38", "section": "biology", "question": "The enzyme responsible for breaking down the RNA primer during DNA replication in prokaryotes is:",
+    "options": ["DNA Polymerase I (5'→3' exonuclease activity)", "DNA Polymerase III", "Helicase", "DNA ligase"],
+    "correct": 0,
+    "explanation": "In E. coli, DNA Pol I removes RNA primers using its 5'→3' exonuclease activity, simultaneously replacing them with DNA using its polymerase activity."
+  },
+  {
+    "id": "bio2-39", "section": "biology", "question": "Turner syndrome (45, X0) is caused by:",
+    "options": ["Trisomy of chromosome 21", "Monosomy of sex chromosome — only one X present", "Trisomy of X chromosome", "Y chromosome duplication"],
+    "correct": 1,
+    "explanation": "Turner syndrome results from monosomy X (45, X0). Affected individuals are phenotypically female, infertile, short, with webbed neck and heart defects."
+  },
+  {
+    "id": "bio2-40", "section": "biology", "question": "Which of the following best defines ecological succession?",
+    "options": ["Seasonal changes in species abundance", "Directional change in community composition over time following a disturbance or on bare substrate", "Daily migration of animals", "Changes in gene frequency in a population"],
+    "correct": 1,
+    "explanation": "Ecological succession is the gradual and predictable process of community change in species composition and structure over time, ending in a stable climax community."
+  },
+  {
+    "id": "bio2-41", "section": "biology", "question": "The 'stepping stone' model in population genetics relates to:",
+    "options": ["Natural selection in small populations", "Gene flow between geographically arranged subpopulations", "Genetic drift in panmictic populations", "Mutation rates in isolated populations"],
+    "correct": 1,
+    "explanation": "The stepping stone model describes gene flow where migration occurs mainly between adjacent subpopulations arranged in a geographic pattern."
+  },
+  {
+    "id": "bio2-42", "section": "biology", "question": "Which process in nitrogen cycle converts NO₃⁻ back to N₂?",
+    "options": ["Nitrification", "Ammonification", "Denitrification", "Nitrogen fixation"],
+    "correct": 2,
+    "explanation": "Denitrification by anaerobic bacteria (Pseudomonas, Thiobacillus) converts nitrates (NO₃⁻) → N₂ gas, returning nitrogen to the atmosphere."
+  },
+  {
+    "id": "bio2-43", "section": "biology", "question": "Somatic hybridization in plants involves:",
+    "options": ["Cross-pollination between two species", "Fusion of protoplasts from two different plant species to form a hybrid cell", "Grafting of plant parts", "Artificial pollination and fertilization"],
+    "correct": 1,
+    "explanation": "Somatic hybridization involves removing cell walls (forming protoplasts) from two plant species and fusing them using PEG or electric pulses to create somatic hybrids."
+  },
+  {
+    "id": "bio2-44", "section": "biology", "question": "Which hormone acts as an 'emergency hormone' and stimulates glycogenolysis during stress?",
+    "options": ["Insulin", "Glucagon", "Adrenaline (Epinephrine)", "Cortisol"],
+    "correct": 2,
+    "explanation": "Adrenaline (epinephrine) from adrenal medulla rapidly stimulates glycogenolysis in liver and muscle, raising blood glucose during fight-or-flight response."
+  },
+  {
+    "id": "bio2-45", "section": "biology", "question": "Which structure in the brain is primarily responsible for regulating circadian rhythms?",
+    "options": ["Cerebellum", "Hippocampus", "Suprachiasmatic nucleus (SCN) of hypothalamus", "Amygdala"],
+    "correct": 2,
+    "explanation": "The suprachiasmatic nucleus (SCN) of the hypothalamus is the master circadian clock, receiving light signals from the retina and regulating melatonin from the pineal gland."
+  },
+  {
+    "id": "bio2-46", "section": "biology", "question": "In immunology, MHC Class II molecules present antigens to:",
+    "options": ["Cytotoxic T cells (CD8+)", "Helper T cells (CD4+)", "B cells directly", "NK cells"],
+    "correct": 1,
+    "explanation": "MHC Class II molecules (found on APCs — macrophages, dendritic cells, B cells) present exogenous antigens to helper T cells (CD4+)."
+  },
+  {
+    "id": "bio2-47", "section": "biology", "question": "The phenomenon of 'allelopathy' in ecology refers to:",
+    "options": ["Mutualism between two plants", "Chemical inhibition of one plant species by another through released secondary metabolites", "Parasitism between fungi and plant roots", "Nitrogen fixation by legumes"],
+    "correct": 1,
+    "explanation": "Allelopathy is when plants release chemical compounds (allelochemicals) into the environment that inhibit the growth of neighboring plants — a form of chemical competition."
+  },
+  {
+    "id": "bio2-48", "section": "biology", "question": "Which of the following is NOT a characteristic of cancer cells?",
+    "options": ["Uncontrolled cell division", "Contact inhibition", "Loss of apoptosis", "Metastasis"],
+    "correct": 1,
+    "explanation": "Normal cells stop dividing when they contact neighbors (contact inhibition). Cancer cells LOSE contact inhibition, allowing uncontrolled proliferation."
+  },
+  {
+    "id": "bio2-49", "section": "biology", "question": "In the HbS (sickle cell) allele, the mutation at the molecular level is:",
+    "options": ["Deletion of the entire beta-globin gene", "Frameshift mutation causing protein truncation", "A point mutation changing glutamic acid to valine at position 6 of beta-globin", "Insertion of a transposon in HBB gene"],
+    "correct": 2,
+    "explanation": "Sickle cell anemia results from a single nucleotide substitution (GAG→GTG) in the beta-globin gene, changing glutamic acid (hydrophilic) to valine (hydrophobic) at position 6."
+  },
+  {
+    "id": "bio2-50", "section": "biology", "question": "Which enzyme adds RNA primers during DNA replication?",
+    "options": ["DNA polymerase III", "DNA ligase", "Primase (a type of RNA polymerase)", "Helicase"],
+    "correct": 2,
+    "explanation": "Primase synthesizes short RNA primers complementary to the template strand. These provide the free 3'-OH needed for DNA Polymerase III to start synthesis."
+  },
+  {
+    "id": "bio2-51", "section": "biology", "question": "Synapsis during meiosis refers to:",
+    "options": ["Separation of sister chromatids", "Pairing of homologous chromosomes forming bivalents via synaptonemal complex", "Attachment of spindle fibers to centromeres", "Dissolution of the nuclear envelope"],
+    "correct": 1,
+    "explanation": "Synapsis is the precise pairing of homologous chromosomes during zygotene of meiosis I prophase, mediated by the synaptonemal complex (proteinaceous structure)."
+  },
+  {
+    "id": "bio2-52", "section": "biology", "question": "The concept of 'genetic bottleneck' is associated with which evolutionary phenomenon?",
+    "options": ["Natural selection acting on polygenic traits", "A drastic reduction in population size causing random allele frequency changes (genetic drift)", "Directional selection over long periods", "Introgression from another species"],
+    "correct": 1,
+    "explanation": "A genetic bottleneck occurs when a population is drastically reduced (e.g., by disaster). The surviving small population may have very different allele frequencies due to genetic drift."
+  },
+  {
+    "id": "bio2-53", "section": "biology", "question": "In plants, guard cells regulate stomatal opening mainly through:",
+    "options": ["Glucose accumulation causing osmotic changes", "K⁺ ion uptake creating osmotic potential difference causing turgor change", "Cellulose synthesis in cell walls", "ABA increasing stomatal aperture"],
+    "correct": 1,
+    "explanation": "In light, guard cells actively accumulate K⁺ (and Cl⁻, malate). Increased solute concentration lowers osmotic potential → water enters → increased turgor → stomata open."
+  },
+  {
+    "id": "bio2-54", "section": "biology", "question": "Which statement correctly describes the cohesion-tension theory of ascent of sap?",
+    "options": ["Root pressure pushes water all the way to tree tops", "Water columns are pulled up by transpirational pull; cohesion of water molecules keeps the column intact", "Osmosis drives water upward through xylem", "Capillarity alone accounts for water movement in tall trees"],
+    "correct": 1,
+    "explanation": "Transpiration creates tension (negative pressure) at leaf surfaces. Water cohesion (H-bonding between water molecules) maintains continuity of the water column from roots to leaves."
+  },
+  {
+    "id": "bio2-55", "section": "biology", "question": "In phloem loading in source leaves, sucrose moves from mesophyll to companion cells by:",
+    "options": ["Simple diffusion along concentration gradient only", "Active transport via H⁺/sucrose symporter (apoplastic loading) or through plasmodesmata (symplastic loading)", "Bulk flow driven by turgor pressure", "Endocytosis by companion cells"],
+    "correct": 1,
+    "explanation": "Phloem loading occurs via apoplastic pathway (H⁺/sucrose symporters against concentration gradient) or symplastic pathway (through plasmodesmata). Both concentrate sucrose in phloem."
+  },
+  {
+    "id": "bio2-56", "section": "biology", "question": "Which plant movement is a nastic movement (independent of stimulus direction)?",
+    "options": ["Phototropism of a shoot toward light", "Thigmotropism of a tendril around a support", "Nyctinasty — folding of leaves at night", "Gravitropism of a root downward"],
+    "correct": 2,
+    "explanation": "Nyctinasty (sleep movements) in leaves (e.g., Mimosa) is a nastic movement — response direction is independent of stimulus direction, controlled by pulvinus cells."
+  },
+  {
+    "id": "bio2-57", "section": "biology", "question": "In the complement system, which pathway is activated by antigen-antibody complexes?",
+    "options": ["Alternative pathway", "Classical pathway", "Lectin pathway", "Toll-like receptor pathway"],
+    "correct": 1,
+    "explanation": "The classical complement pathway is initiated by C1q binding to antibodies (IgG or IgM) that are bound to antigens, triggering a proteolytic cascade ending in MAC formation."
+  },
+  {
+    "id": "bio2-58", "section": "biology", "question": "The zona pellucida in mammalian oogenesis is:",
+    "options": ["The innermost granulosa cell layer", "A glycoprotein layer surrounding the egg that undergoes zona reaction after fertilization to prevent polyspermy", "The fluid-filled antrum of the follicle", "The corpus luteum membrane"],
+    "correct": 1,
+    "explanation": "The zona pellucida is a glycoprotein coat around the egg. After sperm entry, cortical granules release enzymes that modify the zona (zona reaction) preventing additional sperm entry."
+  },
+  {
+    "id": "bio2-59", "section": "biology", "question": "The correct order of embryonic development in humans after fertilization is:",
+    "options": ["Zygote → Morula → Blastocyst → Implantation", "Zygote → Blastocyst → Morula → Gastrula", "Morula → Zygote → Blastocyst → Gastrula", "Zygote → Gastrula → Morula → Blastocyst"],
+    "correct": 0,
+    "explanation": "Fertilization → Zygote (cleavage) → Morula (16-cell solid ball) → Blastocyst (hollow with inner cell mass) → Implantation into uterine wall on ~7th day."
+  },
+  {
+    "id": "bio2-60", "section": "biology", "question": "Which of the following is NOT a function of the placenta?",
+    "options": ["Exchange of nutrients and gases between mother and fetus", "Secretion of human chorionic gonadotropin (hCG)", "Production of sperm for fertilization", "Barrier against certain pathogens and drugs (partial)"],
+    "correct": 2,
+    "explanation": "The placenta mediates exchange of gases/nutrients/waste, secretes hCG, estrogen, progesterone. It does NOT produce sperm — that is a function of the testes."
+  },
+  {
+    "id": "bio2-61", "section": "biology", "question": "Which of the following correctly describes the concept of 'biodiversity hotspot' as defined by Norman Myers?",
+    "options": ["Any area with high rainfall and species diversity", "Regions with ≥1500 endemic vascular plant species AND having lost ≥70% of original habitat", "Marine ecosystems with coral reefs", "Any protected national park or biosphere reserve"],
+    "correct": 1,
+    "explanation": "Myers defined hotspots as regions with at least 1500 endemic vascular plant species (>0.5% of world's total) that have lost ≥70% of their original habitat extent."
+  },
+  {
+    "id": "bio2-62", "section": "biology", "question": "Which of the following is a correct statement about GEAC (Genetic Engineering Appraisal Committee) in India?",
+    "options": ["It approves drug patents for pharmaceutical companies", "It evaluates the safety and regulates large-scale use of genetically modified organisms in India", "It is under the Ministry of Finance", "It controls only animal GMOs, not plant GMOs"],
+    "correct": 1,
+    "explanation": "GEAC functions under the Ministry of Environment, Forest & Climate Change and makes decisions regarding the validity of GM research and safety of introducing GMOs for public use in India."
+  },
+  {
+    "id": "bio2-63", "section": "biology", "question": "The enzyme 'restriction endonuclease EcoRI' cuts DNA at the sequence 5'-GAATTC-3'. This sequence is:",
+    "options": ["Inverted repeat", "Palindromic sequence — reads the same on both strands in 5'→3' direction", "Promoter sequence", "Shine-Dalgarno sequence"],
+    "correct": 1,
+    "explanation": "EcoRI recognition sequence (5'-GAATTC-3') is palindromic: the complementary strand read 5'→3' is also GAATTC. Restriction enzymes cut palindromes to generate sticky ends."
+  },
+  {
+    "id": "bio2-64", "section": "biology", "question": "In gel electrophoresis of DNA, smaller fragments:",
+    "options": ["Move slower toward anode", "Move faster toward anode because smaller fragments migrate more easily through the gel matrix", "Do not move because they carry no charge", "Move toward cathode"],
+    "correct": 1,
+    "explanation": "DNA is negatively charged (phosphate groups) and moves toward the anode (+). Smaller fragments encounter less resistance in the gel matrix and migrate faster."
+  },
+  {
+    "id": "bio2-65", "section": "biology", "question": "Golden rice was developed to address deficiency of:",
+    "options": ["Protein", "Iron", "Vitamin A (beta-carotene precursor)", "Vitamin C"],
+    "correct": 2,
+    "explanation": "Golden rice was engineered to produce beta-carotene (a Vitamin A precursor) in the endosperm by introducing genes for the biosynthetic pathway, targeting Vitamin A deficiency."
+  },
+  {
+    "id": "bio2-66", "section": "biology", "question": "Which of the following is the correct example of in-situ conservation?",
+    "options": ["Seed banks", "Zoological parks", "Biosphere reserves", "Tissue culture collections"],
+    "correct": 2,
+    "explanation": "In-situ conservation means conservation in the natural habitat. Biosphere reserves, national parks, and wildlife sanctuaries are examples of in-situ conservation."
+  },
+  {
+    "id": "bio2-67", "section": "biology", "question": "The mass extinction event at the end of the Cretaceous period (~66 Mya) is hypothesized to have been caused by:",
+    "options": ["A massive ice age due to orbital changes", "An asteroid impact causing global climate disruption (Alvarez hypothesis) combined with Deccan Trap volcanism", "Sudden sea level rise flooding all land", "Evolution of angiosperms outcompeting all other plants"],
+    "correct": 1,
+    "explanation": "The K-Pg extinction is best explained by the Chicxulub asteroid impact causing dust clouds and nuclear winter, combined with massive Deccan Trap volcanic eruptions, both causing dramatic climate change."
+  },
+  {
+    "id": "bio2-68", "section": "biology", "question": "Convergent evolution results in analogous organs because:",
+    "options": ["The species share a recent common ancestor", "Unrelated species evolve similar structures/functions due to similar environmental pressures, not common ancestry", "Gene flow occurs between the species", "They have identical DNA sequences"],
+    "correct": 1,
+    "explanation": "Convergent evolution occurs when unrelated species independently evolve similar adaptations in response to similar environments. The structures are analogous (similar function, different origin)."
+  },
+  {
+    "id": "bio2-69", "section": "biology", "question": "Nucleosome is composed of DNA wrapped around:",
+    "options": ["4 histones (H2A, H2B, H3, H4) once", "8 histones (2 each of H2A, H2B, H3, H4) — an octamer", "Histone H1 only", "Non-histone proteins only"],
+    "correct": 1,
+    "explanation": "Each nucleosome core particle has 147 bp of DNA wrapped ~1.65 turns around a histone octamer consisting of 2 copies each of H2A, H2B, H3, and H4. H1 is the linker histone."
+  },
+  {
+    "id": "bio2-70", "section": "biology", "question": "Which of the following is an example of disruptive (diversifying) selection?",
+    "options": ["Selection for average beak size in a bird population", "Selection for both large and small beak sizes simultaneously, eliminating intermediate sizes", "Selection for antibiotic resistance in bacteria", "Selection for darker coloration in industrial moths"],
+    "correct": 1,
+    "explanation": "Disruptive selection favors extreme phenotypes at both ends of a distribution, eliminating intermediate forms. This can lead to polymorphism or even speciation."
+  },
+  {
+    "id": "bio2-71", "section": "biology", "question": "In which layer of the skin is melanin produced?",
+    "options": ["Stratum corneum", "Stratum basale (germinativum) by melanocytes", "Stratum spinosum", "Stratum granulosum"],
+    "correct": 1,
+    "explanation": "Melanocytes in the stratum basale (deepest epidermal layer) synthesize melanin in organelles called melanosomes and transfer them to keratinocytes, providing UV protection."
+  },
+  {
+    "id": "bio2-72", "section": "biology", "question": "The correct sequence of air passage during human respiration is:",
+    "options": ["Pharynx → Larynx → Trachea → Bronchi → Bronchioles → Alveoli", "Larynx → Pharynx → Bronchi → Trachea → Alveoli", "Trachea → Larynx → Bronchioles → Bronchi → Alveoli", "Pharynx → Trachea → Larynx → Bronchi → Alveoli"],
+    "correct": 0,
+    "explanation": "Air pathway: Nasal cavity → Pharynx → Larynx → Trachea → Primary bronchi → Secondary bronchi → Bronchioles → Alveolar ducts → Alveoli."
+  },
+  {
+    "id": "bio2-73", "section": "biology", "question": "Which of the following is the correct ECG interpretation for ventricular depolarization?",
+    "options": ["P wave", "PR interval", "QRS complex", "T wave"],
+    "correct": 2,
+    "explanation": "The QRS complex on an ECG represents the rapid ventricular depolarization (contraction stimulus). P wave = atrial depolarization; T wave = ventricular repolarization."
+  },
+  {
+    "id": "bio2-74", "section": "biology", "question": "The hepatic portal circulation carries blood from the:",
+    "options": ["Liver to the heart", "Small intestine and other digestive organs to the liver via the portal vein", "Liver to the lungs", "Kidneys to the liver"],
+    "correct": 1,
+    "explanation": "The hepatic portal system carries nutrient-rich blood from the intestines, stomach, spleen, and pancreas to the liver for processing before entering systemic circulation."
+  },
+  {
+    "id": "bio2-75", "section": "biology", "question": "Kwashiorkor is primarily caused by:",
+    "options": ["Deficiency of vitamin C", "Severe protein deficiency in the presence of adequate caloric intake", "Deficiency of iron", "Excess consumption of fats"],
+    "correct": 1,
+    "explanation": "Kwashiorkor results from severe protein deficiency (particularly in children weaned to carbohydrate-rich, protein-poor diets). Characterized by edema, pot belly, and skin lesions."
+  },
+  {
+    "id": "bio2-76", "section": "biology", "question": "Which of the following is a correct match for enzyme and its site of production in the digestive system?",
+    "options": ["Pepsin — pancreas", "Trypsin — stomach", "Enterokinase — duodenal mucosa (activates trypsinogen)", "Amylase — liver"],
+    "correct": 2,
+    "explanation": "Enterokinase (enteropeptidase) is produced by the duodenal mucosa. It activates trypsinogen → trypsin, which then activates other pancreatic pro-enzymes (chymotrypsinogen, proelastase)."
+  },
+  {
+    "id": "bio2-77", "section": "biology", "question": "The sliding filament theory of muscle contraction states that:",
+    "options": ["Actin and myosin filaments shorten during contraction", "Actin filaments slide over myosin filaments (or vice versa), shortening the sarcomere without the filaments themselves changing length", "ATP breaks the myosin heads", "Calcium prevents cross-bridge formation"],
+    "correct": 1,
+    "explanation": "During contraction, myosin heads bind actin and execute a power stroke, pulling actin toward the M-line. The filaments themselves don't shorten — only the sarcomere does."
+  },
+  {
+    "id": "bio2-78", "section": "biology", "question": "The resting membrane potential of a neuron (approximately -70 mV) is mainly maintained by:",
+    "options": ["High intracellular Na⁺ and low intracellular K⁺", "The Na⁺/K⁺ ATPase pump (maintaining high intracellular K⁺, high extracellular Na⁺) combined with selective K⁺ membrane permeability", "Active transport of Cl⁻ only", "Passive diffusion of Na⁺ inward only"],
+    "correct": 1,
+    "explanation": "The Na⁺/K⁺ ATPase maintains high intracellular K⁺ and high extracellular Na⁺. At rest, the membrane is more permeable to K⁺ which leaks out, leaving negative charge inside."
+  },
+  {
+    "id": "bio2-79", "section": "biology", "question": "Which of the following hormones is NOT steroid-based?",
+    "options": ["Testosterone", "Aldosterone", "Cortisol", "Thyroxine (T4)"],
+    "correct": 3,
+    "explanation": "Testosterone, aldosterone, and cortisol are all steroid hormones (derived from cholesterol). Thyroxine (T4) is a tyrosine-derived (amino acid-based) hormone."
+  },
+  {
+    "id": "bio2-80", "section": "biology", "question": "In a cross between AaBb × AaBb, the probability of getting an offspring with genotype AABB is:",
+    "options": ["1/4", "1/16", "1/8", "3/16"],
+    "correct": 1,
+    "explanation": "P(AA) = 1/4 and P(BB) = 1/4. Since both genes are independent, P(AABB) = 1/4 × 1/4 = 1/16."
+  },
+  {
+    "id": "bio2-81", "section": "biology", "question": "Proton pump inhibitors (PPIs) like omeprazole work by:",
+    "options": ["Blocking H2 receptors on parietal cells", "Irreversibly inhibiting the H⁺/K⁺-ATPase (proton pump) on gastric parietal cells", "Neutralizing stomach acid directly", "Stimulating mucus production"],
+    "correct": 1,
+    "explanation": "PPIs covalently and irreversibly bind the H⁺/K⁺-ATPase proton pump of gastric parietal cells, blocking the final step of acid production."
+  },
+  {
+    "id": "bio2-82", "section": "biology", "question": "Which statement about linkage and crossing over is correct?",
+    "options": ["Linked genes always assort independently", "Crossing over frequency is directly proportional to the distance between linked genes on the same chromosome", "Genes on the same chromosome can never be separated", "Crossing over occurs only in mitosis"],
+    "correct": 1,
+    "explanation": "Genes on the same chromosome (linked) tend to be inherited together, but crossing over during meiosis can separate them. Greater distance = higher crossing over frequency = higher recombination."
+  },
+  {
+    "id": "bio2-83", "section": "biology", "question": "Which of the following is an autoimmune disease?",
+    "options": ["Malaria", "Tuberculosis", "Rheumatoid arthritis", "Scurvy"],
+    "correct": 2,
+    "explanation": "Rheumatoid arthritis is an autoimmune disease where the immune system attacks synovial membranes of joints. The immune system mistakes self-antigens for foreign ones."
+  },
+  {
+    "id": "bio2-84", "section": "biology", "question": "During translation, peptide bond formation in ribosomes is catalyzed by:",
+    "options": ["A ribosomal protein enzyme", "23S rRNA (in prokaryotes) — the ribosome is a ribozyme", "Aminoacyl-tRNA synthetase", "Elongation factor EF-Tu"],
+    "correct": 1,
+    "explanation": "Peptide bond formation is catalyzed by peptidyl transferase activity of the large ribosomal subunit's rRNA (23S rRNA in prokaryotes, 28S in eukaryotes) — proving ribosomes are ribozymes."
+  },
+  {
+    "id": "bio2-85", "section": "biology", "question": "A population at Hardy-Weinberg equilibrium has allele frequencies p = 0.6 (A) and q = 0.4 (a). What is the expected frequency of heterozygotes?",
+    "options": ["0.16", "0.36", "0.48", "0.64"],
+    "correct": 2,
+    "explanation": "Frequency of heterozygotes (Aa) = 2pq = 2 × 0.6 × 0.4 = 0.48."
+  },
+  {
+    "id": "bio2-86", "section": "biology", "question": "The Emerson Enhancement Effect in photosynthesis demonstrates that:",
+    "options": ["Using only far-red light maximizes photosynthesis", "Using both red (680nm) and far-red (700nm) light simultaneously gives more quantum yield than either alone, proving two cooperating photosystems exist", "Blue light is more efficient than red light", "Only PSII uses far-red light"],
+    "correct": 1,
+    "explanation": "The Emerson Enhancement Effect showed that combining two wavelengths (680nm + 700nm) gives more oxygen evolution than either alone, demonstrating two cooperating photosystems (PSI + PSII)."
+  },
+  {
+    "id": "bio2-87", "section": "biology", "question": "The concept of 'mass extinction' is defined as the loss of:",
+    "options": ["More than 10% of species in an area within a century", "At least 75% of all species on Earth in a geologically short time interval (a few million years or less)", "All large mammals in a region", "All endemic species from an island"],
+    "correct": 1,
+    "explanation": "A mass extinction is conventionally defined as the rapid loss of ≥75% of all species on Earth in a geologically brief period. Five major mass extinctions are recognized in the fossil record."
+  },
+  {
+    "id": "bio2-88", "section": "biology", "question": "Which of the following is the role of the tapetum in anthers?",
+    "options": ["Protection of pollen grains from UV radiation", "Nourishing developing pollen grains and producing sporopollenin for exine", "Facilitating pollen release by anther dehiscence", "Forming the anther wall"],
+    "correct": 1,
+    "explanation": "The tapetum is the innermost wall layer of the anther. It provides nutrition to developing microspores/pollen and synthesizes sporopollenin (for exine), callase, and pollenkitt."
+  },
+  {
+    "id": "bio2-89", "section": "biology", "question": "Which of the following characteristics is used to distinguish between virus families?",
+    "options": ["Size of the host organism only", "Type of nucleic acid (DNA/RNA), single or double-stranded, enveloped or non-enveloped, capsid symmetry", "Country of origin", "Color under light microscopy"],
+    "correct": 1,
+    "explanation": "Virus classification is based on: type of nucleic acid (DNA vs RNA), strandedness (ss or ds), presence/absence of envelope, capsid symmetry (icosahedral, helical), and replication strategy."
+  },
+  {
+    "id": "bio2-90", "section": "biology", "question": "The theory of endosymbiosis (proposed by Lynn Margulis) explains the origin of which eukaryotic organelles?",
+    "options": ["Nucleus and endoplasmic reticulum", "Mitochondria and chloroplasts from ancient prokaryotic endosymbionts", "Golgi apparatus and lysosomes", "Ribosomes and peroxisomes"],
+    "correct": 1,
+    "explanation": "Endosymbiotic theory proposes that mitochondria originated from alpha-proteobacteria and chloroplasts from cyanobacteria engulfed by ancestral eukaryotes, supported by their own circular DNA, 70S ribosomes, and double membranes."
+  }
+]

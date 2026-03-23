@@ -1,0 +1,366 @@
+[
+  {
+    "id": "physics-1",
+    "section": "physics",
+    "question": "The radius of curvature of a projectile at the highest point is:",
+    "options": ["v²/g", "v²cos²θ/g", "v²sin²θ/g", "v²cosθ/g"],
+    "correct": 1,
+    "explanation": "Velocity at highest point is horizontal = vcosθ"
+  },
+  {
+    "id": "physics-2",
+    "section": "physics",
+    "question": "If acceleration is proportional to displacement but opposite in direction, motion is:",
+    "options": ["Uniform", "SHM", "Circular", "Random"],
+    "correct": 1,
+    "explanation": "Definition of SHM"
+  },
+  {
+    "id": "physics-3",
+    "section": "physics",
+    "question": "Escape velocity from Earth depends on:",
+    "options": ["Mass only", "Radius only", "Mass and radius", "None"],
+    "correct": 2,
+    "explanation": "ve = √(2GM/R)"
+  },
+  {
+    "id": "physics-4",
+    "section": "physics",
+    "question": "Work done in circular motion by centripetal force is:",
+    "options": ["Positive", "Negative", "Zero", "Infinite"],
+    "correct": 2,
+    "explanation": "Force ⟂ displacement"
+  },
+  {
+    "id": "physics-5",
+    "section": "physics",
+    "question": "Time period of a simple pendulum increases if:",
+    "options": ["Length increases", "Mass increases", "Amplitude small", "g increases"],
+    "correct": 0,
+    "explanation": "T = 2π√(L/g)"
+  },
+  {
+    "id": "physics-6",
+    "section": "physics",
+    "question": "A wire is stretched to double its length. Resistance becomes:",
+    "options": ["R", "2R", "4R", "8R"],
+    "correct": 2,
+    "explanation": "R ∝ L²"
+  },
+  {
+    "id": "physics-7",
+    "section": "physics",
+    "question": "Unit of electric field is:",
+    "options": ["N/C", "J", "W", "C"],
+    "correct": 0,
+    "explanation": "Force per charge"
+  },
+  {
+    "id": "physics-8",
+    "section": "physics",
+    "question": "Magnetic field inside solenoid depends on:",
+    "options": ["Current", "Turns", "Length", "All"],
+    "correct": 3,
+    "explanation": "B = μ₀ n I"
+  },
+  {
+    "id": "physics-9",
+    "section": "physics",
+    "question": "Power dissipated in resistor is:",
+    "options": ["VI", "V²/R", "I²R", "All"],
+    "correct": 3,
+    "explanation": "All forms valid"
+  },
+  {
+    "id": "physics-10",
+    "section": "physics",
+    "question": "In photoelectric effect, stopping potential depends on:",
+    "options": ["Intensity", "Frequency", "Distance", "Area"],
+    "correct": 1,
+    "explanation": "Depends on frequency only"
+  },
+
+  {
+    "id": "physics-11",
+    "section": "physics",
+    "question": "Which quantity is conserved in elastic collision?",
+    "options": ["Momentum", "Energy", "Both", "None"],
+    "correct": 2,
+    "explanation": "Both conserved"
+  },
+  {
+    "id": "physics-12",
+    "section": "physics",
+    "question": "Dimension of pressure is:",
+    "options": ["MLT⁻²", "ML⁻¹T⁻²", "ML²T⁻²", "M⁰"],
+    "correct": 1,
+    "explanation": "Force/Area"
+  },
+  {
+    "id": "physics-13",
+    "section": "physics",
+    "question": "Work done by gravity is:",
+    "options": ["Path dependent", "Path independent", "Zero", "Negative"],
+    "correct": 1,
+    "explanation": "Conservative force"
+  },
+  {
+    "id": "physics-14",
+    "section": "physics",
+    "question": "Capacitance increases when:",
+    "options": ["Distance increases", "Area increases", "Charge decreases", "Voltage increases"],
+    "correct": 1,
+    "explanation": "C = εA/d"
+  },
+  {
+    "id": "physics-15",
+    "section": "physics",
+    "question": "Unit of magnetic flux is:",
+    "options": ["Tesla", "Weber", "Henry", "Ampere"],
+    "correct": 1,
+    "explanation": "Flux unit Weber"
+  },
+
+  {
+    "id": "physics-16",
+    "section": "physics",
+    "question": "In SHM, acceleration is maximum at:",
+    "options": ["Mean", "Extreme", "Center", "None"],
+    "correct": 1,
+    "explanation": "Max displacement"
+  },
+  {
+    "id": "physics-17",
+    "section": "physics",
+    "question": "Frequency of wave increases, wavelength:",
+    "options": ["Increases", "Decreases", "Same", "Zero"],
+    "correct": 1,
+    "explanation": "v = fλ"
+  },
+  {
+    "id": "physics-18",
+    "section": "physics",
+    "question": "Mirror formula:",
+    "options": ["1/f=1/v+1/u", "v=u+f", "f=uv", "None"],
+    "correct": 0,
+    "explanation": "Standard formula"
+  },
+  {
+    "id": "physics-19",
+    "section": "physics",
+    "question": "Young's modulus is:",
+    "options": ["Stress/strain", "Force/area", "Energy/volume", "None"],
+    "correct": 0,
+    "explanation": "Definition"
+  },
+  {
+    "id": "physics-20",
+    "section": "physics",
+    "question": "Ohm’s law is:",
+    "options": ["V∝I", "V∝R", "I∝R", "None"],
+    "correct": 0,
+    "explanation": "Direct relation"
+  },
+  {
+    "id": "physics-21",
+    "section": "physics",
+    "question": "The gravitational potential inside a hollow sphere is:",
+    "options": ["Zero", "Constant", "Maximum", "Minimum"],
+    "correct": 1,
+    "explanation": "Inside hollow sphere potential remains constant"
+  },
+  {
+    "id": "physics-22",
+    "section": "physics",
+    "question": "Moment of inertia depends on:",
+    "options": ["Mass", "Axis", "Distribution", "All"],
+    "correct": 3,
+    "explanation": "All factors matter"
+  },
+  {
+    "id": "physics-23",
+    "section": "physics",
+    "question": "If velocity is doubled, kinetic energy becomes:",
+    "options": ["2 times", "4 times", "8 times", "Same"],
+    "correct": 1,
+    "explanation": "KE ∝ v²"
+  },
+  {
+    "id": "physics-24",
+    "section": "physics",
+    "question": "Angular momentum is conserved when:",
+    "options": ["No torque", "No force", "Constant velocity", "Constant energy"],
+    "correct": 0,
+    "explanation": "Zero external torque"
+  },
+  {
+    "id": "physics-25",
+    "section": "physics",
+    "question": "Speed of sound increases with:",
+    "options": ["Density", "Temperature", "Pressure", "Volume"],
+    "correct": 1,
+    "explanation": "Depends on temperature"
+  },
+  {
+    "id": "physics-26",
+    "section": "physics",
+    "question": "Doppler effect depends on:",
+    "options": ["Relative motion", "Frequency", "Amplitude", "None"],
+    "correct": 0,
+    "explanation": "Relative velocity matters"
+  },
+  {
+    "id": "physics-27",
+    "section": "physics",
+    "question": "Energy stored in capacitor:",
+    "options": ["CV²", "½CV²", "V²/C", "½V²/C"],
+    "correct": 1,
+    "explanation": "Standard formula"
+  },
+  {
+    "id": "physics-28",
+    "section": "physics",
+    "question": "Electric flux is proportional to:",
+    "options": ["Charge", "Field", "Area", "Angle"],
+    "correct": 0,
+    "explanation": "Gauss law"
+  },
+  {
+    "id": "physics-29",
+    "section": "physics",
+    "question": "Magnetic force on charge is maximum when angle is:",
+    "options": ["0°", "30°", "90°", "180°"],
+    "correct": 2,
+    "explanation": "F=qvBsinθ"
+  },
+  {
+    "id": "physics-30",
+    "section": "physics",
+    "question": "EM waves are:",
+    "options": ["Longitudinal", "Transverse", "Both", "None"],
+    "correct": 1,
+    "explanation": "Transverse waves"
+  },
+
+  {
+    "id": "physics-31",
+    "section": "physics",
+    "question": "Photon energy is proportional to:",
+    "options": ["Frequency", "Wavelength", "Amplitude", "Speed"],
+    "correct": 0,
+    "explanation": "E = hf"
+  },
+  {
+    "id": "physics-32",
+    "section": "physics",
+    "question": "Half-life is independent of:",
+    "options": ["Temperature", "Pressure", "Initial amount", "All"],
+    "correct": 3,
+    "explanation": "Radioactive decay independent"
+  },
+  {
+    "id": "physics-33",
+    "section": "physics",
+    "question": "Binding energy relates to:",
+    "options": ["Mass defect", "Charge", "Radius", "Volume"],
+    "correct": 0,
+    "explanation": "E=mc²"
+  },
+  {
+    "id": "physics-34",
+    "section": "physics",
+    "question": "Resistance in parallel is:",
+    "options": ["More", "Less", "Equal", "Infinite"],
+    "correct": 1,
+    "explanation": "Parallel reduces resistance"
+  },
+  {
+    "id": "physics-35",
+    "section": "physics",
+    "question": "Current is rate of:",
+    "options": ["Charge flow", "Energy flow", "Mass flow", "Voltage"],
+    "correct": 0,
+    "explanation": "I = Q/t"
+  },
+  {
+    "id": "physics-36",
+    "section": "physics",
+    "question": "Magnetic field unit is:",
+    "options": ["Tesla", "Weber", "Ampere", "Henry"],
+    "correct": 0,
+    "explanation": "SI unit Tesla"
+  },
+  {
+    "id": "physics-37",
+    "section": "physics",
+    "question": "Induced emf is due to:",
+    "options": ["Magnetic change", "Electric field", "Charge", "None"],
+    "correct": 0,
+    "explanation": "Faraday law"
+  },
+  {
+    "id": "physics-38",
+    "section": "physics",
+    "question": "Lens power unit:",
+    "options": ["Diopter", "Watt", "Joule", "Tesla"],
+    "correct": 0,
+    "explanation": "D = 1/f"
+  },
+  {
+    "id": "physics-39",
+    "section": "physics",
+    "question": "Refraction depends on:",
+    "options": ["Medium", "Angle", "Wavelength", "All"],
+    "correct": 3,
+    "explanation": "All factors"
+  },
+  {
+    "id": "physics-40",
+    "section": "physics",
+    "question": "Total internal reflection occurs when:",
+    "options": ["n1<n2", "n1>n2", "n1=n2", "None"],
+    "correct": 1,
+    "explanation": "Denser to rarer"
+  },
+
+  {
+    "id": "physics-41",
+    "section": "physics",
+    "question": "Speed of light in medium:",
+    "options": ["c/n", "cn", "c+n", "c-n"],
+    "correct": 0,
+    "explanation": "v=c/n"
+  },
+  {
+    "id": "physics-42",
+    "section": "physics",
+    "question": "Work energy theorem:",
+    "options": ["W=ΔKE", "W=ΔPE", "W=F", "None"],
+    "correct": 0,
+    "explanation": "Standard theorem"
+  },
+  {
+    "id": "physics-43",
+    "section": "physics",
+    "question": "Momentum unit:",
+    "options": ["kg m/s", "N", "J", "W"],
+    "correct": 0,
+    "explanation": "p=mv"
+  },
+  {
+    "id": "physics-44",
+    "section": "physics",
+    "question": "Force is rate of:",
+    "options": ["Momentum change", "Velocity change", "Energy change", "Mass change"],
+    "correct": 0,
+    "explanation": "F = dp/dt"
+  },
+  {
+    "id": "physics-45",
+    "section": "physics",
+    "question": "Acceleration due to gravity is:",
+    "options": ["Constant", "Variable", "Zero", "Infinite"],
+    "correct": 0,
+    "explanation": "Near Earth constant"
+  }
+]

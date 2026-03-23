@@ -1,0 +1,317 @@
+[
+  {
+    "id": "chem2-1", "section": "chemistry",
+    "question": "In a crystal field, the d-orbital with the highest energy in a square planar complex is:",
+    "options": ["dxy", "dx²-y²", "dz²", "dxz"],
+    "correct": 1,
+    "explanation": "In square planar geometry, dx²-y² points directly at the four ligands and has the highest energy. Order: dx²-y² > dxy > dz² > dxz, dyz."
+  },
+  {
+    "id": "chem2-2", "section": "chemistry",
+    "question": "The IUPAC name of [Pt(en)Cl₂] (en = ethylenediamine) is:",
+    "options": ["Dichloro(ethane-1,2-diamine)platinum(II)", "Dichloridobis(ethylenediamine)platinum(IV)", "Ethylenediaminedichloroplatinum", "Chloroplatinum(II) ethylenediamine"],
+    "correct": 0,
+    "explanation": "Ligands named alphabetically: dichloro (Cl⁻ × 2), ethane-1,2-diamine (IUPAC for en). Metal last with oxidation state: Pt(II)."
+  },
+  {
+    "id": "chem2-3", "section": "chemistry",
+    "question": "In the SN2 mechanism, inversion of configuration (Walden inversion) occurs because:",
+    "options": ["The nucleophile attacks from the same side as the leaving group", "The nucleophile attacks anti to the leaving group, passing through a trigonal bipyramidal transition state", "A carbocation intermediate forms before nucleophile attacks", "The reaction proceeds via a radical intermediate"],
+    "correct": 1,
+    "explanation": "In SN2, the nucleophile attacks the carbon 180° opposite to the leaving group in a concerted bimolecular mechanism, causing Walden inversion."
+  },
+  {
+    "id": "chem2-4", "section": "chemistry",
+    "question": "Which product is major when 2-methylbut-2-ene undergoes acid-catalyzed dehydration at high temperature? (Zaitsev's rule)",
+    "options": ["2-methylbut-1-ene (less substituted)", "2-methylbut-2-ene (more substituted) — the thermodynamically stable product", "3-methylbut-1-ene", "Cyclopentane"],
+    "correct": 1,
+    "explanation": "Zaitsev's rule predicts the more stable (more substituted) alkene as the major product in E1 or acid-catalyzed dehydration."
+  },
+  {
+    "id": "chem2-5", "section": "chemistry",
+    "question": "Phenol is more acidic than ethanol because:",
+    "options": ["Phenol has a higher molecular weight", "The phenoxide ion is stabilized by resonance delocalization of negative charge into the aromatic ring", "The O-H bond in phenol is shorter", "Ethanol's conjugate base is more solvated"],
+    "correct": 1,
+    "explanation": "Phenoxide (C₆H₅O⁻) is stabilized by resonance — the negative charge is delocalized over the ring at ortho and para positions. Ethoxide has no such stabilization."
+  },
+  {
+    "id": "chem2-6", "section": "chemistry",
+    "question": "In the Hell–Volhard–Zelinsky (HVZ) reaction, carboxylic acids are selectively halogenated at the alpha position using:",
+    "options": ["Cl₂/hν", "Cl₂ or Br₂ in the presence of red phosphorus (PBr₃ generated in situ)", "NBS in CCl₄", "Cl₂ water (hypochlorous acid)"],
+    "correct": 1,
+    "explanation": "The HVZ reaction uses Cl₂ or Br₂ with catalytic red phosphorus (which generates PX₃ in situ) to selectively halogenate the alpha carbon of carboxylic acids."
+  },
+  {
+    "id": "chem2-7", "section": "chemistry",
+    "question": "The Claisen condensation of two molecules of ethyl acetate with a base gives:",
+    "options": ["Diethyl malonate", "Ethyl acetoacetate (ethyl 3-oxobutanoate)", "Acetaldehyde", "Diethyl succinate"],
+    "correct": 1,
+    "explanation": "Claisen condensation: one ester's alpha carbon (deprotonated) attacks another ester carbonyl, eliminating ethanol. Product is ethyl acetoacetate (a beta-ketoester)."
+  },
+  {
+    "id": "chem2-8", "section": "chemistry",
+    "question": "For a reaction: rate = k[A][B]², if [A] is doubled and [B] is halved, the new rate relative to original is:",
+    "options": ["Same", "2× the original", "1/2 the original", "1/4 the original"],
+    "correct": 2,
+    "explanation": "New rate = k(2[A])([B]/2)² = k·2[A]·[B]²/4 = (1/2) × original rate."
+  },
+  {
+    "id": "chem2-9", "section": "chemistry",
+    "question": "The Born-Haber cycle is used to indirectly calculate:",
+    "options": ["Bond dissociation energy of covalent bonds", "Lattice enthalpy of ionic crystals using Hess's law", "Heat of combustion of hydrocarbons", "Entropy change in phase transitions"],
+    "correct": 1,
+    "explanation": "The Born-Haber cycle applies Hess's law to connect formation enthalpy of ionic compounds with ionization energy, electron affinity, dissociation energy, and lattice enthalpy."
+  },
+  {
+    "id": "chem2-10", "section": "chemistry",
+    "question": "For N₂(g) + 3H₂(g) ⇌ 2NH₃(g), if total pressure is doubled, the correct statement is:",
+    "options": ["Kp changes; equilibrium shifts toward reactants", "Kp unchanged; equilibrium shifts toward products (fewer moles of gas)", "Kp changes; equilibrium shifts toward products", "No shift occurs since Kp is unchanged"],
+    "correct": 1,
+    "explanation": "Kp depends only on temperature and remains unchanged. Increasing pressure favors the side with fewer moles of gas (2 vs 4), so equilibrium shifts toward NH₃."
+  },
+  {
+    "id": "chem2-11", "section": "chemistry",
+    "question": "At half-neutralization of a weak acid (HA) with a strong base, the pH equals:",
+    "options": ["1/2 pKa", "pKa", "pH 7", "pKb of conjugate base"],
+    "correct": 1,
+    "explanation": "At half-neutralization, [HA] = [A⁻]. By Henderson-Hasselbalch: pH = pKa + log([A⁻]/[HA]) = pKa + log(1) = pKa."
+  },
+  {
+    "id": "chem2-12", "section": "chemistry",
+    "question": "Kohlrausch's law states that molar conductance at infinite dilution (Λ°m) equals:",
+    "options": ["Product of individual ionic conductances", "Sum of individual ionic conductances (λ°₊ + λ°₋) — ions contribute independently", "Half the conductance at a given concentration", "Conductance × molar mass"],
+    "correct": 1,
+    "explanation": "Kohlrausch's law: Λ°m = λ°₊ + λ°₋. At infinite dilution, each ion migrates independently and contributes additive conductance."
+  },
+  {
+    "id": "chem2-13", "section": "chemistry",
+    "question": "In the Cannizzaro reaction, the type of aldehyde that undergoes disproportionation is:",
+    "options": ["Aldehydes with alpha-hydrogen", "Non-enolizable aldehydes (without alpha-H) in strong base", "Aromatic ketones", "Aliphatic ketones with alpha-hydrogen"],
+    "correct": 1,
+    "explanation": "Cannizzaro reaction occurs with aldehydes lacking alpha-H (e.g., HCHO, C₆H₅CHO). In NaOH, one molecule is oxidized (→ carboxylate) and another is reduced (→ alcohol)."
+  },
+  {
+    "id": "chem2-14", "section": "chemistry",
+    "question": "The correct boiling point order for pentane isomers is:",
+    "options": ["n-pentane < isopentane < neopentane", "neopentane < isopentane < n-pentane", "isopentane < neopentane < n-pentane", "n-pentane < neopentane < isopentane"],
+    "correct": 1,
+    "explanation": "Branching reduces surface area and London dispersion forces. BP: neopentane (9.5°C) < isopentane (27.7°C) < n-pentane (36.1°C)."
+  },
+  {
+    "id": "chem2-15", "section": "chemistry",
+    "question": "Ozonolysis of 2-butene (CH₃-CH=CH-CH₃) followed by reductive workup (Zn/H₂O) gives:",
+    "options": ["Acetic acid and formaldehyde", "Two molecules of acetaldehyde (ethanal)", "Butanediol", "Propanal and formaldehyde"],
+    "correct": 1,
+    "explanation": "Ozonolysis cleaves C=C. 2-Butene → two CH₃CHO (ethanal/acetaldehyde) molecules. Reductive workup prevents over-oxidation to carboxylic acids."
+  },
+  {
+    "id": "chem2-16", "section": "chemistry",
+    "question": "In the Beckmann rearrangement, a ketoxime (R-C(=NOH)-R') in acid conditions is converted to:",
+    "options": ["An amine by reduction", "A substituted amide (the anti group migrates to nitrogen)", "A nitrile", "A carboxylic acid"],
+    "correct": 1,
+    "explanation": "Beckmann rearrangement: H₂SO₄/PCl₅ → the group anti to the OH migrates to nitrogen, forming a substituted amide (lactam if cyclic ketone)."
+  },
+  {
+    "id": "chem2-17", "section": "chemistry",
+    "question": "XeF₄ hybridization and geometry are:",
+    "options": ["sp³, tetrahedral", "sp³d², square planar due to 2 equatorial lone pairs", "sp³d, trigonal bipyramidal", "sp²d, square pyramidal"],
+    "correct": 1,
+    "explanation": "Xe in XeF₄ has 6 electron domains (4 bonds + 2 lone pairs) → sp³d² hybridization. Two lone pairs occupy axial positions → square planar molecular geometry."
+  },
+  {
+    "id": "chem2-18", "section": "chemistry",
+    "question": "First ionization enthalpy of nitrogen is greater than that of oxygen because:",
+    "options": ["N is to the left of O in the period", "N has a half-filled stable 2p³ subshell (extra stability); O has a 2p⁴ with a paired electron that is easier to remove", "N has higher nuclear charge", "O has more electrons to shield"],
+    "correct": 1,
+    "explanation": "N (2p³, half-filled) has extra stability. O (2p⁴) has one paired orbital — the electron-electron repulsion in that orbital makes it easier to remove one electron."
+  },
+  {
+    "id": "chem2-19", "section": "chemistry",
+    "question": "Which oxide is amphoteric and reacts with both NaOH and HCl?",
+    "options": ["CaO", "P₄O₁₀", "ZnO", "SO₃"],
+    "correct": 2,
+    "explanation": "ZnO is amphoteric: ZnO + 2HCl → ZnCl₂ + H₂O (basic behavior); ZnO + 2NaOH → Na₂ZnO₂ + H₂O (acidic behavior)."
+  },
+  {
+    "id": "chem2-20", "section": "chemistry",
+    "question": "The Freundlich adsorption isotherm is expressed as:",
+    "options": ["x/m = kP^(1/n) where n > 1", "x/m = kP (linear)", "x/m = aP/(1+bP) (Langmuir)", "x/m = k/P (inverse)"],
+    "correct": 0,
+    "explanation": "Freundlich isotherm: x/m = kP^(1/n). Linearized form: log(x/m) = log k + (1/n)log P. This gives a straight line when log(x/m) is plotted against log P."
+  },
+  {
+    "id": "chem2-21", "section": "chemistry",
+    "question": "During electrolysis of dilute H₂SO₄, the product at the anode is:",
+    "options": ["H₂ gas", "SO₃ gas", "O₂ gas (from oxidation of water)", "Sulphur"],
+    "correct": 2,
+    "explanation": "In dilute H₂SO₄, water is preferentially oxidized at the anode: 2H₂O → O₂ + 4H⁺ + 4e⁻. Sulphate ion has higher discharge potential and is not oxidized."
+  },
+  {
+    "id": "chem2-22", "section": "chemistry",
+    "question": "The van't Hoff factor (i) for K₂SO₄ assuming complete dissociation in dilute solution is:",
+    "options": ["1", "2", "3", "4"],
+    "correct": 2,
+    "explanation": "K₂SO₄ → 2K⁺ + SO₄²⁻ → 3 particles. Therefore i = 3."
+  },
+  {
+    "id": "chem2-23", "section": "chemistry",
+    "question": "SN1 reaction of (R)-2-bromobutane in aqueous acetone gives:",
+    "options": ["Pure (R)-2-butanol with complete retention", "Pure (S)-2-butanol with complete inversion", "A racemic mixture of (R) and (S)-2-butanol", "Only elimination product"],
+    "correct": 2,
+    "explanation": "SN1 proceeds via a planar carbocation intermediate. Nucleophile attacks equally from both faces → racemization (equal R and S product)."
+  },
+  {
+    "id": "chem2-24", "section": "chemistry",
+    "question": "Which species is aromatic according to Hückel's rule (4n+2 π electrons)?",
+    "options": ["Cyclobutadiene (4π)", "Cyclopentadienyl cation (4π)", "Cyclopentadienyl anion (6π)", "Cyclooctatetraene (8π)"],
+    "correct": 2,
+    "explanation": "Cyclopentadienyl anion has 6 π electrons (4n+2, n=1) in a planar conjugated ring — satisfies Hückel's rule → aromatic."
+  },
+  {
+    "id": "chem2-25", "section": "chemistry",
+    "question": "The major product of propene + HBr in the presence of peroxide (ROOR) is:",
+    "options": ["2-bromopropane (Markovnikov)", "1-bromopropane (anti-Markovnikov)", "1,2-dibromopropane", "2-bromopropan-1-ol"],
+    "correct": 1,
+    "explanation": "Peroxide initiates free radical chain mechanism. Br• adds to the less substituted carbon (anti-Markovnikov) giving 1-bromopropane as major product."
+  },
+  {
+    "id": "chem2-26", "section": "chemistry",
+    "question": "The standard cell potential (E°cell) is related to equilibrium constant (K) at 298 K by:",
+    "options": ["E°cell = (0.0591/n) log K", "E°cell = n log K / 0.0591", "E°cell = -0.0591 log K / n", "E°cell = K/n"],
+    "correct": 0,
+    "explanation": "From ΔG° = -nFE° and ΔG° = -RT ln K: E°cell = (RT/nF) ln K = (0.0591/n) log K at 298 K."
+  },
+  {
+    "id": "chem2-27", "section": "chemistry",
+    "question": "Aldol condensation requires which structural feature in the carbonyl compound?",
+    "options": ["No oxygen atoms", "At least one alpha-hydrogen", "Only aromatic rings", "Halogen atoms on the alpha carbon"],
+    "correct": 1,
+    "explanation": "Aldol condensation requires an alpha-hydrogen to form the enolate/enol intermediate that acts as the nucleophile attacking another carbonyl compound."
+  },
+  {
+    "id": "chem2-28", "section": "chemistry",
+    "question": "Among benzoic acid, phenol, cyclohexanol, and carbonic acid — what is the correct acidity order?",
+    "options": ["Carbonic acid > benzoic acid > phenol > cyclohexanol", "Benzoic acid > carbonic acid > phenol > cyclohexanol", "Phenol > benzoic acid > cyclohexanol > carbonic acid", "Benzoic acid > phenol > carbonic acid > cyclohexanol"],
+    "correct": 1,
+    "explanation": "pKa values: benzoic acid (4.2) < carbonic acid (6.3 first) < phenol (10) < cyclohexanol (16). So acidity: benzoic acid > carbonic acid > phenol > cyclohexanol."
+  },
+  {
+    "id": "chem2-29", "section": "chemistry",
+    "question": "In aqueous solution, the correct basicity order of aliphatic amines is:",
+    "options": ["(CH₃)₂NH > CH₃NH₂ > (CH₃)₃N > NH₃", "(CH₃)₃N > (CH₃)₂NH > CH₃NH₂ > NH₃", "CH₃NH₂ > (CH₃)₂NH > (CH₃)₃N > NH₃", "NH₃ > CH₃NH₂ > (CH₃)₂NH > (CH₃)₃N"],
+    "correct": 0,
+    "explanation": "In water, hydration of the conjugate acid matters. Secondary amines (R₂NH₂⁺) are better solvated than tertiary (R₃NH⁺) because H available for H-bonding. So: (CH₃)₂NH > CH₃NH₂ > (CH₃)₃N > NH₃."
+  },
+  {
+    "id": "chem2-30", "section": "chemistry",
+    "question": "The half-life of a first-order reaction is:",
+    "options": ["Dependent on initial concentration", "Independent of initial concentration; t₁/₂ = 0.693/k", "Directly proportional to initial concentration", "Equal to 1/k"],
+    "correct": 1,
+    "explanation": "For first-order kinetics: [A] = [A]₀e^(-kt). At t₁/₂, [A] = [A]₀/2. Solving: t₁/₂ = ln2/k = 0.693/k. This is independent of initial concentration."
+  },
+  {
+    "id": "chem2-31", "section": "chemistry",
+    "question": "The strongest acid among chlorine oxyacids is:",
+    "options": ["HClO", "HClO₂", "HClO₃", "HClO₄"],
+    "correct": 3,
+    "explanation": "Acid strength increases with number of oxygen atoms: HClO₄ > HClO₃ > HClO₂ > HClO. More O atoms → stronger -I effect → greater O-H bond polarity → easier proton loss."
+  },
+  {
+    "id": "chem2-32", "section": "chemistry",
+    "question": "Which reaction correctly identifies the Fries rearrangement?",
+    "options": ["Ketoxime → amide with AlCl₃", "Phenol ester → ortho- or para-hydroxy aryl ketone using AlCl₃", "Aniline → diazonium salt", "Aldehyde → carboxylic acid in base"],
+    "correct": 1,
+    "explanation": "Fries rearrangement: phenol ester + AlCl₃ → hydroxyl aryl ketone. Low temperature gives para product; high temperature gives ortho product."
+  },
+  {
+    "id": "chem2-33", "section": "chemistry",
+    "question": "The number of unpaired electrons in [Fe(CN)₆]³⁻ is:",
+    "options": ["5", "3", "1", "0"],
+    "correct": 2,
+    "explanation": "Fe³⁺ is d⁵. CN⁻ is a strong-field ligand → low spin complex. d⁵ low spin: t₂g⁵ eg⁰ → 1 unpaired electron."
+  },
+  {
+    "id": "chem2-34", "section": "chemistry",
+    "question": "Linkage isomerism is shown by which pair?",
+    "options": ["[Co(NH₃)₅(NO₂)]Cl₂ and [Co(NH₃)₅(ONO)]Cl₂", "[Co(NH₃)₅Cl]Cl₂ and [Co(NH₃)₅Br]Br₂", "[Pt(NH₃)₂Cl₂] cis and trans forms", "[Cr(H₂O)₆]³⁺ and [Cr(NH₃)₆]³⁺"],
+    "correct": 0,
+    "explanation": "NO₂⁻ can coordinate through N (nitro-N) or O (nitrito-O), giving linkage isomers: [Co(NH₃)₅(NO₂)]²⁺ and [Co(NH₃)₅(ONO)]²⁺."
+  },
+  {
+    "id": "chem2-35", "section": "chemistry",
+    "question": "Which statement correctly explains why electron gain enthalpy of Cl is more negative than that of F?",
+    "options": ["Higher nuclear charge in fluorine", "Smaller size of F causes stronger electron-electron repulsion in the compact 2p orbital", "Chlorine has no p-electrons", "Fluorine has more electron shells"],
+    "correct": 1,
+    "explanation": "In fluorine, the added electron enters a very compact 2p orbital already containing electrons, causing significant electron-electron repulsion. Cl's 3p orbital is larger, so less repulsion."
+  },
+  {
+    "id": "chem2-36", "section": "chemistry",
+    "question": "The diagonal relationship between Li and Mg is demonstrated by the fact that both:",
+    "options": ["Form insoluble hydroxides", "Form predominantly monoxide (Li₂O, MgO), react with N₂ to form nitrides (Li₃N, Mg₃N₂), and both form organolithium/organomagnesium compounds", "Are the largest atoms in their respective groups", "Have the same ionization energy"],
+    "correct": 1,
+    "explanation": "Li-Mg diagonal relationship: both form normal oxides (not peroxides), form nitrides with N₂, have similar charge-to-radius ratios, and form organometallic compounds."
+  },
+  {
+    "id": "chem2-37", "section": "chemistry",
+    "question": "A chiral molecule that is non-superimposable on its mirror image is called:",
+    "options": ["Meso compound", "Enantiomer pair — each individual is an enantiomer", "Constitutional isomer", "Geometric isomer"],
+    "correct": 1,
+    "explanation": "Each member of a pair of non-superimposable mirror images is called an enantiomer. They have identical physical properties except optical rotation direction."
+  },
+  {
+    "id": "chem2-38", "section": "chemistry",
+    "question": "Which compound gives a positive iodoform test?",
+    "options": ["Propanal (CH₃CH₂CHO)", "Propan-1-ol (CH₃CH₂CH₂OH)", "Ethanol (CH₃CH₂OH)", "Diethyl ether"],
+    "correct": 2,
+    "explanation": "Iodoform test is positive for compounds with CH₃CO- or CH₃CH(OH)- group. Ethanol (CH₃CH₂OH) → oxidized to ethanal (CH₃CHO) → positive test. Propanal lacks CH₃CO- group."
+  },
+  {
+    "id": "chem2-39", "section": "chemistry",
+    "question": "PCC (pyridinium chlorochromate) is used to oxidize primary alcohols to:",
+    "options": ["Carboxylic acids", "Aldehydes (stops at aldehyde stage)", "Ketones", "Alkenes"],
+    "correct": 1,
+    "explanation": "PCC is a mild oxidizing agent in CH₂Cl₂. It oxidizes primary alcohols → aldehydes and secondary alcohols → ketones, but does NOT further oxidize aldehydes to carboxylic acids."
+  },
+  {
+    "id": "chem2-40", "section": "chemistry",
+    "question": "At physiological pH (~7.4), amino acids exist predominantly as:",
+    "options": ["Cations (fully protonated)", "Zwitterions (NH₃⁺ and COO⁻ forms)", "Anions (fully deprotonated)", "Neutral undissociated molecules"],
+    "correct": 1,
+    "explanation": "At physiological pH (between pKa1 ~2.1 and pKa2 ~9.7 of most amino acids), the zwitterionic form (⁺NH₃-CHR-COO⁻) predominates."
+  },
+  {
+    "id": "chem2-41", "section": "chemistry",
+    "question": "Which of the following is NOT a correct statement about Nylon-6,6?",
+    "options": ["It is a condensation polymer", "It is formed from hexamethylene diamine and adipic acid", "It contains peptide (amide) linkages", "It is formed by addition polymerization of caprolactam"],
+    "correct": 3,
+    "explanation": "Nylon-6,6 is made by condensation of hexamethylene diamine + adipic acid (both 6-carbon compounds, hence 6,6). Nylon-6 is made from caprolactam by ring-opening polymerization."
+  },
+  {
+    "id": "chem2-42", "section": "chemistry",
+    "question": "For an exothermic equilibrium, increasing temperature:",
+    "options": ["Shifts equilibrium toward products and increases Kp", "Shifts equilibrium toward reactants and decreases Kp (Le Chatelier)", "Does not affect Kp", "Increases Kp and shifts toward reactants"],
+    "correct": 1,
+    "explanation": "For exothermic reactions, heat is a product. Increasing temperature shifts equilibrium to consume heat — toward reactants. This decreases Kp (temperature is the only factor affecting K)."
+  },
+  {
+    "id": "chem2-43", "section": "chemistry",
+    "question": "The solubility product (Ksp) of BaSO₄ is 1.1 × 10⁻¹⁰. Its molar solubility in pure water is:",
+    "options": ["1.1 × 10⁻¹⁰ mol/L", "1.05 × 10⁻⁵ mol/L", "1.1 × 10⁻⁵ mol/L", "5.5 × 10⁻¹¹ mol/L"],
+    "correct": 1,
+    "explanation": "BaSO₄ → Ba²⁺ + SO₄²⁻. Ksp = s² = 1.1 × 10⁻¹⁰. s = √(1.1 × 10⁻¹⁰) = 1.049 × 10⁻⁵ ≈ 1.05 × 10⁻⁵ mol/L."
+  },
+  {
+    "id": "chem2-44", "section": "chemistry",
+    "question": "The Arrhenius equation k = Ae^(-Ea/RT) predicts that on increasing temperature:",
+    "options": ["Rate constant decreases exponentially", "Rate constant increases because the exponential term e^(-Ea/RT) increases (becomes less negative in exponent)", "Activation energy Ea changes", "Frequency factor A decreases"],
+    "correct": 1,
+    "explanation": "As T increases, -Ea/RT becomes less negative → e^(-Ea/RT) increases → k increases. This explains why most reactions are faster at higher temperatures."
+  },
+  {
+    "id": "chem2-45", "section": "chemistry",
+    "question": "In a galvanic cell, the salt bridge serves to:",
+    "options": ["Transfer electrons between half-cells", "Maintain electrical neutrality by allowing ion migration between the two half-cell solutions", "Speed up the oxidation reaction", "Reduce internal resistance of the wire"],
+    "correct": 1,
+    "explanation": "As oxidation and reduction occur in separate half-cells, charge builds up. The salt bridge allows ions (K⁺ and NO₃⁻ or Cl⁻) to migrate and maintain electrical neutrality, completing the circuit."
+  }
+]

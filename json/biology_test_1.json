@@ -1,0 +1,1157 @@
+[
+  {
+    "id": "bio-1",
+    "section": "biology",
+    "question": "Which feature best explains why the plasma membrane is described as a 'fluid mosaic'?",
+    "options": [
+      "It is made only of phospholipids",
+      "Its lipids and proteins can move laterally within the membrane",
+      "It is rigid and non-dynamic",
+      "It has cellulose embedded in it"
+    ],
+    "correct": 1,
+    "explanation": "The membrane is fluid because components can move laterally, and mosaic because it contains a mix of proteins and lipids."
+  },
+  {
+    "id": "bio-2",
+    "section": "biology",
+    "question": "A cell placed in a hypertonic solution will usually undergo which change?",
+    "options": [
+      "Endosmosis and swelling",
+      "Plasmolysis or shrinking",
+      "No change in volume",
+      "Bursting due to excess water entry"
+    ],
+    "correct": 1,
+    "explanation": "In a hypertonic solution, water moves out of the cell, causing shrinkage or plasmolysis."
+  },
+  {
+    "id": "bio-3",
+    "section": "biology",
+    "question": "Which organelle is correctly matched with its main function?",
+    "options": [
+      "Golgi apparatus — protein synthesis",
+      "Ribosome — lipid synthesis",
+      "Lysosome — intracellular digestion",
+      "Centrosome — ATP production"
+    ],
+    "correct": 2,
+    "explanation": "Lysosomes contain hydrolytic enzymes and function in intracellular digestion."
+  },
+  {
+    "id": "bio-4",
+    "section": "biology",
+    "question": "Which statement about enzymes is correct?",
+    "options": [
+      "They increase activation energy",
+      "They are consumed during the reaction",
+      "They lower activation energy without being consumed",
+      "They work only at 100°C"
+    ],
+    "correct": 2,
+    "explanation": "Enzymes are biological catalysts that lower activation energy and are not used up."
+  },
+  {
+    "id": "bio-5",
+    "section": "biology",
+    "question": "Amino acids are linked in proteins by which type of bond?",
+    "options": [
+      "Glycosidic bond",
+      "Peptide bond",
+      "Phosphodiester bond",
+      "Hydrogen bond"
+    ],
+    "correct": 1,
+    "explanation": "A peptide bond forms between the carboxyl group of one amino acid and the amino group of another."
+  },
+  {
+    "id": "bio-6",
+    "section": "biology",
+    "question": "Which of the following is an example of a non-reducing sugar?",
+    "options": [
+      "Glucose",
+      "Fructose",
+      "Sucrose",
+      "Maltose"
+    ],
+    "correct": 2,
+    "explanation": "Sucrose is non-reducing because both anomeric carbons are involved in the glycosidic bond."
+  },
+  {
+    "id": "bio-7",
+    "section": "biology",
+    "question": "The main site of ATP synthesis during photosynthesis is:",
+    "options": [
+      "Stroma",
+      "Thylakoid membrane",
+      "Outer chloroplast membrane",
+      "Cytosol"
+    ],
+    "correct": 1,
+    "explanation": "ATP is formed during photophosphorylation on the thylakoid membrane."
+  },
+  {
+    "id": "bio-8",
+    "section": "biology",
+    "question": "Which factor most directly reduces photorespiration in C4 plants?",
+    "options": [
+      "Low oxygen concentration in all leaf cells",
+      "High CO2 concentration near RuBisCO",
+      "Absence of chlorophyll b",
+      "Lack of stomata"
+    ],
+    "correct": 1,
+    "explanation": "C4 plants concentrate CO2 around RuBisCO in bundle sheath cells, reducing photorespiration."
+  },
+  {
+    "id": "bio-9",
+    "section": "biology",
+    "question": "During the light reaction of photosynthesis, which molecule is split to release oxygen?",
+    "options": [
+      "CO2",
+      "Glucose",
+      "Water",
+      "ATP"
+    ],
+    "correct": 2,
+    "explanation": "Photolysis of water releases oxygen, electrons, and protons."
+  },
+  {
+    "id": "bio-10",
+    "section": "biology",
+    "question": "Which plant hormone is most associated with apical dominance?",
+    "options": [
+      "Auxin",
+      "Ethylene",
+      "Cytokinin",
+      "Gibberellin"
+    ],
+    "correct": 0,
+    "explanation": "Auxin produced by the apical bud suppresses lateral bud growth."
+  },
+  {
+    "id": "bio-11",
+    "section": "biology",
+    "question": "Which of the following is true about transpiration?",
+    "options": [
+      "It occurs only at night",
+      "It helps in upward movement of water in plants",
+      "It does not affect mineral transport",
+      "It happens only through roots"
+    ],
+    "correct": 1,
+    "explanation": "Transpiration creates transpirational pull, aiding ascent of sap."
+  },
+  {
+    "id": "bio-12",
+    "section": "biology",
+    "question": "The gaseous exchange in lungs primarily occurs at the:",
+    "options": [
+      "Trachea",
+      "Bronchi",
+      "Alveoli",
+      "Diaphragm"
+    ],
+    "correct": 2,
+    "explanation": "Alveoli have a large surface area and thin walls for diffusion of gases."
+  },
+  {
+    "id": "bio-13",
+    "section": "biology",
+    "question": "The oxygen-carrying pigment in human red blood cells is:",
+    "options": [
+      "Myoglobin",
+      "Hemoglobin",
+      "Chlorophyll",
+      "Carotene"
+    ],
+    "correct": 1,
+    "explanation": "Hemoglobin binds oxygen reversibly in erythrocytes."
+  },
+  {
+    "id": "bio-14",
+    "section": "biology",
+    "question": "Which component of blood is primarily responsible for clotting?",
+    "options": [
+      "RBCs",
+      "Platelets",
+      "Neutrophils",
+      "Plasma glucose"
+    ],
+    "correct": 1,
+    "explanation": "Platelets help initiate blood clot formation."
+  },
+  {
+    "id": "bio-15",
+    "section": "biology",
+    "question": "The functional unit of kidney is the:",
+    "options": [
+      "Neuron",
+      "Nephron",
+      "Alveolus",
+      "Villous"
+    ],
+    "correct": 1,
+    "explanation": "Nephrons filter blood and form urine."
+  },
+  {
+    "id": "bio-16",
+    "section": "biology",
+    "question": "Which hormone increases water reabsorption in the kidneys?",
+    "options": [
+      "ADH",
+      "Insulin",
+      "Thyroxine",
+      "Testosterone"
+    ],
+    "correct": 0,
+    "explanation": "ADH promotes water reabsorption in the distal tubule and collecting duct."
+  },
+  {
+    "id": "bio-17",
+    "section": "biology",
+    "question": "The site of fertilization in humans is usually the:",
+    "options": [
+      "Uterus",
+      "Cervix",
+      "Fallopian tube",
+      "Vagina"
+    ],
+    "correct": 2,
+    "explanation": "Fertilization generally occurs in the ampullary-isthmic junction of the fallopian tube."
+  },
+  {
+    "id": "bio-18",
+    "section": "biology",
+    "question": "Which part of the brain controls balance and coordination?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Hypothalamus",
+      "Medulla oblongata"
+    ],
+    "correct": 1,
+    "explanation": "The cerebellum coordinates voluntary movements and maintains posture and balance."
+  },
+  {
+    "id": "bio-19",
+    "section": "biology",
+    "question": "The basic building block of DNA is:",
+    "options": [
+      "Amino acid",
+      "Nucleotide",
+      "Fatty acid",
+      "Glucose"
+    ],
+    "correct": 1,
+    "explanation": "DNA is made of nucleotides containing sugar, phosphate, and nitrogenous base."
+  },
+  {
+    "id": "bio-20",
+    "section": "biology",
+    "question": "Which enzyme unwinds the DNA double helix during replication?",
+    "options": [
+      "DNA ligase",
+      "Helicase",
+      "Primase",
+      "RNA polymerase"
+    ],
+    "correct": 1,
+    "explanation": "Helicase separates the strands by breaking hydrogen bonds."
+  },
+  {
+    "id": "bio-21",
+    "section": "biology",
+    "question": "Okazaki fragments are formed on the:",
+    "options": [
+      "Leading strand",
+      "Lagging strand",
+      "Template RNA",
+      "mRNA"
+    ],
+    "correct": 1,
+    "explanation": "Discontinuous synthesis on the lagging strand produces Okazaki fragments."
+  },
+  {
+    "id": "bio-22",
+    "section": "biology",
+    "question": "Which statement best describes the genetic code?",
+    "options": [
+      "It is ambiguous",
+      "It is degenerate",
+      "It has no start codon",
+      "It varies completely among all organisms"
+    ],
+    "correct": 1,
+    "explanation": "The genetic code is degenerate because more than one codon can code for the same amino acid."
+  },
+  {
+    "id": "bio-23",
+    "section": "biology",
+    "question": "A cross between two heterozygous individuals for a single trait gives a phenotypic ratio of:",
+    "options": [
+      "1:1",
+      "3:1",
+      "9:3:3:1",
+      "2:1"
+    ],
+    "correct": 1,
+    "explanation": "A monohybrid cross of two heterozygotes typically gives a 3:1 phenotypic ratio."
+  },
+  {
+    "id": "bio-24",
+    "section": "biology",
+    "question": "Which of the following is an example of incomplete dominance?",
+    "options": [
+      "AB blood group",
+      "Red and white flower producing pink offspring",
+      "A trait controlled by many genes",
+      "Linked genes"
+    ],
+    "correct": 1,
+    "explanation": "Incomplete dominance produces an intermediate phenotype in the heterozygote."
+  },
+  {
+    "id": "bio-25",
+    "section": "biology",
+    "question": "Which blood group is considered universal donor in the ABO system with Rh factor ignored?",
+    "options": [
+      "AB",
+      "A",
+      "B",
+      "O"
+    ],
+    "correct": 3,
+    "explanation": "Group O has no A or B antigens, so it is the ABO universal donor."
+  },
+  {
+    "id": "bio-26",
+    "section": "biology",
+    "question": "Which disease is caused by a protozoan parasite?",
+    "options": [
+      "Typhoid",
+      "Malaria",
+      "Tuberculosis",
+      "Diphtheria"
+    ],
+    "correct": 1,
+    "explanation": "Malaria is caused by Plasmodium, a protozoan."
+  },
+  {
+    "id": "bio-27",
+    "section": "biology",
+    "question": "The largest population size that an environment can sustain is called:",
+    "options": [
+      "Natality",
+      "Carrying capacity",
+      "Biomass",
+      "Immigration"
+    ],
+    "correct": 1,
+    "explanation": "Carrying capacity is the maximum population size an environment can support."
+  },
+  {
+    "id": "bio-28",
+    "section": "biology",
+    "question": "In an ecosystem, energy flow is generally:",
+    "options": [
+      "Cyclic",
+      "Bidirectional",
+      "Unidirectional",
+      "Random"
+    ],
+    "correct": 2,
+    "explanation": "Energy flows one way from producers to consumers and then dissipates as heat."
+  },
+  {
+    "id": "bio-29",
+    "section": "biology",
+    "question": "Which of the following is a greenhouse gas?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Helium"
+    ],
+    "correct": 2,
+    "explanation": "Carbon dioxide is one of the major greenhouse gases."
+  },
+  {
+    "id": "bio-30",
+    "section": "biology",
+    "question": "Restriction enzymes are used in biotechnology mainly to:",
+    "options": [
+      "Join DNA fragments",
+      "Cut DNA at specific sites",
+      "Translate proteins",
+      "Replicate chromosomes in meiosis"
+    ],
+    "correct": 1,
+    "explanation": "Restriction endonucleases cut DNA at specific recognition sequences."
+  },
+  {
+    "id": "bio-31",
+    "section": "biology",
+    "question": "In C3 plants, the first stable product of CO2 fixation is:",
+    "options": ["Oxaloacetate", "3-phosphoglycerate", "Malate", "Pyruvate"],
+    "correct": 1,
+    "explanation": "In C3 plants, RuBisCO fixes CO2 to form 3-phosphoglycerate as the first stable product."
+  },
+  {
+    "id": "bio-32",
+    "section": "biology",
+    "question": "Which of the following statements about photorespiration is correct?",
+    "options": [
+      "It occurs only in C4 plants",
+      "It results in loss of fixed carbon and energy",
+      "It increases the efficiency of photosynthesis",
+      "It occurs in the dark only"
+    ],
+    "correct": 1,
+    "explanation": "Photorespiration consumes energy and releases CO2, so it reduces photosynthetic efficiency."
+  },
+  {
+    "id": "bio-33",
+    "section": "biology",
+    "question": "The enzyme RuBisCO is functionally important because it:",
+    "options": [
+      "Synthesizes ATP",
+      "Fixes CO2 in the Calvin cycle",
+      "Splits water molecules",
+      "Produces chlorophyll"
+    ],
+    "correct": 1,
+    "explanation": "RuBisCO catalyzes carboxylation of RuBP in the Calvin cycle."
+  },
+  {
+    "id": "bio-34",
+    "section": "biology",
+    "question": "Which cell organelle is directly involved in packaging and secretion?",
+    "options": [
+      "Mitochondrion",
+      "Golgi apparatus",
+      "Centrosome",
+      "Lysosome"
+    ],
+    "correct": 1,
+    "explanation": "Golgi apparatus modifies, packages, and secretes biomolecules."
+  },
+  {
+    "id": "bio-35",
+    "section": "biology",
+    "question": "Which of the following is the correct sequence of events in transcription?",
+    "options": [
+      "Elongation, initiation, termination",
+      "Initiation, elongation, termination",
+      "Termination, elongation, initiation",
+      "Replication, translation, transcription"
+    ],
+    "correct": 1,
+    "explanation": "Transcription proceeds through initiation, elongation, and termination."
+  },
+  {
+    "id": "bio-36",
+    "section": "biology",
+    "question": "Which part of tRNA carries the amino acid?",
+    "options": [
+      "Anticodon loop",
+      "D loop",
+      "3' acceptor end",
+      "5' end only"
+    ],
+    "correct": 2,
+    "explanation": "The amino acid attaches to the 3' acceptor end of tRNA."
+  },
+  {
+    "id": "bio-37",
+    "section": "biology",
+    "question": "A codon is best defined as a:",
+    "options": [
+      "Triplet of amino acids",
+      "Triplet of nucleotides on mRNA",
+      "Pair of nucleotides on DNA",
+      "Protein segment"
+    ],
+    "correct": 1,
+    "explanation": "A codon is a sequence of three nucleotides on mRNA that codes for an amino acid."
+  },
+  {
+    "id": "bio-38",
+    "section": "biology",
+    "question": "Which of the following is a stop codon?",
+    "options": ["AUG", "UUU", "UAA", "GGC"],
+    "correct": 2,
+    "explanation": "UAA is one of the three stop codons."
+  },
+  {
+    "id": "bio-39",
+    "section": "biology",
+    "question": "In the lac operon, the operator region functions as the site where:",
+    "options": [
+      "RNA polymerase synthesizes RNA",
+      "Repressor binds to block transcription",
+      "mRNA is translated",
+      "Ribosomes assemble"
+    ],
+    "correct": 1,
+    "explanation": "The repressor binds the operator and prevents transcription of structural genes."
+  },
+  {
+    "id": "bio-40",
+    "section": "biology",
+    "question": "Which molecule acts as the inducer in the lac operon?",
+    "options": ["Glucose", "Lactose", "Allolactose", "Galactose"],
+    "correct": 2,
+    "explanation": "Allolactose inactivates the repressor and induces transcription."
+  },
+  {
+    "id": "bio-41",
+    "section": "biology",
+    "question": "Which of the following is a correct pair of homologous organs?",
+    "options": [
+      "Wings of bird and wings of insect",
+      "Forelimb of human and forelimb of whale",
+      "Gills of fish and lungs of bird",
+      "Thorn of Bougainvillea and tendril of pea"
+    ],
+    "correct": 1,
+    "explanation": "Human and whale forelimbs have similar origin and basic structure, so they are homologous."
+  },
+  {
+    "id": "bio-42",
+    "section": "biology",
+    "question": "Which of the following is an analogous organ pair?",
+    "options": [
+      "Forelimb of horse and forelimb of man",
+      "Thorn of Bougainvillea and tendril of Cucurbita",
+      "Wings of bird and wings of insect",
+      "Mouthparts of cockroach and human jaw"
+    ],
+    "correct": 2,
+    "explanation": "Bird wings and insect wings perform the same function but have different origin."
+  },
+  {
+    "id": "bio-43",
+    "section": "biology",
+    "question": "The principle of Hardy-Weinberg equilibrium states that allele frequencies remain constant in the absence of:",
+    "options": [
+      "Mutation, gene flow, genetic drift, recombination, and natural selection",
+      "Only mutation",
+      "Only natural selection",
+      "Only migration"
+    ],
+    "correct": 0,
+    "explanation": "Hardy-Weinberg equilibrium requires absence of all major evolutionary forces."
+  },
+  {
+    "id": "bio-44",
+    "section": "biology",
+    "question": "Which of the following is a source of genetic variation during sexual reproduction?",
+    "options": [
+      "Binary fission",
+      "Crossing over",
+      "Mitosis only",
+      "Clonal propagation"
+    ],
+    "correct": 1,
+    "explanation": "Crossing over during meiosis generates new gene combinations."
+  },
+  {
+    "id": "bio-45",
+    "section": "biology",
+    "question": "Down syndrome is caused by:",
+    "options": [
+      "Monosomy of chromosome 21",
+      "Trisomy of chromosome 21",
+      "Deletion of chromosome X",
+      "Mutation in mitochondrial DNA"
+    ],
+    "correct": 1,
+    "explanation": "Down syndrome is due to trisomy 21."
+  },
+  {
+    "id": "bio-46",
+    "section": "biology",
+    "question": "A person with blood group AB has antibodies against:",
+    "options": [
+      "A only",
+      "B only",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "correct": 3,
+    "explanation": "AB blood group has both antigens and no anti-A or anti-B antibodies."
+  },
+  {
+    "id": "bio-47",
+    "section": "biology",
+    "question": "Rh incompatibility becomes a problem mainly when:",
+    "options": [
+      "Rh-negative mother carries Rh-positive fetus",
+      "Rh-positive mother carries Rh-negative fetus",
+      "Both parents are Rh-negative",
+      "Both parents are Rh-positive"
+    ],
+    "correct": 0,
+    "explanation": "An Rh-negative mother can form antibodies against Rh-positive fetal blood cells."
+  },
+  {
+    "id": "bio-48",
+    "section": "biology",
+    "question": "Which hormone prepares the uterus for implantation and maintenance of pregnancy?",
+    "options": [
+      "Progesterone",
+      "Prolactin",
+      "Oxytocin",
+      "FSH"
+    ],
+    "correct": 0,
+    "explanation": "Progesterone maintains the uterine lining and supports pregnancy."
+  },
+  {
+    "id": "bio-49",
+    "section": "biology",
+    "question": "Which of the following is released by the anterior pituitary?",
+    "options": [
+      "ADH",
+      "Oxytocin",
+      "FSH",
+      "Melatonin"
+    ],
+    "correct": 2,
+    "explanation": "FSH is secreted by the anterior pituitary."
+  },
+  {
+    "id": "bio-50",
+    "section": "biology",
+    "question": "The hormone responsible for milk ejection is:",
+    "options": [
+      "Prolactin",
+      "Oxytocin",
+      "Estrogen",
+      "LH"
+    ],
+    "correct": 1,
+    "explanation": "Oxytocin causes contraction of myoepithelial cells for milk ejection."
+  },
+  {
+    "id": "bio-51",
+    "section": "biology",
+    "question": "During spermatogenesis, meiosis occurs in:",
+    "options": [
+      "Spermatogonia only",
+      "Primary spermatocytes",
+      "Spermatids",
+      "Spermatozoa"
+    ],
+    "correct": 1,
+    "explanation": "Primary spermatocytes undergo meiosis I and II to form spermatids."
+  },
+  {
+    "id": "bio-52",
+    "section": "biology",
+    "question": "Which part of the flower develops into fruit after fertilization?",
+    "options": [
+      "Ovule",
+      "Ovary",
+      "Stigma",
+      "Anther"
+    ],
+    "correct": 1,
+    "explanation": "The ovary develops into fruit after fertilization."
+  },
+  {
+    "id": "bio-53",
+    "section": "biology",
+    "question": "In a typical angiosperm embryo sac, how many nuclei are present at maturity?",
+    "options": [
+      "4",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct": 3,
+    "explanation": "The mature embryo sac is 8-nucleate and 7-celled."
+  },
+  {
+    "id": "bio-54",
+    "section": "biology",
+    "question": "Double fertilization in angiosperms results in the formation of:",
+    "options": [
+      "Embryo only",
+      "Endosperm only",
+      "Embryo and endosperm",
+      "Seed coat only"
+    ],
+    "correct": 2,
+    "explanation": "One male gamete fertilizes the egg to form embryo, and the other forms endosperm with polar nuclei."
+  },
+  {
+    "id": "bio-55",
+    "section": "biology",
+    "question": "Which of the following is a correct match?",
+    "options": [
+      "Sporophyll — leaf bearing sporangia",
+      "Sporophyll — root hair",
+      "Gametophyte — diploid phase",
+      "Zygote — haploid phase"
+    ],
+    "correct": 0,
+    "explanation": "Sporophylls bear sporangia in plants."
+  },
+  {
+    "id": "bio-56",
+    "section": "biology",
+    "question": "Which of the following is a characteristic feature of bryophytes?",
+    "options": [
+      "Dominant sporophyte generation",
+      "Vascular tissue present",
+      "Need water for fertilization",
+      "Seeds are produced"
+    ],
+    "correct": 2,
+    "explanation": "Bryophytes require water for fertilization because male gametes are motile."
+  },
+  {
+    "id": "bio-57",
+    "section": "biology",
+    "question": "Which of the following is true for angiosperms?",
+    "options": [
+      "They produce naked seeds",
+      "They have double fertilization",
+      "They lack vascular tissue",
+      "Their sporophyte is always haploid"
+    ],
+    "correct": 1,
+    "explanation": "Double fertilization is unique to angiosperms."
+  },
+  {
+    "id": "bio-58",
+    "section": "biology",
+    "question": "The key role of mycorrhiza in plants is in:",
+    "options": [
+      "Pollination",
+      "Nitrogen fixation only",
+      "Mineral and water absorption",
+      "Seed dispersal"
+    ],
+    "correct": 2,
+    "explanation": "Mycorrhiza helps plants absorb water and minerals, especially phosphorus."
+  },
+  {
+    "id": "bio-59",
+    "section": "biology",
+    "question": "Which statement best explains why viruses are considered on the borderline of living and non-living?",
+    "options": [
+      "They have cell walls",
+      "They can reproduce independently",
+      "They show life-like activity only inside host cells",
+      "They have mitochondria"
+    ],
+    "correct": 2,
+    "explanation": "Viruses are metabolically inert outside a host but replicate inside living cells."
+  },
+  {
+    "id": "bio-60",
+    "section": "biology",
+    "question": "The first transgenic crop with insect resistance widely known in India is:",
+    "options": [
+      "Golden rice",
+      "Bt cotton",
+      "Flavr Savr tomato",
+      "Roundup Ready soybean"
+    ],
+    "correct": 1,
+    "explanation": "Bt cotton contains a gene from Bacillus thuringiensis that confers insect resistance."
+  },
+  {
+    "id": "bio-61",
+    "section": "biology",
+    "question": "Which of the following techniques is used to amplify a specific DNA segment in vitro?",
+    "options": [
+      "ELISA",
+      "PCR",
+      "Gel electrophoresis",
+      "Chromatography"
+    ],
+    "correct": 1,
+    "explanation": "PCR is used to exponentially amplify DNA segments."
+  },
+  {
+    "id": "bio-62",
+    "section": "biology",
+    "question": "In PCR, which enzyme is commonly used because it is heat stable?",
+    "options": [
+      "Ligase",
+      "Taq polymerase",
+      "Helicase",
+      "Endonuclease"
+    ],
+    "correct": 1,
+    "explanation": "Taq polymerase from Thermus aquaticus withstands high denaturation temperatures."
+  },
+  {
+    "id": "bio-63",
+    "section": "biology",
+    "question": "Restriction endonucleases recognize DNA sequences that are generally:",
+    "options": [
+      "Random and unequal",
+      "Palindromic",
+      "Only in RNA",
+      "Made of amino acids"
+    ],
+    "correct": 1,
+    "explanation": "Restriction enzymes often recognize palindromic DNA sequences."
+  },
+  {
+    "id": "bio-64",
+    "section": "biology",
+    "question": "Which of the following is a vector commonly used in recombinant DNA technology?",
+    "options": [
+      "Ribosome",
+      "Plasmid",
+      "Lysosome",
+      "Centromere"
+    ],
+    "correct": 1,
+    "explanation": "Plasmids are commonly used as cloning vectors."
+  },
+  {
+    "id": "bio-65",
+    "section": "biology",
+    "question": "The function of selectable markers in cloning is to:",
+    "options": [
+      "Destroy the host cell",
+      "Help identify transformants",
+      "Increase mutation rate only",
+      "Block transcription permanently"
+    ],
+    "correct": 1,
+    "explanation": "Selectable markers allow identification of cells that have taken up recombinant DNA."
+  },
+  {
+    "id": "bio-66",
+    "section": "biology",
+    "question": "Biopiracy refers to:",
+    "options": [
+      "Illegal cloning of animals",
+      "Unauthorized use of biological resources and traditional knowledge",
+      "Gene therapy for rare diseases",
+      "Mutation in bacteria"
+    ],
+    "correct": 1,
+    "explanation": "Biopiracy is the exploitation of biological resources or knowledge without proper authorization or benefit sharing."
+  },
+  {
+    "id": "bio-67",
+    "section": "biology",
+    "question": "Which of the following is a correct example of ex-situ conservation?",
+    "options": [
+      "National park",
+      "Wildlife sanctuary",
+      "Seed bank",
+      "Biosphere reserve"
+    ],
+    "correct": 2,
+    "explanation": "Seed banks conserve germplasm outside the natural habitat."
+  },
+  {
+    "id": "bio-68",
+    "section": "biology",
+    "question": "Biodiversity hotspot is a region that is:",
+    "options": [
+      "Low in endemism and low in threat",
+      "High in endemism and under serious threat",
+      "High in rainfall only",
+      "Strictly marine"
+    ],
+    "correct": 1,
+    "explanation": "Hotspots are rich in endemic species and highly threatened."
+  },
+  {
+    "id": "bio-69",
+    "section": "biology",
+    "question": "The trophic level with the least energy available is usually:",
+    "options": [
+      "Producers",
+      "Primary consumers",
+      "Secondary consumers",
+      "Tertiary consumers"
+    ],
+    "correct": 3,
+    "explanation": "Energy decreases at each trophic level, so tertiary consumers receive the least."
+  },
+  {
+    "id": "bio-70",
+    "section": "biology",
+    "question": "A food web is more stable than a food chain because it:",
+    "options": [
+      "Has only one feeding pathway",
+      "Has multiple interconnections and alternate pathways",
+      "Contains no producers",
+      "Eliminates energy loss"
+    ],
+    "correct": 1,
+    "explanation": "Multiple pathways provide resilience when one link is disturbed."
+  },
+  {
+    "id": "bio-71",
+    "section": "biology",
+    "question": "Which of the following causes biomagnification?",
+    "options": [
+      "Non-biodegradable pollutant accumulation along trophic levels",
+      "Seasonal rainfall",
+      "Photosynthesis",
+      "Mutation in chlorophyll"
+    ],
+    "correct": 0,
+    "explanation": "Persistent pollutants become more concentrated at higher trophic levels."
+  },
+  {
+    "id": "bio-72",
+    "section": "biology",
+    "question": "The pioneer species in a bare rock succession are generally:",
+    "options": [
+      "Large trees",
+      "Lichens",
+      "Fish",
+      "Mosses only"
+    ],
+    "correct": 1,
+    "explanation": "Lichens are pioneers in primary succession on bare rocks."
+  },
+  {
+    "id": "bio-73",
+    "section": "biology",
+    "question": "Which of the following is an example of commensalism?",
+    "options": [
+      "Lichen",
+      "Cattle egret and grazing cattle",
+      "Parasitic worm and human",
+      "Lion and deer"
+    ],
+    "correct": 1,
+    "explanation": "The egret benefits while the cattle are neither helped nor harmed significantly."
+  },
+  {
+    "id": "bio-74",
+    "section": "biology",
+    "question": "A mutualistic interaction is one in which:",
+    "options": [
+      "Both species are harmed",
+      "One benefits and the other is harmed",
+      "Both species benefit",
+      "Neither species is affected"
+    ],
+    "correct": 2,
+    "explanation": "Mutualism benefits both interacting species."
+  },
+  {
+    "id": "bio-75",
+    "section": "biology",
+    "question": "Which immune cell is primarily responsible for antibody production?",
+    "options": [
+      "T helper cells",
+      "B lymphocytes",
+      "Neutrophils",
+      "Macrophages"
+    ],
+    "correct": 1,
+    "explanation": "B lymphocytes differentiate into plasma cells that secrete antibodies."
+  },
+  {
+    "id": "bio-76",
+    "section": "biology",
+    "question": "The primary immune response is generally:",
+    "options": [
+      "Faster and stronger than secondary response",
+      "Slower and weaker than secondary response",
+      "Identical to secondary response",
+      "Independent of memory cells"
+    ],
+    "correct": 1,
+    "explanation": "Primary response is slower because memory cells have not yet formed."
+  },
+  {
+    "id": "bio-77",
+    "section": "biology",
+    "question": "Vaccination works mainly by inducing:",
+    "options": [
+      "Natural passive immunity",
+      "Active acquired immunity",
+      "Innate immunity only",
+      "Autoimmunity"
+    ],
+    "correct": 1,
+    "explanation": "Vaccination stimulates the body to produce its own immune response and memory."
+  },
+  {
+    "id": "bio-78",
+    "section": "biology",
+    "question": "Which of the following is a correct match for disease and causative agent?",
+    "options": [
+      "AIDS — Plasmodium",
+      "Malaria — Plasmodium",
+      "Ringworm — Virus",
+      "Typhoid — Protozoa"
+    ],
+    "correct": 1,
+    "explanation": "Malaria is caused by Plasmodium, a protozoan parasite."
+  },
+  {
+    "id": "bio-79",
+    "section": "biology",
+    "question": "Which of the following is a nitrogen-fixing bacterium found in legume root nodules?",
+    "options": [
+      "Nitrobacter",
+      "Rhizobium",
+      "Lactobacillus",
+      "Streptococcus"
+    ],
+    "correct": 1,
+    "explanation": "Rhizobium lives symbiotically in legume root nodules and fixes nitrogen."
+  },
+  {
+    "id": "bio-80",
+    "section": "biology",
+    "question": "Which enzyme is used by retroviruses to synthesize DNA from RNA?",
+    "options": [
+      "DNA ligase",
+      "Reverse transcriptase",
+      "Primase",
+      "Amylase"
+    ],
+    "correct": 1,
+    "explanation": "Reverse transcriptase converts viral RNA into complementary DNA."
+  },
+  {
+    "id": "bio-81",
+    "section": "biology",
+    "question": "Which of the following is not a characteristic of fungi?",
+    "options": [
+      "Cell wall made of chitin",
+      "Heterotrophic nutrition",
+      "Photosynthetic pigments present",
+      "Hyphal organization in many forms"
+    ],
+    "correct": 2,
+    "explanation": "Fungi are non-photosynthetic and lack chlorophyll."
+  },
+  {
+    "id": "bio-82",
+    "section": "biology",
+    "question": "In a bacterial cell, the genetic material is usually present as:",
+    "options": [
+      "Membrane-bound nucleus",
+      "Circular naked DNA",
+      "Multiple linear chromosomes with histones",
+      "RNA only"
+    ],
+    "correct": 1,
+    "explanation": "Bacterial DNA is generally circular and not enclosed by a nuclear membrane."
+  },
+  {
+    "id": "bio-83",
+    "section": "biology",
+    "question": "Which feature is common to both mitochondria and chloroplasts?",
+    "options": [
+      "No membranes",
+      "Own DNA and ribosomes",
+      "Only found in prokaryotes",
+      "No role in energy conversion"
+    ],
+    "correct": 1,
+    "explanation": "Both are semi-autonomous organelles with their own DNA and ribosomes."
+  },
+  {
+    "id": "bio-84",
+    "section": "biology",
+    "question": "Which of the following best explains why DNA replication is called semi-conservative?",
+    "options": [
+      "Both parental strands are destroyed",
+      "Each daughter DNA has one parental and one newly synthesized strand",
+      "Only one strand is copied",
+      "Replication occurs only in one direction"
+    ],
+    "correct": 1,
+    "explanation": "Each new DNA molecule retains one old strand and one new strand."
+  },
+  {
+    "id": "bio-85",
+    "section": "biology",
+    "question": "A point mutation generally involves:",
+    "options": [
+      "Change in a single nucleotide base",
+      "Deletion of a whole chromosome",
+      "Duplication of the entire genome",
+      "Crossing over between homologous chromosomes"
+    ],
+    "correct": 0,
+    "explanation": "A point mutation is a change in one nucleotide or base pair."
+  },
+  {
+    "id": "bio-86",
+    "section": "biology",
+    "question": "Which of the following is an example of inbreeding depression?",
+    "options": [
+      "Increased heterozygosity and vigor",
+      "Reduction in fertility and viability due to homozygosity",
+      "Formation of hybrid species",
+      "Natural selection in a large population"
+    ],
+    "correct": 1,
+    "explanation": "Inbreeding increases homozygosity and can expose harmful recessive alleles."
+  },
+  {
+    "id": "bio-87",
+    "section": "biology",
+    "question": "Which one of the following is a post-zygotic reproductive isolation mechanism?",
+    "options": [
+      "Temporal isolation",
+      "Mechanical isolation",
+      "Hybrid sterility",
+      "Behavioral isolation"
+    ],
+    "correct": 2,
+    "explanation": "Hybrid sterility acts after fertilization and prevents fertile offspring."
+  },
+  {
+    "id": "bio-88",
+    "section": "biology",
+    "question": "The major nitrogenous waste in humans is:",
+    "options": [
+      "Ammonia",
+      "Urea",
+      "Uric acid",
+      "Creatinine"
+    ],
+    "correct": 1,
+    "explanation": "Humans are ureotelic and excrete nitrogen mainly as urea."
+  },
+  {
+    "id": "bio-89",
+    "section": "biology",
+    "question": "The process of converting pepsinogen into pepsin occurs in the presence of:",
+    "options": [
+      "Bile salts",
+      "Hydrochloric acid",
+      "Pancreatic juice",
+      "Saliva"
+    ],
+    "correct": 1,
+    "explanation": "HCl in the stomach activates pepsinogen."
+  },
+  {
+    "id": "bio-90",
+    "section": "biology",
+    "question": "Which of the following best describes the role of the placenta?",
+    "options": [
+      "It only protects the fetus mechanically",
+      "It acts as an endocrine and exchange organ between mother and fetus",
+      "It forms sperm cells",
+      "It is present only after birth"
+    ],
+    "correct": 1,
+    "explanation": "Placenta mediates exchange of nutrients, gases, and waste, and also secretes hormones."
+  }
+]
